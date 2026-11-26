@@ -1,0 +1,2 @@
+# Sekai-Nihongo
+nihongo Sekai
