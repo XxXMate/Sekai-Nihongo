@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#355C45">
+  <meta name="description" content="Pilih jalur pembelajaran JLPT N5 sampai N1 di Nihongo Sekai.">
+
+  <title>Materi JLPT — Nihongo Sekai</title>
+
+  <!-- MATERI BARU — FONT SAMA DENGAN HALAMAN V4.9 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <!-- MATERI BARU — CSS UTAMA DAN CSS KHUSUS HALAMAN -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/materi-page.css">
+</head>
+
+<body>
+
+  <!-- MATERI BARU — HEADER MENGIKUTI STRUKTUR V4.9 -->
+  <header class="site-header" id="home">
+    <nav class="navbar" aria-label="Navigasi utama">
+      <a class="logo" href="index.html" aria-label="Nihongo Sekai, kembali ke beranda">
+        <span class="logo-mark" aria-hidden="true">日</span>
+        <span>
+          Nihongo <strong>Sekai</strong>
+          <small>日本語の世界</small>
+        </span>
+      </a>
+
+      <div class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a class="active" href="materi.html" aria-current="page">Materi</a>
+        <a href="tentang.html">Tentang</a>
+      </div>
+
+      <div class="nav-actions">
+        <!-- DARK MODE — FITUR BERSAMA -->
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Aktifkan mode gelap">
+          <span id="themeIcon">🌙</span>
+        </button>
+
+        <!-- HAMBURGER — FITUR BERSAMA -->
+        <button class="menu-toggle" id="menuToggle" type="button" aria-label="Buka menu" aria-controls="navLinks" aria-expanded="false">
+          ☰
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="materi-main">
+
+    <!-- MATERI BARU — PEMBUKA HALAMAN -->
+    <section class="materi-hero page-width" aria-labelledby="materiTitle">
+      <div class="materi-hero-copy">
+        <span class="section-kicker">日本語の学習 · JALUR PEMBELAJARAN</span>
+        <h1 id="materiTitle">Pilih Jalur <span>Belajarmu</span></h1>
+        <p>
+          Mulai dari level yang sesuai, lalu pelajari bahasa Jepang secara
+          bertahap melalui kosakata, kanji, tata bahasa, membaca, dan mendengarkan.
+        </p>
+      </div>
+      <span class="materi-hero-mark" aria-hidden="true">学</span>
+    </section>
+
+    <!-- MATERI BARU — PILIHAN LEVEL JLPT -->
+    <section class="jlpt-section page-width materi-level-section" aria-labelledby="levelTitle">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">PILIH TINGKAT KEMAMPUAN</span>
+          <h2 id="levelTitle">Jalur Pembelajaran JLPT</h2>
+          <p>Pilih salah satu level untuk melihat kategori yang akan dipelajari.</p>
+        </div>
+        <span class="heading-flower" aria-hidden="true">桜</span>
+      </div>
+
+      <div class="jlpt-grid jlpt-path materi-level-grid" role="group" aria-label="Pilihan level JLPT">
+        <!-- MATERI BARU — TOMBOL MENUJU HALAMAN N5 -->
+          <a href="n5.html" class="level-card">
+            <strong>N5</strong>
+            <span>Pemula</span>
+          </a>
+
+        <button class="level-card" type="button" data-level="N4" aria-pressed="false">
+          <strong>N4</strong>
+          <span>Dasar</span>
+        </button>
+
+        <button class="level-card" type="button" data-level="N3" aria-pressed="false">
+          <strong>N3</strong>
+          <span>Menengah</span>
+        </button>
+
+        <button class="level-card" type="button" data-level="N2" aria-pressed="false">
+          <strong>N2</strong>
+          <span>Menengah atas</span>
+        </button>
+
+        <button class="level-card" type="button" data-level="N1" aria-pressed="false">
+          <strong>N1</strong>
+          <span>Mahir</span>
+        </button>
+      </div>
+
+      <!-- MATERI BARU — INFORMASI LEVEL TERPILIH -->
+      <div class="level-info materi-level-info" id="levelInfo" aria-live="polite">
+        <span class="level-info-mark">JLPT</span>
+        <div>
+          <strong id="levelInfoTitle">Pilih level pembelajaran</strong>
+          <p id="levelInfoDescription">
+            Tekan salah satu kartu N5 sampai N1 untuk melihat gambaran jalur belajar.
+          </p>
+        </div>
+      </div>
+
+      <!-- MATERI BARU — LIMA KATEGORI, MUNCUL SETELAH LEVEL DIPILIH -->
+      <section class="materi-categories" id="levelCategories" aria-labelledby="categoryTitle" hidden>
+        <div class="materi-category-heading">
+          <div>
+            <span class="section-kicker">ISI PEMBELAJARAN</span>
+            <h2 id="categoryTitle">Kategori Level N5</h2>
+            <p>Lima bagian utama yang akan dipelajari secara bertahap.</p>
+          </div>
+          <span class="materi-category-mark" aria-hidden="true">五</span>
+        </div>
+
+        <div class="materi-category-grid">
+          <article class="materi-category-card">
+            <span class="materi-category-icon" aria-hidden="true">あ</span>
+            <div>
+              <h3>Kosakata</h3>
+              <p>Mempelajari kata dan ungkapan berdasarkan kelompok tema.</p>
+            </div>
+            <span class="materi-category-note">Kategori belajar</span>
+          </article>
+
+          <article class="materi-category-card">
+            <span class="materi-category-icon" aria-hidden="true">字</span>
+            <div>
+              <h3>Kanji</h3>
+              <p>Mengenal bentuk, cara baca, arti, dan penggunaan kanji.</p>
+            </div>
+            <span class="materi-category-note">Kategori belajar</span>
+          </article>
+
+          <article class="materi-category-card">
+            <span class="materi-category-icon" aria-hidden="true">文</span>
+            <div>
+              <h3>Tata Bahasa</h3>
+              <p>Memahami partikel, pola kalimat, dan cara penggunaannya.</p>
+            </div>
+            <span class="materi-category-note">Kategori belajar</span>
+          </article>
+
+          <article class="materi-category-card">
+            <span class="materi-category-icon" aria-hidden="true">読</span>
+            <div>
+              <h3>Membaca</h3>
+              <p>Berlatih memahami kalimat, teks pendek, dan informasi tertulis.</p>
+            </div>
+            <span class="materi-category-note">Kategori belajar</span>
+          </article>
+
+          <article class="materi-category-card">
+            <span class="materi-category-icon" aria-hidden="true">聴</span>
+            <div>
+              <h3>Mendengarkan</h3>
+              <p>Berlatih memahami pengucapan, percakapan, dan informasi lisan.</p>
+            </div>
+            <span class="materi-category-note">Kategori belajar</span>
+          </article>
+        </div>
+
+        <p class="coming-note materi-coming-note">
+          Bab, materi, latihan, pembahasan, dan penanda perkembangan akan
+          dihubungkan pada tahap pengembangan kategori berikutnya.
+        </p>
+      </section>
+    </section>
+
+  </main>
+
+  <!-- MATERI BARU — FOOTER MENGIKUTI V4.9 -->
+  <footer class="footer">
+    <p class="footer-jp">がんばって！</p>
+    <p>Semangat belajar bahasa Jepang 🌸</p>
+    <small>© <span id="year">2026</span> Nihongo Sekai</small>
+  </footer>
+
+  <!-- MATERI BARU — SCRIPT BERSAMA DAN SCRIPT KHUSUS HALAMAN -->
+  <script src="js/script.js"></script>
+  <script src="js/materi-page.js"></script>
+
+</body>
+</html>

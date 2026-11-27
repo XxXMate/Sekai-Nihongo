@@ -1,0 +1,317 @@
+/* ==========================================
+   MATERI BARU — HALAMAN JALUR PEMBELAJARAN
+   CSS khusus halaman materi.html
+========================================== */
+
+.materi-main {
+  padding-bottom: 70px;
+}
+
+/* MATERI BARU — PEMBUKA HALAMAN */
+.materi-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  margin-top: 28px;
+  padding: 34px 38px;
+  border: 1px solid #e5e2d5;
+  border-radius: 24px;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.materi-hero-copy {
+  max-width: 720px;
+}
+
+.materi-hero h1 {
+  margin-top: 7px;
+  color: var(--forest);
+  font-size: clamp(30px, 4vw, 43px);
+  line-height: 1.2;
+  letter-spacing: -1px;
+}
+
+.materi-hero h1 span {
+  color: #8fa98a;
+}
+
+.materi-hero p {
+  max-width: 650px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.materi-hero-mark {
+  display: grid;
+  flex: 0 0 104px;
+  place-items: center;
+  width: 104px;
+  height: 104px;
+  border-radius: 27px;
+  background: var(--sage-light);
+  color: var(--forest);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 52px;
+}
+
+/* MATERI BARU — AREA PILIHAN LEVEL */
+.materi-level-section {
+  padding-top: 42px;
+  padding-bottom: 20px;
+}
+
+.materi-level-section .section-heading {
+  align-items: center;
+}
+
+.materi-level-grid {
+  margin-top: 18px;
+}
+
+.materi-level-info {
+  min-height: 90px;
+}
+
+/* MATERI BARU — KATEGORI PEMBELAJARAN */
+.materi-categories {
+  margin-top: 34px;
+  padding-top: 28px;
+  border-top: 1px solid var(--line);
+}
+
+.materi-category-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.materi-category-heading h2 {
+  margin-top: 5px;
+  color: var(--forest);
+  font-size: 25px;
+  letter-spacing: -.5px;
+}
+
+.materi-category-heading p {
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.materi-category-mark {
+  color: #c98f87;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 37px;
+}
+
+.materi-category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 13px;
+}
+
+.materi-category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 188px;
+  padding: 19px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--paper);
+  box-shadow: 0 6px 18px rgba(53, 92, 69, .05);
+}
+
+.materi-category-icon {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  margin-bottom: 12px;
+  border-radius: 14px;
+  background: var(--sage-light);
+  color: var(--forest);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 27px;
+}
+
+.materi-category-card h3 {
+  color: var(--forest);
+  font-size: 16px;
+}
+
+.materi-category-card p {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.65;
+}
+
+.materi-category-note {
+  margin-top: auto;
+  padding-top: 14px;
+  color: #8a806e;
+  font-size: 10px;
+}
+
+.materi-coming-note {
+  margin-top: 17px;
+  text-align: left;
+  line-height: 1.7;
+}
+
+/* MATERI BARU — DARK MODE */
+body.dark-mode .materi-hero,
+body.dark-mode .materi-category-card {
+  border-color: #394354;
+  background: #222938;
+}
+
+body.dark-mode .materi-hero h1,
+body.dark-mode .materi-category-heading h2,
+body.dark-mode .materi-category-card h3 {
+  color: #dce9d8;
+}
+
+body.dark-mode .materi-hero p,
+body.dark-mode .materi-category-heading p,
+body.dark-mode .materi-category-card p {
+  color: #c0c8c2;
+}
+
+body.dark-mode .materi-hero-mark,
+body.dark-mode .materi-category-icon {
+  background: #354437;
+  color: #dce9d8;
+}
+
+body.dark-mode .materi-categories {
+  border-top-color: #394354;
+}
+
+body.dark-mode .materi-level-info {
+  border-color: #394354;
+  background: #222938;
+}
+
+body.dark-mode .materi-level-info strong,
+body.dark-mode .materi-level-info p {
+  color: #dce9d8;
+}
+
+/* MATERI BARU — RESPONSIF TABLET */
+@media (max-width: 900px) {
+  .materi-category-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* MATERI BARU — RESPONSIF HP */
+@media (max-width: 700px) {
+  .materi-main {
+    padding-bottom: 45px;
+  }
+
+  .materi-hero {
+    width: calc(100% - 24px);
+    gap: 12px;
+    margin-top: 14px;
+    padding: 23px 19px;
+    border-radius: 20px;
+  }
+
+  .materi-hero h1 {
+    font-size: clamp(27px, 8vw, 35px);
+  }
+
+  .materi-hero p {
+    font-size: 12px;
+  }
+
+  .materi-hero-mark {
+    flex-basis: 62px;
+    width: 62px;
+    height: 62px;
+    border-radius: 17px;
+    font-size: 32px;
+  }
+
+  .materi-level-section {
+    padding-top: 32px;
+  }
+
+  .materi-category-heading h2 {
+    font-size: 20px;
+  }
+
+  .materi-category-heading p {
+    font-size: 11px;
+  }
+
+  .materi-category-mark {
+    font-size: 29px;
+  }
+
+  .materi-category-grid {
+    gap: 9px;
+  }
+
+  .materi-category-card {
+    min-height: 178px;
+    padding: 13px;
+    border-radius: 15px;
+  }
+
+  .materi-category-icon {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 9px;
+    font-size: 22px;
+  }
+
+  .materi-category-card h3 {
+    font-size: 14px;
+  }
+
+  .materi-category-card p {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 380px) {
+  .materi-hero-mark {
+    display: none;
+  }
+
+  .materi-category-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .materi-category-card {
+    min-height: 0;
+  }
+}
+
+/* ======================================================
+   PENINGKATAN KENYAMANAN HP — HALAMAN MATERI JLPT
+====================================================== */
+@media (max-width: 700px) {
+  .materi-hero p,
+  .materi-category-card p {
+    font-size: 12px;
+    line-height: 1.7;
+  }
+
+  .materi-category-heading p {
+    font-size: 12px;
+  }
+
+  .materi-category-note {
+    font-size: 11px;
+  }
+}

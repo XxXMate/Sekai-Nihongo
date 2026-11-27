@@ -1,0 +1,534 @@
+{
+  "groups": [
+    {
+      "number": 5,
+      "title": "Kata Kerja Dasar",
+      "description": "Mengenal tiga kelompok kata kerja dasar bahasa Jepang.",
+      "note": {
+        "title": "Catatan Jenis Kata Kerja",
+        "intro": "Godan (U-verb): perubahan mengikuti lima baris vokal (あ・い・う・え・お). Ichidan (Ru-verb): umumnya hilangkan る sebelum menambahkan akhiran. Irregular: する dan くる memiliki perubahan khusus; kata gabungan 〜する mengikuti pola する.",
+        "footer": "Perhatian: tidak semua kata kerja berakhiran いる atau える termasuk Ichidan. Contohnya かえる (帰る) dan はいる (入る) termasuk Godan."
+      },
+      "subgroups": [
+        {
+          "number": "5.1",
+          "title": "Godan (U-verb) (五段動詞・ごだんどうし)",
+          "words": [
+            {
+              "jp": "あう (会う)",
+              "romaji": "Au",
+              "meaning": "Bertemu",
+              "label": "Umum",
+              "audio": "あう",
+              "example": "あした、ともだちに会います。",
+              "exampleRomaji": "Ashita, tomodachi ni aimasu.",
+              "translation": "Besok saya bertemu teman."
+            },
+            {
+              "jp": "あそぶ (遊ぶ)",
+              "romaji": "Asobu",
+              "meaning": "Bermain",
+              "label": "Umum",
+              "audio": "あそぶ",
+              "example": "日曜日に公園で遊びます。",
+              "exampleRomaji": "Nichiyoubi ni kouen de asobimasu.",
+              "translation": "Saya bermain di taman pada hari Minggu."
+            },
+            {
+              "jp": "ある (有る)",
+              "romaji": "Aru",
+              "meaning": "Ada (benda)",
+              "label": "Umum",
+              "audio": "ある",
+              "example": "つくえの上に本があります。",
+              "exampleRomaji": "Tsukue no ue ni hon ga arimasu.",
+              "translation": "Ada buku di atas meja."
+            },
+            {
+              "jp": "いく (行く)",
+              "romaji": "Iku",
+              "meaning": "Pergi",
+              "label": "Umum",
+              "audio": "いく",
+              "example": "毎日学校へ行きます。",
+              "exampleRomaji": "Mainichi gakkou e ikimasu.",
+              "translation": "Saya pergi ke sekolah setiap hari."
+            },
+            {
+              "jp": "おわる (終わる)",
+              "romaji": "Owaru",
+              "meaning": "Selesai",
+              "label": "Umum",
+              "audio": "おわる",
+              "example": "授業は三時に終わります。",
+              "exampleRomaji": "Jugyou wa sanji ni owarimasu.",
+              "translation": "Pelajaran selesai pukul tiga."
+            },
+            {
+              "jp": "かう (買う)",
+              "romaji": "Kau",
+              "meaning": "Membeli",
+              "label": "Umum",
+              "audio": "かう",
+              "example": "スーパーでパンを買います。",
+              "exampleRomaji": "Suupaa de pan o kaimasu.",
+              "translation": "Saya membeli roti di supermarket."
+            },
+            {
+              "jp": "かく (書く)",
+              "romaji": "Kaku",
+              "meaning": "Menulis",
+              "label": "Umum",
+              "audio": "かく",
+              "example": "ノートに名前を書きます。",
+              "exampleRomaji": "Nooto ni namae o kakimasu.",
+              "translation": "Saya menulis nama di buku catatan."
+            },
+            {
+              "jp": "かえる (帰る)",
+              "romaji": "Kaeru",
+              "meaning": "Pulang",
+              "label": "Umum",
+              "audio": "かえる",
+              "example": "六時に家へ帰ります。",
+              "exampleRomaji": "Rokuji ni ie e kaerimasu.",
+              "translation": "Saya pulang ke rumah pukul enam."
+            },
+            {
+              "jp": "きく (聞く)",
+              "romaji": "Kiku",
+              "meaning": "Mendengar / bertanya",
+              "label": "Umum",
+              "audio": "きく",
+              "example": "先生の話をよく聞きます。",
+              "exampleRomaji": "Sensei no hanashi o yoku kikimasu.",
+              "translation": "Saya mendengarkan penjelasan guru dengan baik."
+            },
+            {
+              "jp": "けす (消す)",
+              "romaji": "Kesu",
+              "meaning": "Menghapus / mematikan",
+              "label": "Umum",
+              "audio": "けす",
+              "example": "寝る前に電気を消します。",
+              "exampleRomaji": "Neru mae ni denki o keshimasu.",
+              "translation": "Saya mematikan lampu sebelum tidur."
+            },
+            {
+              "jp": "しぬ (死ぬ)",
+              "romaji": "Shinu",
+              "meaning": "Meninggal",
+              "label": "Umum",
+              "audio": "しぬ",
+              "example": "その犬は去年死にました。",
+              "exampleRomaji": "Sono inu wa kyonen shinimashita.",
+              "translation": "Anjing itu meninggal tahun lalu."
+            },
+            {
+              "jp": "しる (知る)",
+              "romaji": "Shiru",
+              "meaning": "Mengetahui",
+              "label": "Umum",
+              "audio": "しる",
+              "example": "その人を知っています。",
+              "exampleRomaji": "Sono hito o shitte imasu.",
+              "translation": "Saya mengenal orang itu."
+            },
+            {
+              "jp": "すわる (座る)",
+              "romaji": "Suwaru",
+              "meaning": "Duduk",
+              "label": "Umum",
+              "audio": "すわる",
+              "example": "ここに座ってください。",
+              "exampleRomaji": "Koko ni suwatte kudasai.",
+              "translation": "Silakan duduk di sini."
+            },
+            {
+              "jp": "たつ (立つ)",
+              "romaji": "Tatsu",
+              "meaning": "Berdiri",
+              "label": "Umum",
+              "audio": "たつ",
+              "example": "ここに立ってください。",
+              "exampleRomaji": "Koko ni tatte kudasai.",
+              "translation": "Silakan berdiri di sini."
+            },
+            {
+              "jp": "つかう (使う)",
+              "romaji": "Tsukau",
+              "meaning": "Menggunakan",
+              "label": "Umum",
+              "audio": "つかう",
+              "example": "毎日パソコンを使います。",
+              "exampleRomaji": "Mainichi pasokon o tsukaimasu.",
+              "translation": "Saya menggunakan komputer setiap hari."
+            },
+            {
+              "jp": "つくる (作る)",
+              "romaji": "Tsukuru",
+              "meaning": "Membuat",
+              "label": "Umum",
+              "audio": "つくる",
+              "example": "母は晩ご飯を作ります。",
+              "exampleRomaji": "Haha wa bangohan o tsukurimasu.",
+              "translation": "Ibu membuat makan malam."
+            },
+            {
+              "jp": "とる (取る)",
+              "romaji": "Toru",
+              "meaning": "Mengambil",
+              "label": "Umum",
+              "audio": "とる",
+              "example": "かばんから本を取ります。",
+              "exampleRomaji": "Kaban kara hon o torimasu.",
+              "translation": "Saya mengambil buku dari tas."
+            },
+            {
+              "jp": "のむ (飲む)",
+              "romaji": "Nomu",
+              "meaning": "Minum",
+              "label": "Umum",
+              "audio": "のむ",
+              "example": "毎朝、水を飲みます。",
+              "exampleRomaji": "Maiasa, mizu o nomimasu.",
+              "translation": "Saya minum air setiap pagi."
+            },
+            {
+              "jp": "はいる (入る)",
+              "romaji": "Hairu",
+              "meaning": "Masuk",
+              "label": "Umum",
+              "audio": "はいる",
+              "example": "教室に入ります。",
+              "exampleRomaji": "Kyoushitsu ni hairimasu.",
+              "translation": "Saya masuk ke ruang kelas."
+            },
+            {
+              "jp": "はなす (話す)",
+              "romaji": "Hanasu",
+              "meaning": "Berbicara",
+              "label": "Umum",
+              "audio": "はなす",
+              "example": "友だちと日本語で話します。",
+              "exampleRomaji": "Tomodachi to nihongo de hanashimasu.",
+              "translation": "Saya berbicara bahasa Jepang dengan teman."
+            },
+            {
+              "jp": "まつ (待つ)",
+              "romaji": "Matsu",
+              "meaning": "Menunggu",
+              "label": "Umum",
+              "audio": "まつ",
+              "example": "駅で友だちを待ちます。",
+              "exampleRomaji": "Eki de tomodachi o machimasu.",
+              "translation": "Saya menunggu teman di stasiun."
+            },
+            {
+              "jp": "もつ (持つ)",
+              "romaji": "Motsu",
+              "meaning": "Membawa / memegang",
+              "label": "Umum",
+              "audio": "もつ",
+              "example": "大きいかばんを持ちます。",
+              "exampleRomaji": "Ookii kaban o mochimasu.",
+              "translation": "Saya membawa tas besar."
+            },
+            {
+              "jp": "やすむ (休む)",
+              "romaji": "Yasumu",
+              "meaning": "Beristirahat / libur",
+              "label": "Umum",
+              "audio": "やすむ",
+              "example": "日曜日は学校を休みます。",
+              "exampleRomaji": "Nichiyoubi wa gakkou o yasumimasu.",
+              "translation": "Saya libur sekolah pada hari Minggu."
+            },
+            {
+              "jp": "よむ (読む)",
+              "romaji": "Yomu",
+              "meaning": "Membaca",
+              "label": "Umum",
+              "audio": "よむ",
+              "example": "毎晩、本を読みます。",
+              "exampleRomaji": "Maiban, hon o yomimasu.",
+              "translation": "Saya membaca buku setiap malam."
+            },
+            {
+              "jp": "わかる (分かる)",
+              "romaji": "Wakaru",
+              "meaning": "Mengerti",
+              "label": "Umum",
+              "audio": "わかる",
+              "example": "日本語が少し分かります。",
+              "exampleRomaji": "Nihongo ga sukoshi wakarimasu.",
+              "translation": "Saya sedikit mengerti bahasa Jepang。"
+            }
+          ]
+        },
+        {
+          "number": "5.2",
+          "title": "Ichidan (Ru-verb) (一段動詞・いちだんどうし)",
+          "words": [
+            {
+              "jp": "あける (開ける)",
+              "romaji": "Akeru",
+              "meaning": "Membuka",
+              "label": "Umum",
+              "audio": "あける",
+              "example": "窓を開けます。",
+              "exampleRomaji": "Mado o akemasu.",
+              "translation": "Saya membuka jendela."
+            },
+            {
+              "jp": "あげる (上げる)",
+              "romaji": "Ageru",
+              "meaning": "Memberikan",
+              "label": "Umum",
+              "audio": "あげる",
+              "example": "妹にプレゼントをあげます。",
+              "exampleRomaji": "Imouto ni purezento o agemasu.",
+              "translation": "Saya memberikan hadiah kepada adik perempuan."
+            },
+            {
+              "jp": "あびる (浴びる)",
+              "romaji": "Abiru",
+              "meaning": "Mandi / menyiramkan ke tubuh",
+              "label": "Umum",
+              "audio": "あびる",
+              "example": "毎朝、シャワーを浴びます。",
+              "exampleRomaji": "Maiasa, shawaa o abimasu.",
+              "translation": "Saya mandi shower setiap pagi."
+            },
+            {
+              "jp": "いる (居る)",
+              "romaji": "Iru",
+              "meaning": "Ada (orang / hewan)",
+              "label": "Umum",
+              "audio": "いる",
+              "example": "部屋に猫がいます。",
+              "exampleRomaji": "Heya ni neko ga imasu.",
+              "translation": "Ada kucing di kamar."
+            },
+            {
+              "jp": "おしえる (教える)",
+              "romaji": "Oshieru",
+              "meaning": "Mengajar / memberi tahu",
+              "label": "Umum",
+              "audio": "おしえる",
+              "example": "先生は日本語を教えます。",
+              "exampleRomaji": "Sensei wa nihongo o oshiemasu.",
+              "translation": "Guru mengajar bahasa Jepang."
+            },
+            {
+              "jp": "おぼえる (覚える)",
+              "romaji": "Oboeru",
+              "meaning": "Mengingat / menghafal",
+              "label": "Umum",
+              "audio": "おぼえる",
+              "example": "新しい言葉を覚えます。",
+              "exampleRomaji": "Atarashii kotoba o oboemasu.",
+              "translation": "Saya menghafal kosakata baru."
+            },
+            {
+              "jp": "おりる (降りる)",
+              "romaji": "Oriru",
+              "meaning": "Turun (kendaraan)",
+              "label": "Umum",
+              "audio": "おりる",
+              "example": "次の駅で電車を降ります。",
+              "exampleRomaji": "Tsugi no eki de densha o orimasu.",
+              "translation": "Saya turun dari kereta di stasiun berikutnya."
+            },
+            {
+              "jp": "かける (掛ける)",
+              "romaji": "Kakeru",
+              "meaning": "Menelepon / menggantungkan",
+              "label": "Umum",
+              "audio": "かける",
+              "example": "友だちに電話をかけます。",
+              "exampleRomaji": "Tomodachi ni denwa o kakemasu.",
+              "translation": "Saya menelepon teman."
+            },
+            {
+              "jp": "かりる (借りる)",
+              "romaji": "Kariru",
+              "meaning": "Meminjam",
+              "label": "Umum",
+              "audio": "かりる",
+              "example": "図書館で本を借ります。",
+              "exampleRomaji": "Toshokan de hon o karimasu.",
+              "translation": "Saya meminjam buku di perpustakaan."
+            },
+            {
+              "jp": "きる (着る)",
+              "romaji": "Kiru",
+              "meaning": "Memakai (pakaian bagian atas)",
+              "label": "Umum",
+              "audio": "きる",
+              "example": "毎朝、シャツを着ます。",
+              "exampleRomaji": "Maiasa, shatsu o kimasu.",
+              "translation": "Saya memakai kemeja setiap pagi."
+            },
+            {
+              "jp": "しめる (閉める)",
+              "romaji": "Shimeru",
+              "meaning": "Menutup",
+              "label": "Umum",
+              "audio": "しめる",
+              "example": "ドアを閉めます。",
+              "exampleRomaji": "Doa o shimemasu.",
+              "translation": "Saya menutup pintu."
+            },
+            {
+              "jp": "たべる (食べる)",
+              "romaji": "Taberu",
+              "meaning": "Makan",
+              "label": "Umum",
+              "audio": "たべる",
+              "example": "朝ご飯を食べます。",
+              "exampleRomaji": "Asagohan o tabemasu.",
+              "translation": "Saya makan sarapan."
+            },
+            {
+              "jp": "つける (付ける)",
+              "romaji": "Tsukeru",
+              "meaning": "Menyalakan / memasang",
+              "label": "Umum",
+              "audio": "つける",
+              "example": "部屋の電気をつけます。",
+              "exampleRomaji": "Heya no denki o tsukemasu.",
+              "translation": "Saya menyalakan lampu kamar."
+            },
+            {
+              "jp": "でる (出る)",
+              "romaji": "Deru",
+              "meaning": "Keluar",
+              "label": "Umum",
+              "audio": "でる",
+              "example": "毎朝七時に家を出ます。",
+              "exampleRomaji": "Maiasa shichiji ni ie o demasu.",
+              "translation": "Saya keluar rumah pukul tujuh setiap pagi."
+            },
+            {
+              "jp": "ねる (寝る)",
+              "romaji": "Neru",
+              "meaning": "Tidur",
+              "label": "Umum",
+              "audio": "ねる",
+              "example": "毎晩十時に寝ます。",
+              "exampleRomaji": "Maiban juuji ni nemasu.",
+              "translation": "Saya tidur pukul sepuluh setiap malam."
+            },
+            {
+              "jp": "はじめる (始める)",
+              "romaji": "Hajimeru",
+              "meaning": "Memulai",
+              "label": "Umum",
+              "audio": "はじめる",
+              "example": "九時に勉強を始めます。",
+              "exampleRomaji": "Kuji ni benkyou o hajimemasu.",
+              "translation": "Saya mulai belajar pukul sembilan."
+            },
+            {
+              "jp": "みせる (見せる)",
+              "romaji": "Miseru",
+              "meaning": "Memperlihatkan",
+              "label": "Umum",
+              "audio": "みせる",
+              "example": "写真を見せてください。",
+              "exampleRomaji": "Shashin o misete kudasai.",
+              "translation": "Tolong perlihatkan fotonya."
+            },
+            {
+              "jp": "みる (見る)",
+              "romaji": "Miru",
+              "meaning": "Melihat / menonton",
+              "label": "Umum",
+              "audio": "みる",
+              "example": "夜、テレビを見ます。",
+              "exampleRomaji": "Yoru, terebi o mimasu.",
+              "translation": "Saya menonton televisi pada malam hari."
+            },
+            {
+              "jp": "わすれる (忘れる)",
+              "romaji": "Wasureru",
+              "meaning": "Lupa",
+              "label": "Umum",
+              "audio": "わすれる",
+              "example": "宿題を忘れました。",
+              "exampleRomaji": "Shukudai o wasuremashita.",
+              "translation": "Saya lupa pekerjaan rumah."
+            },
+            {
+              "jp": "できる (出来る)",
+              "romaji": "Dekiru",
+              "meaning": "Bisa / mampu",
+              "label": "Umum",
+              "audio": "できる",
+              "example": "私は少し日本語ができます。",
+              "exampleRomaji": "Watashi wa sukoshi nihongo ga dekimasu.",
+              "translation": "Saya bisa sedikit bahasa Jepang。"
+            }
+          ]
+        },
+        {
+          "number": "5.3",
+          "title": "Irregular (Tak Beraturan) (不規則動詞・ふきそくどうし)",
+          "words": [
+            {
+              "jp": "する",
+              "romaji": "Suru",
+              "meaning": "Melakukan",
+              "label": "Umum",
+              "audio": "する",
+              "example": "毎日、運動をします。",
+              "exampleRomaji": "Mainichi, undou o shimasu.",
+              "translation": "Saya berolahraga setiap hari."
+            },
+            {
+              "jp": "くる (来る)",
+              "romaji": "Kuru",
+              "meaning": "Datang",
+              "label": "Umum",
+              "audio": "くる",
+              "example": "友だちは明日ここに来ます。",
+              "exampleRomaji": "Tomodachi wa ashita koko ni kimasu.",
+              "translation": "Teman saya datang ke sini besok."
+            },
+            {
+              "jp": "べんきょうする (勉強する)",
+              "romaji": "Benkyou suru",
+              "meaning": "Belajar",
+              "label": "Umum",
+              "audio": "べんきょうする",
+              "example": "毎晩、日本語を勉強します。",
+              "exampleRomaji": "Maiban, nihongo o benkyou shimasu.",
+              "translation": "Saya belajar bahasa Jepang setiap malam."
+            },
+            {
+              "jp": "でんわする (電話する)",
+              "romaji": "Denwa suru",
+              "meaning": "Menelepon",
+              "label": "Umum",
+              "audio": "でんわする",
+              "example": "あとで母に電話します。",
+              "exampleRomaji": "Ato de haha ni denwa shimasu.",
+              "translation": "Nanti saya menelepon ibu."
+            },
+            {
+              "jp": "りょうりする (料理する)",
+              "romaji": "Ryouri suru",
+              "meaning": "Memasak",
+              "label": "Umum",
+              "audio": "りょうりする",
+              "example": "日曜日に料理をします。",
+              "exampleRomaji": "Nichiyoubi ni ryouri o shimasu.",
+              "translation": "Saya memasak pada hari Minggu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

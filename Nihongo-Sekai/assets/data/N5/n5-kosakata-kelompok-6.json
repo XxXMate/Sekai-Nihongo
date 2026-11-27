@@ -1,0 +1,438 @@
+{
+  "groups": [
+    {
+      "number": 6,
+      "title": "Kata Sifat",
+      "description": "Mengenal kata sifat-I dan kata sifat-Na untuk menggambarkan orang, benda, tempat, keadaan, dan situasi sehari-hari maupun pekerjaan.",
+      "note": {
+        "title": "Catatan Kata Sifat",
+        "intro": "Kata Sifat-I umumnya berakhiran い dan berubah bentuk secara langsung. Kata Sifat-Na menggunakan な ketika menerangkan kata benda. Perhatikan bahwa tidak semua kata yang berakhiran い termasuk Kata Sifat-I.",
+        "footer": "Contoh penting: きれい dan きらい termasuk Kata Sifat-Na. Beberapa kata memiliki lebih dari satu makna atau kanji sesuai konteks."
+      },
+      "subgroups": [
+        {
+          "number": "6.1",
+          "title": "Kata Sifat-I (い形容詞・いけいようし)",
+          "words": [
+            {
+              "jp": "あたらしい (新しい)",
+              "romaji": "Atarashii",
+              "meaning": "Baru",
+              "label": "Umum",
+              "audio": "あたらしい",
+              "example": "あたらしい かばんです。",
+              "exampleRomaji": "Atarashii kaban desu.",
+              "translation": "Ini tas baru."
+            },
+            {
+              "jp": "ふるい (古い)",
+              "romaji": "Furui",
+              "meaning": "Lama / tua (benda)",
+              "label": "Umum",
+              "audio": "ふるい",
+              "example": "この いすは ふるいです。",
+              "exampleRomaji": "Kono isu wa furui desu.",
+              "translation": "Kursi ini sudah lama."
+            },
+            {
+              "jp": "おおきい (大きい)",
+              "romaji": "Ookii",
+              "meaning": "Besar",
+              "label": "Umum",
+              "audio": "おおきい",
+              "example": "この へやは おおきいです。",
+              "exampleRomaji": "Kono heya wa ookii desu.",
+              "translation": "Ruangan ini besar."
+            },
+            {
+              "jp": "ちいさい (小さい)",
+              "romaji": "Chiisai",
+              "meaning": "Kecil",
+              "label": "Umum",
+              "audio": "ちいさい",
+              "example": "ちいさい もじを よみます。",
+              "exampleRomaji": "Chiisai moji o yomimasu.",
+              "translation": "Saya membaca tulisan kecil."
+            },
+            {
+              "jp": "たかい (高い)",
+              "romaji": "Takai",
+              "meaning": "Tinggi / mahal",
+              "label": "Umum",
+              "audio": "たかい",
+              "example": "この ビルは たかいです。",
+              "exampleRomaji": "Kono biru wa takai desu.",
+              "translation": "Gedung ini tinggi."
+            },
+            {
+              "jp": "やすい (安い)",
+              "romaji": "Yasui",
+              "meaning": "Murah",
+              "label": "Umum",
+              "audio": "やすい",
+              "example": "この ペンは やすいです。",
+              "exampleRomaji": "Kono pen wa yasui desu.",
+              "translation": "Pulpen ini murah."
+            },
+            {
+              "jp": "ひくい (低い)",
+              "romaji": "Hikui",
+              "meaning": "Rendah",
+              "label": "Umum",
+              "audio": "ひくい",
+              "example": "この つくえは ひくいです。",
+              "exampleRomaji": "Kono tsukue wa hikui desu.",
+              "translation": "Meja ini rendah."
+            },
+            {
+              "jp": "ながい (長い)",
+              "romaji": "Nagai",
+              "meaning": "Panjang",
+              "label": "Umum",
+              "audio": "ながい",
+              "example": "この みちは ながいです。",
+              "exampleRomaji": "Kono michi wa nagai desu.",
+              "translation": "Jalan ini panjang."
+            },
+            {
+              "jp": "みじかい (短い)",
+              "romaji": "Mijikai",
+              "meaning": "Pendek",
+              "label": "Umum",
+              "audio": "みじかい",
+              "example": "この やすみは みじかいです。",
+              "exampleRomaji": "Kono yasumi wa mijikai desu.",
+              "translation": "Waktu istirahat ini singkat."
+            },
+            {
+              "jp": "はやい (早い)",
+              "romaji": "Hayai",
+              "meaning": "Awal / cepat",
+              "label": "Umum",
+              "audio": "はやい",
+              "example": "きょうは はやく かいしゃへ いきます。",
+              "exampleRomaji": "Kyou wa hayaku kaisha e ikimasu.",
+              "translation": "Hari ini saya pergi ke kantor lebih awal."
+            },
+            {
+              "jp": "おそい (遅い)",
+              "romaji": "Osoi",
+              "meaning": "Lambat / terlambat",
+              "label": "Umum",
+              "audio": "おそい",
+              "example": "バスが おそいです。",
+              "exampleRomaji": "Basu ga osoi desu.",
+              "translation": "Busnya terlambat."
+            },
+            {
+              "jp": "いそがしい (忙しい)",
+              "romaji": "Isogashii",
+              "meaning": "Sibuk",
+              "label": "Umum",
+              "audio": "いそがしい",
+              "example": "きょうは しごとが いそがしいです。",
+              "exampleRomaji": "Kyou wa shigoto ga isogashii desu.",
+              "translation": "Hari ini pekerjaan saya sibuk."
+            },
+            {
+              "jp": "たのしい (楽しい)",
+              "romaji": "Tanoshii",
+              "meaning": "Menyenangkan",
+              "label": "Umum",
+              "audio": "たのしい",
+              "example": "みんなと はたらくのは たのしいです。",
+              "exampleRomaji": "Minna to hataraku no wa tanoshii desu.",
+              "translation": "Bekerja bersama semua orang itu menyenangkan."
+            },
+            {
+              "jp": "おもしろい (面白い)",
+              "romaji": "Omoshiroi",
+              "meaning": "Menarik",
+              "label": "Umum",
+              "audio": "おもしろい",
+              "example": "この ほんは おもしろいです。",
+              "exampleRomaji": "Kono hon wa omoshiroi desu.",
+              "translation": "Buku ini menarik."
+            },
+            {
+              "jp": "むずかしい (難しい)",
+              "romaji": "Muzukashii",
+              "meaning": "Sulit",
+              "label": "Umum",
+              "audio": "むずかしい",
+              "example": "この しごとは むずかしいです。",
+              "exampleRomaji": "Kono shigoto wa muzukashii desu.",
+              "translation": "Pekerjaan ini sulit."
+            },
+            {
+              "jp": "やさしい (易しい)",
+              "romaji": "Yasashii",
+              "meaning": "Mudah",
+              "label": "Umum",
+              "audio": "やさしい",
+              "example": "この しごとは やさしいです。",
+              "exampleRomaji": "Kono shigoto wa yasashii desu.",
+              "translation": "Pekerjaan ini mudah."
+            },
+            {
+              "jp": "いい (良い)",
+              "romaji": "Ii",
+              "meaning": "Baik / bagus",
+              "label": "Umum",
+              "audio": "いい",
+              "example": "この ほうほうは いいです。",
+              "exampleRomaji": "Kono houhou wa ii desu.",
+              "translation": "Cara ini bagus."
+            },
+            {
+              "jp": "わるい (悪い)",
+              "romaji": "Warui",
+              "meaning": "Buruk / jelek",
+              "label": "Umum",
+              "audio": "わるい",
+              "example": "きょうは てんきが わるいです。",
+              "exampleRomaji": "Kyou wa tenki ga warui desu.",
+              "translation": "Hari ini cuacanya buruk."
+            },
+            {
+              "jp": "おいしい (美味しい)",
+              "romaji": "Oishii",
+              "meaning": "Enak",
+              "label": "Umum",
+              "audio": "おいしい",
+              "example": "この りょうりは おいしいです。",
+              "exampleRomaji": "Kono ryouri wa oishii desu.",
+              "translation": "Masakan ini enak."
+            },
+            {
+              "jp": "いたい (痛い)",
+              "romaji": "Itai",
+              "meaning": "Sakit",
+              "label": "Umum",
+              "audio": "いたい",
+              "example": "あたまがいたいです。",
+              "exampleRomaji": "Atama ga itai desu.",
+              "translation": "Kepala saya sakit."
+            },
+            {
+              "jp": "まずい",
+              "romaji": "Mazui",
+              "meaning": "Tidak enak",
+              "label": "Umum",
+              "audio": "まずい",
+              "example": "この コーヒーは まずいです。",
+              "exampleRomaji": "Kono koohii wa mazui desu.",
+              "translation": "Kopi ini tidak enak."
+            },
+            {
+              "jp": "あつい (暑い)",
+              "romaji": "Atsui",
+              "meaning": "Panas (cuaca)",
+              "label": "Umum",
+              "audio": "あつい",
+              "example": "きょうは あついです。",
+              "exampleRomaji": "Kyou wa atsui desu.",
+              "translation": "Hari ini panas."
+            },
+            {
+              "jp": "さむい (寒い)",
+              "romaji": "Samui",
+              "meaning": "Dingin (cuaca)",
+              "label": "Umum",
+              "audio": "さむい",
+              "example": "あさは さむいです。",
+              "exampleRomaji": "Asa wa samui desu.",
+              "translation": "Pagi hari dingin."
+            },
+            {
+              "jp": "あたたかい (暖かい)",
+              "romaji": "Atatakai",
+              "meaning": "Hangat (cuaca / suasana)",
+              "label": "Umum",
+              "audio": "あたたかい",
+              "example": "この へやは あたたかいです。",
+              "exampleRomaji": "Kono heya wa atatakai desu.",
+              "translation": "Ruangan ini hangat."
+            },
+            {
+              "jp": "すずしい (涼しい)",
+              "romaji": "Suzushii",
+              "meaning": "Sejuk",
+              "label": "Umum",
+              "audio": "すずしい",
+              "example": "きょうの あさは すずしいです。",
+              "exampleRomaji": "Kyou no asa wa suzushii desu.",
+              "translation": "Pagi ini sejuk."
+            },
+            {
+              "jp": "つめたい (冷たい)",
+              "romaji": "Tsumetai",
+              "meaning": "Dingin (benda / minuman)",
+              "label": "Umum",
+              "audio": "つめたい",
+              "example": "つめたい みずを のみます。",
+              "exampleRomaji": "Tsumetai mizu o nomimasu.",
+              "translation": "Saya minum air dingin."
+            }
+          ]
+        },
+        {
+          "number": "6.2",
+          "title": "Kata Sifat-Na (な形容詞・なけいようし)",
+          "words": [
+            {
+              "jp": "しずか (静か)",
+              "romaji": "Shizuka",
+              "meaning": "Tenang / sepi",
+              "label": "Umum",
+              "audio": "しずか",
+              "example": "この へやは しずかです。",
+              "exampleRomaji": "Kono heya wa shizuka desu.",
+              "translation": "Ruangan ini tenang."
+            },
+            {
+              "jp": "にぎやか (賑やか)",
+              "romaji": "Nigiyaka",
+              "meaning": "Ramai",
+              "label": "Umum",
+              "audio": "にぎやか",
+              "example": "この まちは にぎやかです。",
+              "exampleRomaji": "Kono machi wa nigiyaka desu.",
+              "translation": "Kota ini ramai."
+            },
+            {
+              "jp": "きれい (綺麗)",
+              "romaji": "Kirei",
+              "meaning": "Bersih / indah",
+              "label": "Umum",
+              "audio": "きれい",
+              "example": "この みせは きれいです。",
+              "exampleRomaji": "Kono mise wa kirei desu.",
+              "translation": "Toko ini bersih."
+            },
+            {
+              "jp": "げんき (元気)",
+              "romaji": "Genki",
+              "meaning": "Sehat / bersemangat",
+              "label": "Umum",
+              "audio": "げんき",
+              "example": "きょうは げんきです。",
+              "exampleRomaji": "Kyou wa genki desu.",
+              "translation": "Hari ini saya sehat / bersemangat."
+            },
+            {
+              "jp": "べんり (便利)",
+              "romaji": "Benri",
+              "meaning": "Praktis",
+              "label": "Umum",
+              "audio": "べんり",
+              "example": "この アプリは べんりです。",
+              "exampleRomaji": "Kono apuri wa benri desu.",
+              "translation": "Aplikasi ini praktis."
+            },
+            {
+              "jp": "かんたん (簡単)",
+              "romaji": "Kantan",
+              "meaning": "Mudah / sederhana",
+              "label": "Umum",
+              "audio": "かんたん",
+              "example": "この しごとは かんたんです。",
+              "exampleRomaji": "Kono shigoto wa kantan desu.",
+              "translation": "Pekerjaan ini sederhana."
+            },
+            {
+              "jp": "ゆうめい (有名)",
+              "romaji": "Yuumei",
+              "meaning": "Terkenal",
+              "label": "Umum",
+              "audio": "ゆうめい",
+              "example": "この みせは ゆうめいです。",
+              "exampleRomaji": "Kono mise wa yuumei desu.",
+              "translation": "Toko ini terkenal."
+            },
+            {
+              "jp": "しんせつ (親切)",
+              "romaji": "Shinsetsu",
+              "meaning": "Ramah / baik hati",
+              "label": "Umum",
+              "audio": "しんせつ",
+              "example": "あの ひとは しんせつです。",
+              "exampleRomaji": "Ano hito wa shinsetsu desu.",
+              "translation": "Orang itu ramah."
+            },
+            {
+              "jp": "ひま (暇)",
+              "romaji": "Hima",
+              "meaning": "Senggang / punya waktu luang",
+              "label": "Umum",
+              "audio": "ひま",
+              "example": "きょうの ごごは ひまです。",
+              "exampleRomaji": "Kyou no gogo wa hima desu.",
+              "translation": "Sore ini saya punya waktu luang."
+            },
+            {
+              "jp": "たいへん (大変)",
+              "romaji": "Taihen",
+              "meaning": "Berat / sulit / melelahkan",
+              "label": "Umum",
+              "audio": "たいへん",
+              "example": "この しごとは たいへんです。",
+              "exampleRomaji": "Kono shigoto wa taihen desu.",
+              "translation": "Pekerjaan ini berat."
+            },
+            {
+              "jp": "だいじょうぶ (大丈夫)",
+              "romaji": "Daijoubu",
+              "meaning": "Tidak apa-apa / baik-baik saja",
+              "label": "Umum",
+              "audio": "だいじょうぶ",
+              "example": "この きかいは だいじょうぶです。",
+              "exampleRomaji": "Kono kikai wa daijoubu desu.",
+              "translation": "Mesin ini tidak bermasalah."
+            },
+            {
+              "jp": "すき (好き)",
+              "romaji": "Suki",
+              "meaning": "Suka",
+              "label": "Umum",
+              "audio": "すき",
+              "example": "わたしは にほんごが すきです。",
+              "exampleRomaji": "Watashi wa nihongo ga suki desu.",
+              "translation": "Saya suka bahasa Jepang."
+            },
+            {
+              "jp": "きらい (嫌い)",
+              "romaji": "Kirai",
+              "meaning": "Tidak suka",
+              "label": "Umum",
+              "audio": "きらい",
+              "example": "わたしは さかなが きらいです。",
+              "exampleRomaji": "Watashi wa sakana ga kirai desu.",
+              "translation": "Saya tidak suka ikan."
+            },
+            {
+              "jp": "じょうず (上手)",
+              "romaji": "Jouzu",
+              "meaning": "Pandai / mahir",
+              "label": "Umum",
+              "audio": "じょうず",
+              "example": "あの ひとは しごとが じょうずです。",
+              "exampleRomaji": "Ano hito wa shigoto ga jouzu desu.",
+              "translation": "Orang itu pandai dalam pekerjaannya."
+            },
+            {
+              "jp": "へた (下手)",
+              "romaji": "Heta",
+              "meaning": "Tidak mahir",
+              "label": "Umum",
+              "audio": "へた",
+              "example": "わたしは りょうりが へたです。",
+              "exampleRomaji": "Watashi wa ryouri ga heta desu.",
+              "translation": "Saya tidak pandai memasak."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

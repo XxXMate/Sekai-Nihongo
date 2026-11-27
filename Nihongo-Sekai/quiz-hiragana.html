@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#355C45">
+  <meta name="description" content="Latihan Hiragana Nihongo Sekai.">
+  <title>Latihan Hiragana — Nihongo Sekai</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Navigasi utama">
+      <a class="logo" href="index.html">
+        <span class="logo-mark" aria-hidden="true">日</span>
+        <span>
+          Nihongo <strong>Sekai</strong>
+          <small>日本語の世界</small>
+        </span>
+      </a>
+
+      <div class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="materi.html">Materi</a>
+        <a href="tentang.html">Tentang</a>
+      </div>
+      <div class="nav-actions">
+        <!-- DARK MODE BARU -->
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Aktifkan mode gelap">
+          <span id="themeIcon">🌙</span>
+        </button>
+
+        <!-- HAMBURGER -->
+        <button class="menu-toggle" id="menuToggle" type="button" aria-label="Buka menu" aria-controls="navLinks" aria-expanded="false">
+          ☰
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-width" style="padding-top:24px">
+      <a class="back-link" href="hiragana.html">
+        ← Kembali ke Hiragana
+      </a>
+    </div>
+
+    <section class="hiragana-section page-width">
+
+      <div class="section-heading hiragana-heading">
+        <div>
+          <span class="section-kicker">CEK PEMAHAMANMU</span>
+          <h2>ひらがな · Latihan Hiragana</h2>
+          <p>Uji kemampuan membaca Hiragana melalui latihan interaktif.</p>
+        </div>
+        <span class="heading-flower" aria-hidden="true">あ</span>
+      </div>
+
+      <section class="hiragana-quiz">
+        <div class="quiz-heading">
+          <span class="quiz-icon" aria-hidden="true">✎</span>
+          <div>
+            <span class="section-kicker">LATIHAN BAHASA JEPANG</span>
+            <h3 id="quizTitle">Mulai Latihan</h3>
+            <p id="quizModeDescription">
+              Pilih jumlah quiz yang ingin kamu kerjakan.
+            </p>
+          </div>
+        </div>
+
+<div class="quiz-content">
+
+  <!-- PILIH JUMLAH SOAL -->
+  <div id="quizSetup">
+    <div class="quiz-count-options" id="questionCountOptions">
+      <button type="button" data-count="10">10</button>
+      <button type="button" data-count="20">20</button>
+      <button type="button" data-count="30">30</button>
+      <button type="button" data-count="40">40</button>
+      <button type="button" data-count="50">50</button>
+      <button type="button" data-count="60">60</button>
+      <button type="button" data-count="70">70</button>
+      <button type="button" data-count="80">80</button>
+      <button type="button" data-count="90">90</button>
+      <button type="button" data-count="100">100</button>
+    </div>
+  </div>
+
+  <!-- TEMPAT PERTANYAAN DAN HASIL -->
+  <div id="quizContent" hidden></div>
+
+</div>
+
+      </section>
+
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p class="footer-jp">がんばって！</p>
+    <p>Semangat belajar bahasa Jepang 🌸</p>
+    <small>© <span id="year">2026</span> Nihongo Sekai</small>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script src="js/quiz-hiragana.js"></script>
+</body>
+</html>

@@ -1,0 +1,195 @@
+{
+  "groups": [
+    {
+      "number": 15,
+      "title": "Kelompok 15 — Tempat",
+      "description": "Pelajari kosakata tempat dan gunakan dalam kalimat sederhana yang berkaitan dengan kehidupan sehari-hari.",
+      "subgroups": [
+        {
+          "number": "15.1",
+          "title": "Tempat (場所・ばしょ)",
+          "words": [
+            {
+              "jp": "がっこう (学校)",
+              "romaji": "Gakkou",
+              "meaning": "Sekolah",
+              "audio": "がっこう"
+            },
+            {
+              "jp": "かいしゃ (会社)",
+              "romaji": "Kaisha",
+              "meaning": "Perusahaan",
+              "audio": "かいしゃ"
+            },
+            {
+              "jp": "みせ (店)",
+              "romaji": "Mise",
+              "meaning": "Toko",
+              "audio": "みせ"
+            },
+            {
+              "jp": "えき (駅)",
+              "romaji": "Eki",
+              "meaning": "Stasiun",
+              "audio": "えき"
+            },
+            {
+              "jp": "びょういん (病院)",
+              "romaji": "Byouin",
+              "meaning": "Rumah sakit",
+              "audio": "びょういん"
+            },
+            {
+              "jp": "ぎんこう (銀行)",
+              "romaji": "Ginkou",
+              "meaning": "Bank",
+              "audio": "ぎんこう"
+            },
+            {
+              "jp": "ゆうびんきょく (郵便局)",
+              "romaji": "Yuubinkyoku",
+              "meaning": "Kantor pos",
+              "audio": "ゆうびんきょく"
+            },
+            {
+              "jp": "としょかん (図書館)",
+              "romaji": "Toshokan",
+              "meaning": "Perpustakaan",
+              "audio": "としょかん"
+            },
+            {
+              "jp": "こうえん (公園)",
+              "romaji": "Kouen",
+              "meaning": "Taman",
+              "audio": "こうえん"
+            },
+            {
+              "jp": "きょうしつ (教室)",
+              "romaji": "Kyoushitsu",
+              "meaning": "Ruang kelas",
+              "audio": "きょうしつ"
+            },
+            {
+              "jp": "じむしょ (事務所)",
+              "romaji": "Jimusho",
+              "meaning": "Kantor",
+              "audio": "じむしょ"
+            },
+            {
+              "jp": "しょくどう (食堂)",
+              "romaji": "Shokudou",
+              "meaning": "Kantin",
+              "audio": "しょくどう"
+            },
+            {
+              "jp": "くに (国)",
+              "romaji": "Kuni",
+              "meaning": "Negara",
+              "audio": "くに"
+            },
+            {
+              "jp": "スーパー",
+              "romaji": "Suupaa",
+              "meaning": "Supermarket",
+              "audio": "スーパー"
+            }
+          ]
+        },
+        {
+          "number": "15.2",
+          "title": "場所を使った文 (ばしょをつかったぶん) — Kalimat Dengan Kata Tempat",
+          "note": {
+            "title": "Catatan Materi",
+            "intro": "Partikel で digunakan setelah nama tempat untuk menunjukkan lokasi berlangsungnya suatu kegiatan atau aktivitas. Pola sederhana: Tempat + で + Aktivitas. Partikel へ digunakan untuk menunjukkan arah atau tujuan. Contoh: 学校で勉強します (belajar di sekolah) dan 病院へ行きます (pergi ke rumah sakit)."
+          },
+          "words": [
+            {
+              "jp": "学校で日本語を勉強します。",
+              "romaji": "Gakkou de nihongo o benkyou shimasu.",
+              "meaning": "Belajar bahasa Jepang di sekolah.",
+              "audio": "がっこうでにほんごをべんきょうします。"
+            },
+            {
+              "jp": "会社で働きます。",
+              "romaji": "Kaisha de hatarakimasu.",
+              "meaning": "Bekerja di perusahaan.",
+              "audio": "かいしゃではたらきます。"
+            },
+            {
+              "jp": "店でパンを買います。",
+              "romaji": "Mise de pan o kaimasu.",
+              "meaning": "Membeli roti di toko.",
+              "audio": "みせでぱんをかいます。"
+            },
+            {
+              "jp": "駅で友達に会います。",
+              "romaji": "Eki de tomodachi ni aimasu.",
+              "meaning": "Bertemu teman di stasiun.",
+              "audio": "えきでともだちにあいます。"
+            },
+            {
+              "jp": "病院へ行きます。",
+              "romaji": "Byouin e ikimasu.",
+              "meaning": "Pergi ke rumah sakit.",
+              "audio": "びょういんへいきます。"
+            },
+            {
+              "jp": "銀行はあそこです。",
+              "romaji": "Ginkou wa asoko desu.",
+              "meaning": "Bank ada di sana.",
+              "audio": "ぎんこうはあそこです。"
+            },
+            {
+              "jp": "郵便局で手紙を出します。",
+              "romaji": "Yuubinkyoku de tegami o dashimasu.",
+              "meaning": "Mengirim surat di kantor pos.",
+              "audio": "ゆうびんきょくでてがみをだします。"
+            },
+            {
+              "jp": "図書館で本を読みます。",
+              "romaji": "Toshokan de hon o yomimasu.",
+              "meaning": "Membaca buku di perpustakaan.",
+              "audio": "としょかんでほんをよみます。"
+            },
+            {
+              "jp": "公園で遊びます。",
+              "romaji": "Kouen de asobimasu.",
+              "meaning": "Bermain di taman.",
+              "audio": "こうえんであそびます。"
+            },
+            {
+              "jp": "教室で先生の話を聞きます。",
+              "romaji": "Kyoushitsu de sensei no hanashi o kikimasu.",
+              "meaning": "Mendengarkan penjelasan guru di ruang kelas.",
+              "audio": "きょうしつでせんせいのはなしをききます。"
+            },
+            {
+              "jp": "事務所で仕事をします。",
+              "romaji": "Jimusho de shigoto o shimasu.",
+              "meaning": "Bekerja di kantor.",
+              "audio": "じむしょでしごとをします。"
+            },
+            {
+              "jp": "食堂で昼ごはんを食べます。",
+              "romaji": "Shokudou de hirugohan o tabemasu.",
+              "meaning": "Makan siang di kantin.",
+              "audio": "しょくどうでひるごはんをたべます。"
+            },
+            {
+              "jp": "私の国はインドネシアです。",
+              "romaji": "Watashi no kuni wa Indoneshia desu.",
+              "meaning": "Negara saya adalah Indonesia.",
+              "audio": "わたしのくにはいんどねしあです。"
+            },
+            {
+              "jp": "スーパーで野菜を買います。",
+              "romaji": "Suupaa de yasai o kaimasu.",
+              "meaning": "Membeli sayuran di supermarket.",
+              "audio": "スーパーでやさいをかいます。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

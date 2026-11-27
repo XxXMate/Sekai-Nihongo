@@ -1,0 +1,282 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#355C45">
+  <meta name="description" content="Belajar membedakan huruf Hiragana dan Katakana yang mirip di Nihongo Sekai.">
+
+  <title>Kana Mirip — Nihongo Sekai</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- KANA MIRIP BARU — HEADER -->
+  <header class="site-header" id="home">
+    <nav class="navbar" aria-label="Navigasi utama">
+
+      <a class="logo" href="index.html" aria-label="Nihongo Sekai, kembali ke beranda">
+        <span class="logo-mark" aria-hidden="true">日</span>
+        <span>
+          Nihongo <strong>Sekai</strong>
+          <small>日本語の世界</small>
+        </span>
+      </a>
+
+      <div class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="materi.html">Materi</a>
+        <a href="tentang.html">Tentang</a>
+      </div>
+      <div class="nav-actions">
+        <!-- DARK MODE BARU -->
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Aktifkan mode gelap">
+          <span id="themeIcon">🌙</span>
+        </button>
+
+        <!-- HAMBURGER -->
+        <button class="menu-toggle" id="menuToggle" type="button" aria-label="Buka menu" aria-controls="navLinks" aria-expanded="false">
+          ☰
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- KANA MIRIP BARU — KONTEN UTAMA -->
+    <section class="kana-mirip-section page-width" id="kanaMirip">
+
+      <div class="kana-mirip-back">
+        <a class="back-link" href="index.html">← Kembali ke Halaman</a>
+      </div>
+
+      <!-- KANA MIRIP BARU — JUDUL UTAMA -->
+      <div class="section-heading kana-mirip-heading">
+        <div>
+          <span class="section-kicker">BELAJAR LEBIH TELITI</span>
+          <h2>Kana Mirip · 似ている文字</h2>
+          <p>
+            Kenali huruf Jepang yang bentuknya hampir sama.
+            Pelajari perbedaannya agar tidak mudah tertukar.
+          </p>
+        </div>
+
+        <span class="heading-flower" aria-hidden="true">あ</span>
+      </div>
+
+      <!-- KANA MIRIP BARU — PILIH JENIS KANA -->
+      <div class="kana-mirip-intro">
+        <strong>Mau belajar huruf yang mana?</strong>
+        <p>Pilih jenis huruf untuk melihat pasangan Kana yang mirip.</p>
+
+        <div class="kana-type-options" role="group" aria-label="Pilih jenis Kana">
+
+          <button class="kana-type-button"
+            id="chooseHiragana" type="button" data-type="hiragana"
+            aria-pressed="false">
+            <span>あ</span>
+            <strong>Hiragana</strong>
+            <small>ひらがな</small>
+          </button>
+
+          <button class="kana-type-button"
+            id="chooseKatakana" type="button" data-type="katakana"
+            aria-pressed="false">
+            <span>ア</span>
+            <strong>Katakana</strong>
+            <small>カタカナ</small>
+          </button>
+
+        </div>
+      </div>
+
+      <!-- KANA MIRIP BARU — DAFTAR PASANGAN -->
+      <div class="similar-kana-area">
+
+        <!-- JUDUL DAFTAR DISEMBUNYIKAN SAAT PERTAMA MASUK -->
+        <div class="kana-mirip-toolbar" id="similarPairHeading" hidden>
+          <div>
+            <span class="section-kicker">PILIH PASANGAN</span>
+            <h3 id="pairListTitle">Pasangan Kana</h3>
+          </div>
+
+          <span class="tap-hint">Ketuk untuk mempelajari</span>
+        </div>
+
+        <!-- DAFTAR PASANGAN DISEMBUNYIKAN SAAT PERTAMA MASUK -->
+        <div class="similar-kana-grid" id="similarKanaGrid" hidden></div>
+
+      </div>
+
+      <!-- KANA MIRIP BARU — PENJELASAN PASANGAN -->
+      <article class="similar-kana-detail" id="similarKanaDetail"
+        hidden aria-live="polite">
+
+        <div class="kana-detail-heading">
+          <span class="section-kicker">KENALI PERBEDAANNYA</span>
+          <h3 id="similarDetailTitle">Perbedaan Huruf</h3>
+          <p id="similarDetailIntro">
+            Perhatikan bentuk kedua huruf berikut.
+          </p>
+        </div>
+
+        <div class="similar-kana-comparison">
+
+          <div class="similar-kana-character">
+            <span class="similar-kana-symbol" id="similarKanaFirst">ぬ</span>
+            <strong id="similarKanaFirstRomaji">NU</strong>
+            <small>Huruf pertama</small>
+          </div>
+
+          <div class="similar-kana-divider">VS</div>
+
+          <div class="similar-kana-character">
+            <span class="similar-kana-symbol" id="similarKanaSecond">め</span>
+            <strong id="similarKanaSecondRomaji">ME</strong>
+            <small>Huruf kedua</small>
+          </div>
+
+        </div>
+
+        <div class="similar-kana-explanation">
+          <div>
+            <strong>Perbedaan bentuk</strong>
+            <p id="similarDifference">
+              Penjelasan perbedaan kedua huruf akan muncul di sini.
+            </p>
+          </div>
+
+          <div>
+            <strong>Tips mengingat</strong>
+            <p id="similarMemoryTip">
+              Tips mengingat kedua huruf akan muncul di sini.
+            </p>
+          </div>
+        </div>
+
+        <!-- KANA MIRIP BARU — TOMBOL MENUJU KUIS -->
+        <button class="primary-button" id="startSimilarQuiz" type="button">
+          Coba Kuis Pasangan Ini →
+        </button>
+
+      </article>
+
+      <!-- KANA MIRIP BARU — AREA KUIS -->
+      <section class="similar-kana-quiz" id="similarKanaQuiz"
+        aria-labelledby="similarQuizTitle" hidden>
+
+        <div class="quiz-heading">
+          <span class="quiz-icon" aria-hidden="true">✎</span>
+          <div>
+            <span class="section-kicker">UJI PEMAHAMANMU</span>
+            <h3 id="similarQuizTitle">Kuis Kana Mirip</h3>
+            <p>Pilih romaji yang sesuai dengan huruf di bawah ini.</p>
+          </div>
+        </div>
+
+        <div class="similar-quiz-content">
+
+          <!-- KANA MIRIP BARU — INFORMASI SOAL -->
+          <div class="similar-quiz-progress">
+            <span id="similarQuestionNumber">Soal 1</span>
+            <span id="similarQuizScore">Poin: 0</span>
+          </div>
+
+          <!-- KANA MIRIP BARU — PEMBUNGKUS PERTANYAAN -->
+          <div class="similar-quiz-question" id="similarQuizQuestion">
+
+            <span class="detail-label">HURUF APAKAH INI?</span>
+
+            <div class="similar-quiz-kana" id="similarQuizKana">
+              め
+            </div>
+
+            <div class="similar-quiz-options" id="similarQuizOptions"></div>
+
+          </div>
+
+          <!-- KANA MIRIP BARU — FEEDBACK JAWABAN -->
+          <div class="similar-quiz-feedback" id="similarQuizFeedback"
+            aria-live="polite" hidden>
+
+            <h4 id="similarFeedbackTitle">Hebat!</h4>
+
+            <p id="similarFeedbackMessage">
+              Jawabanmu benar.
+            </p>
+
+            <div class="similar-feedback-explanation"
+              id="similarFeedbackExplanation">
+              Penjelasan jawaban akan muncul di sini.
+            </div>
+
+            <!-- KANA MIRIP BARU — LANJUT MANUAL -->
+            <button class="primary-button" id="nextSimilarQuestion"
+              type="button">
+              Berikutnya →
+            </button>
+
+          </div>
+
+          <!-- KANA MIRIP BARU — HASIL AKHIR -->
+          <div class="similar-quiz-result" id="similarQuizResult" hidden>
+
+            <span class="section-kicker">LATIHAN SELESAI</span>
+            <h3>おめでとう！</h3>
+
+            <p id="similarResultMessage">
+              Kamu sudah menyelesaikan latihan.
+            </p>
+
+            <div class="similar-result-stats">
+              <div>
+                <strong id="similarFinalScore">0</strong>
+                <span>Total Poin</span>
+              </div>
+
+              <div>
+                <strong id="similarCorrectCount">0</strong>
+                <span>Jawaban Benar</span>
+              </div>
+
+              <div>
+                <strong id="similarWrongCount">0</strong>
+                <span>Jawaban Salah</span>
+              </div>
+            </div>
+
+            <button class="primary-button" id="retrySimilarQuiz"
+              type="button">
+              Ulangi Kuis
+            </button>
+
+          </div>
+
+        </div>
+      </section>
+
+    </section>
+
+  </main>
+
+  <!-- KANA MIRIP BARU — FOOTER -->
+  <footer class="footer">
+    <p class="footer-jp">がんばって！</p>
+    <p>Semangat belajar bahasa Jepang 🌸</p>
+    <small>© <span id="year">2026</span> Nihongo Sekai</small>
+  </footer>
+
+  <!-- KANA MIRIP BARU — SCRIPT -->
+  <script src="js/script.js"></script>
+  <script src="js/kana-mirip.js"></script>
+
+</body>
+</html>

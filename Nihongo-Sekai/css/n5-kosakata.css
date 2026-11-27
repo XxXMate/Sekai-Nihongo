@@ -1,0 +1,844 @@
+
+/* ===================================   KOSAKATA N5 — HALAMAN UTAMA
+========================================== */
+
+.vocab-progress,
+.vocab-groups {
+  margin-top: 38px;
+}
+
+
+/* ==============================================   PROGRES BELAJAR
+===================================================== */
+
+.vocab-progress-card {
+  padding: 22px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.vocab-progress-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 13px;
+  font-size: 13px;
+}
+
+.vocab-progress-info strong {
+  color: var(--forest);
+}
+
+.vocab-progress-info span {
+  color: var(--sage);
+  font-weight: 700;
+}
+
+.vocab-progress-track {
+  width: 100%;
+  height: 9px;
+  overflow: hidden;
+  background: var(--line);
+  border-radius: 20px;
+}
+
+.vocab-progress-fill {
+  width: 0%;
+  height: 100%;
+  background: var(--forest);
+  border-radius: inherit;
+}
+
+.vocab-progress-card > p {
+  margin: 13px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+
+/* ==============================================   DAFTAR 20 KELOMPOK
+===================================================== */
+
+.vocab-group-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.vocab-group-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 13px;
+  padding: 18px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  transition: transform .2s, border-color .2s;
+}
+
+.vocab-group-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--sage);
+}
+
+.vocab-group-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  background: var(--sage-light);
+  color: var(--forest);
+  border-radius: 11px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.vocab-group-card > div {
+  flex: 1;
+  min-width: 0;
+}
+
+.vocab-group-card h3 {
+  margin: 2px 0 7px;
+  color: var(--forest);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.vocab-group-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.7;
+}
+
+.vocab-group-arrow {
+  color: var(--sage);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+
+/* ==============================================   PANEL DETAIL KELOMPOK 1
+===================================================== */
+
+.vocab-group-detail {
+  margin-top: 24px;
+  padding: 24px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  scroll-margin-top: 140px;
+}
+
+/* Menyembunyikan panel yang belum dibuka */
+
+.vocab-group-detail[hidden],
+.vocab-subgroup-content[hidden],
+.vocab-word-detail[hidden] {
+  display: none;
+}
+
+
+/* ==============================================   JUDUL PANEL KELOMPOK
+===================================================== */
+
+.vocab-detail-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 25px;
+}
+
+.vocab-detail-number {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--sage);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+}
+
+.vocab-detail-heading h2 {
+  margin: 0 0 9px;
+  color: var(--forest);
+  font-size: 22px;
+  line-height: 1.4;
+}
+
+.vocab-detail-heading p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+
+/* ==============================================   TOMBOL TUTUP PANEL
+===================================================== */
+
+.vocab-close-button {
+  flex-shrink: 0;
+  padding: 9px 13px;
+  color: var(--forest);
+  background: var(--sage-light);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.vocab-close-button:hover {
+  background: var(--line);
+}
+
+
+/* ==============================================   SUBKELOMPOK 1.1 — 1.5
+===================================================== */
+
+.vocab-subgroup-list {
+  display: grid;
+  gap: 12px;
+}
+
+.vocab-subgroup {
+  overflow: hidden;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+}
+
+
+/* TOMBOL SUBKELOMPOK */
+
+.vocab-subgroup-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 17px 19px;
+  color: var(--forest);
+  background: var(--sage-light);
+  border: none;
+  font-family: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background .2s;
+}
+
+.vocab-subgroup-toggle:hover {
+  background: var(--line);
+}
+
+.vocab-subgroup-name {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.vocab-subgroup-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 37px;
+  height: 32px;
+  color: var(--forest);
+  background: var(--paper);
+  border-radius: 9px;
+  font-size: 12px;
+}
+
+.vocab-subgroup-arrow {
+  color: var(--forest);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+/* ISI SUBKELOMPOK */
+
+.vocab-subgroup-content {
+  padding: 12px;
+}
+
+
+/* ==============================================   DAFTAR KOSAKATA
+===================================================== */
+
+.vocab-word-list {
+  display: grid;
+  gap: 9px;
+}
+
+.vocab-word-item {
+  overflow: hidden;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 11px;
+}
+
+
+/* ==============================================   TOMBOL KOSAKATA — SUSUNAN TIGA KOLOM
+   Kolom 1: Tulisan Jepang
+   Kolom 2: Label
+   Kolom 3: Tanda plus
+===================================================== */
+
+.vocab-word-toggle {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 76px 20px;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 14px;
+  color: var(--forest);
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background .2s;
+}
+
+/* TOMBOL KOSAKATA TANPA LABEL - BARU */
+.vocab-word-toggle.no-label {
+  grid-template-columns: minmax(0, 1fr) 20px;
+}
+
+.vocab-word-toggle:hover {
+  background: var(--sage-light);
+}
+
+
+/* TULISAN JEPANG */
+
+.vocab-word-japanese {
+  min-width: 0;
+  color: var(--forest);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+
+/* INFORMASI KOSAKATA LAMA
+   Romaji tidak ditampilkan di daftar utama.
+   Romaji ditampilkan di dalam detail setelah diklik.
+*/
+
+.vocab-word-info {
+  display: none;
+}
+
+.vocab-word-info .vocab-word-romaji {
+  display: none;
+}
+
+
+/* ==============================================   LABEL SOPAN, KASUAL, DAN UMUM
+   SEMUA LABEL MEMILIKI LEBAR YANG SAMA
+===================================================== */
+
+.vocab-word-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  justify-self: center;
+  width: 76px;
+  box-sizing: border-box;
+  white-space: nowrap;
+  padding: 5px 4px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.label-sopan {
+  color: #28634a;
+  background: #e1f1e7;
+}
+
+.label-kasual {
+  color: #94611b;
+  background: #fff0d5;
+}
+
+.label-umum {
+  color: #52677e;
+  background: #e7edf4;
+}
+
+
+/* TANDA PLUS DAN MINUS */
+
+.vocab-word-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  color: var(--sage);
+  font-size: 17px;
+  font-weight: 700;
+}
+
+
+/* ==============================================   DETAIL KOSAKATA — MUNCUL SETELAH DIKLIK
+===================================================== */
+
+.vocab-word-detail {
+  padding: 15px;
+  background: var(--sage-light);
+  border-top: 1px solid var(--line);
+}
+
+
+/* ROMAJI — DI ATAS ARTI INDONESIA */
+
+.vocab-word-detail .vocab-word-romaji {
+  display: block;
+  margin: 0 0 5px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+
+/* ARTI BAHASA INDONESIA */
+
+.vocab-word-detail .vocab-word-meaning {
+  display: block;
+  margin: 0 0 12px;
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+
+/* PARAGRAF DETAIL LAINNYA */
+
+.vocab-word-detail > p {
+  margin: 0 0 12px;
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.vocab-word-detail strong {
+  color: var(--forest);
+}
+
+
+/* ==============================================   CONTOH KALIMAT
+===================================================== */
+
+.vocab-example {
+  margin-top: 13px;
+  padding: 13px;
+  background: var(--paper);
+  border-radius: 10px;
+}
+
+.vocab-example p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.vocab-example-jp {
+  margin-top: 8px !important;
+  color: var(--forest);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 16px !important;
+  font-weight: 700;
+}
+
+.vocab-example-id {
+  margin-top: 5px !important;
+  color: var(--muted);
+}
+
+
+/* ==============================================   TOMBOL AUDIO
+===================================================== */
+
+.vocab-audio-button {
+  margin-top: 13px;
+  padding: 9px 13px;
+  color: white;
+  background: var(--forest);
+  border: none;
+  border-radius: 9px;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity .2s;
+}
+
+.vocab-audio-button:hover {
+  opacity: .85;
+}
+
+
+/* ==============================================   MODE GELAP
+===================================================== */
+
+body.dark-mode .vocab-progress-card,
+body.dark-mode .vocab-group-card,
+body.dark-mode .vocab-group-detail,
+body.dark-mode .vocab-subgroup,
+body.dark-mode .vocab-word-item {
+  background: var(--paper);
+  border-color: var(--line);
+}
+
+body.dark-mode .vocab-progress-info strong,
+body.dark-mode .vocab-group-card h3,
+body.dark-mode .vocab-detail-heading h2,
+body.dark-mode .vocab-subgroup-toggle,
+body.dark-mode .vocab-word-japanese,
+body.dark-mode .vocab-word-detail strong {
+  color: var(--forest);
+}
+
+body.dark-mode .vocab-subgroup-toggle,
+body.dark-mode .vocab-word-detail {
+  background: var(--sage-light);
+}
+
+body.dark-mode .vocab-example {
+  background: var(--paper);
+}
+
+
+/* ==============================================   RESPONSIVE — TAMPILAN HP
+===================================================== */
+
+@media (max-width: 600px) {
+
+  /* PROGRES DAN DAFTAR KELOMPOK */
+
+  .vocab-group-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .vocab-group-card {
+    padding: 15px;
+  }
+
+  .vocab-progress-card {
+    padding: 17px;
+  }
+
+
+  /* PANEL KELOMPOK */
+
+  .vocab-group-detail {
+    padding: 16px;
+    margin-top: 18px;
+    scroll-margin-top: 140px;
+  }
+
+  .vocab-detail-heading {
+    flex-direction: column;
+    gap: 13px;
+  }
+
+  .vocab-detail-heading h2 {
+    font-size: 19px;
+  }
+
+  .vocab-close-button {
+    align-self: flex-start;
+  }
+
+
+  /* SUBKELOMPOK */
+
+  .vocab-subgroup-toggle {
+    padding: 14px;
+  }
+
+  .vocab-subgroup-name {
+    gap: 9px;
+    font-size: 12px;
+  }
+
+  .vocab-subgroup-content {
+    padding: 9px;
+  }
+
+
+  /* DAFTAR KOSAKATA — POSISI LABEL SEJAJAR */
+
+  .vocab-word-toggle {
+    grid-template-columns: minmax(0, 1fr) 76px 20px;
+    gap: 6px;
+    padding: 12px;
+  }
+
+  .vocab-word-japanese {
+    font-size: 16px;
+  }
+
+  .vocab-word-label {
+    width: 76px;
+    padding: 5px 3px;
+    font-size: 9px;
+  }
+
+  .vocab-word-arrow {
+    width: 20px;
+  }
+
+
+  /* DETAIL KOSAKATA */
+
+  .vocab-word-detail {
+    padding: 12px;
+  }
+
+  .vocab-word-detail .vocab-word-romaji,
+  .vocab-word-detail .vocab-word-meaning {
+    font-size: 12px;
+  }
+
+}
+
+
+/* ==============================================   TAB DI DALAM SUBKELOMPOK KOSAKATA - BARU
+===================================================== */
+
+.vocab-inner-tab-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.vocab-inner-tab {
+  flex: 1;
+  min-width: 120px;
+  padding: 12px 16px;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  background: var(--card-bg);
+  color: var(--text-color);
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.vocab-inner-tab.active {
+  background: var(--forest);
+  color: white;
+  border-color: var(--forest);
+}
+
+.vocab-inner-tab-panel[hidden],
+.vocab-inner-tab-list[hidden] {
+  display: none;
+}
+
+.vocab-inner-tab-panel {
+  margin-top: 12px;
+}
+
+
+/* ==============================================   CATATAN PELAFALAN ANGKA BESAR - BARU
+===================================================== */
+
+.vocab-pronunciation-note {
+  margin-top: 24px;
+  padding: 18px;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  background: var(--card-bg);
+}
+
+.vocab-subgroup-note .vocab-pronunciation-note {
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 10px 12px;
+}
+
+/* JUDUL NOTE */
+.vocab-subgroup-note .vocab-pronunciation-title {
+  font-size: 0.9rem;
+  margin-bottom: 4px;
+}
+
+/* ISI NOTE */
+.vocab-subgroup-note .vocab-pronunciation-intro {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+
+.vocab-pronunciation-title {
+  margin: 0 0 10px;
+  font-size: 1.1rem;
+  color: var(--text-color);
+}
+
+.vocab-pronunciation-intro {
+  margin-bottom: 16px;
+  line-height: 1.7;
+  color: var(--text-color);
+}
+
+.vocab-pronunciation-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vocab-pronunciation-table {
+  width: 100%;
+  min-width: 420px;
+  border-collapse: collapse;
+  color: var(--text-color);
+}
+
+.vocab-pronunciation-table th,
+.vocab-pronunciation-table td {
+  padding: 11px 12px;
+  border: 1px solid var(--border-color);
+  text-align: left;
+}
+
+.vocab-pronunciation-table th {
+  font-weight: 700;
+  background: var(--card-bg);
+}
+
+.vocab-pronunciation-footer {
+  margin-top: 16px;
+  margin-bottom: 0;
+  line-height: 1.7;
+  font-size: 0.92rem;
+  color: var(--text-color);
+}
+
+/* CATATAN JENIS KATA KERJA KELOMPOK 5 — BARU */
+
+.vocab-group-note {
+  margin: 10px 0 16px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: var(--card-bg, #f5f5f5);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.vocab-group-note strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+
+.vocab-group-note p {
+  margin: 3px 0;
+  font-size: 12px;
+}
+
+/* ======================================================
+   PENINGKATAN KENYAMANAN HP — KOSAKATA N5
+   Teks detail lebih terbaca dan tombol memiliki area sentuh cukup.
+====================================================== */
+@media (max-width: 600px) {
+  .vocab-group-card h3 {
+    font-size: 15px;
+  }
+
+  .vocab-group-card p {
+    font-size: 12px;
+    line-height: 1.65;
+  }
+
+  .vocab-close-button {
+    min-height: 44px;
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+
+  .vocab-subgroup-toggle {
+    min-height: 50px;
+    padding: 14px;
+  }
+
+  .vocab-subgroup-name {
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  .vocab-word-toggle {
+    min-height: 52px;
+    padding: 12px;
+  }
+
+  .vocab-word-label {
+    font-size: 11px;
+  }
+
+  .vocab-word-detail .vocab-word-romaji,
+  .vocab-word-detail .vocab-word-meaning,
+  .vocab-word-detail > p {
+    font-size: 13px;
+    line-height: 1.75;
+  }
+
+  .vocab-example p {
+    font-size: 13px;
+    line-height: 1.75;
+  }
+
+  .vocab-audio-button {
+    min-height: 44px;
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+
+  .vocab-subgroup-note .vocab-pronunciation-title {
+    font-size: 14px;
+  }
+
+  .vocab-subgroup-note .vocab-pronunciation-intro {
+    font-size: 13px;
+    line-height: 1.7;
+  }
+
+  .vocab-group-note,
+  .vocab-group-note strong,
+  .vocab-group-note p {
+    font-size: 13px;
+    line-height: 1.7;
+  }
+
+  .vocab-inner-tab {
+    min-height: 48px;
+    padding: 11px 12px;
+    font-size: 13px;
+  }
+}

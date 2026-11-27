@@ -1,0 +1,359 @@
+{
+  "groups": [
+    {
+      "number": 14,
+      "title": "Kelompok 14 — Kata Ganti Orang & Sistem Penunjuk",
+      "description": "Pelajari kata ganti orang serta kata penunjuk benda dan tempat melalui kosakata dan contoh kalimat sederhana.",
+      "subgroups": [
+        {
+          "number": "14.1",
+          "title": "Kata Ganti Orang (人称代名詞・にんしょうだいめいし)",
+          "note": {
+            "title": "Catatan",
+            "intro": "Dalam percakapan bahasa Jepang, kata ganti orang sering dihilangkan jika orang yang dibicarakan sudah jelas dari konteks. あなた terkadang terdengar terlalu langsung; menyebut nama ditambah さん sering lebih alami. かれ (彼) dan かのじょ (彼女) juga dapat berarti pacar laki-laki atau perempuan, sesuai konteks."
+          },
+          "tabs": [
+            {
+              "title": "Kata Ganti Orang",
+              "words": [
+                {
+                  "jp": "わたし (私)",
+                  "romaji": "Watashi",
+                  "meaning": "Saya",
+                  "audio": "わたし"
+                },
+                {
+                  "jp": "わたしたち (私たち)",
+                  "romaji": "Watashitachi",
+                  "meaning": "Kami / kita",
+                  "audio": "わたしたち"
+                },
+                {
+                  "jp": "ぼく (僕)",
+                  "romaji": "Boku",
+                  "meaning": "Saya (umumnya digunakan laki-laki)",
+                  "audio": "ぼく"
+                },
+                {
+                  "jp": "あなた",
+                  "romaji": "Anata",
+                  "meaning": "Kamu / Anda",
+                  "audio": "あなた"
+                },
+                {
+                  "jp": "かれ (彼)",
+                  "romaji": "Kare",
+                  "meaning": "Dia laki-laki",
+                  "audio": "かれ"
+                },
+                {
+                  "jp": "かのじょ (彼女)",
+                  "romaji": "Kanojo",
+                  "meaning": "Dia perempuan",
+                  "audio": "かのじょ"
+                },
+                {
+                  "jp": "みんな (皆)",
+                  "romaji": "Minna",
+                  "meaning": "Semua orang (kasual)",
+                  "audio": "みんな"
+                },
+                {
+                  "jp": "みなさん (皆さん)",
+                  "romaji": "Minasan",
+                  "meaning": "Semuanya (lebih sopan)",
+                  "audio": "みなさん"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "わたしは学生です。",
+                  "romaji": "Watashi wa gakusei desu.",
+                  "meaning": "Saya adalah pelajar.",
+                  "audio": "わたしはがくせいです。"
+                },
+                {
+                  "jp": "わたしたちは日本語を勉強します。",
+                  "romaji": "Watashitachi wa nihongo o benkyou shimasu.",
+                  "meaning": "Kami belajar bahasa Jepang.",
+                  "audio": "わたしたちはにほんごをべんきょうします。"
+                },
+                {
+                  "jp": "ぼくは会社員です。",
+                  "romaji": "Boku wa kaishain desu.",
+                  "meaning": "Saya adalah karyawan.",
+                  "audio": "ぼくはかいしゃいんです。"
+                },
+                {
+                  "jp": "あなたは学生ですか。",
+                  "romaji": "Anata wa gakusei desu ka.",
+                  "meaning": "Apakah kamu pelajar?",
+                  "audio": "あなたはがくせいですか。"
+                },
+                {
+                  "jp": "かれは先生です。",
+                  "romaji": "Kare wa sensei desu.",
+                  "meaning": "Dia laki-laki adalah guru.",
+                  "audio": "かれはせんせいです。"
+                },
+                {
+                  "jp": "かのじょは学生です。",
+                  "romaji": "Kanojo wa gakusei desu.",
+                  "meaning": "Dia perempuan adalah pelajar.",
+                  "audio": "かのじょはがくせいです。"
+                },
+                {
+                  "jp": "みんな、元気ですか。",
+                  "romaji": "Minna, genki desu ka.",
+                  "meaning": "Apa kabar semuanya?",
+                  "audio": "みんな、げんきですか。"
+                },
+                {
+                  "jp": "みなさん、こんにちは。",
+                  "romaji": "Minasan, konnichiwa.",
+                  "meaning": "Halo, semuanya.",
+                  "audio": "みなさん、こんにちは。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.2",
+          "title": "Penunjuk Benda (物を指す言葉・ものをさすことば)",
+          "note": {
+            "title": "Catatan",
+            "intro": "         これ・それ・あれ・どれ dapat berdiri sendiri untuk menunjuk benda. Sedangkan この・その・あの・どの harus diikuti kata benda, misalnya このほん (buku ini)."
+          },
+          "tabs": [
+            {
+              "title": "Penunjuk Benda",
+              "words": [
+                {
+                  "jp": "これ",
+                  "romaji": "Kore",
+                  "meaning": "Ini",
+                  "audio": "これ"
+                },
+                {
+                  "jp": "それ",
+                  "romaji": "Sore",
+                  "meaning": "Itu (dekat lawan bicara)",
+                  "audio": "それ"
+                },
+                {
+                  "jp": "あれ",
+                  "romaji": "Are",
+                  "meaning": "Itu di sana (jauh dari pembicara dan lawan bicara)",
+                  "audio": "あれ"
+                },
+                {
+                  "jp": "どれ",
+                  "romaji": "Dore",
+                  "meaning": "Yang mana",
+                  "audio": "どれ"
+                },
+                {
+                  "jp": "このほん (この本)",
+                  "romaji": "Kono hon",
+                  "meaning": "Buku ini",
+                  "audio": "このほん"
+                },
+                {
+                  "jp": "そのほん (その本)",
+                  "romaji": "Sono hon",
+                  "meaning": "Buku itu (dekat lawan bicara)",
+                  "audio": "そのほん"
+                },
+                {
+                  "jp": "あのほん (あの本)",
+                  "romaji": "Ano hon",
+                  "meaning": "Buku itu di sana",
+                  "audio": "あのほん"
+                },
+                {
+                  "jp": "どのほん (どの本)",
+                  "romaji": "Dono hon",
+                  "meaning": "Buku yang mana",
+                  "audio": "どのほん"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "これは本です。",
+                  "romaji": "Kore wa hon desu.",
+                  "meaning": "Ini buku.",
+                  "audio": "これはほんです。"
+                },
+                {
+                  "jp": "それは何ですか。",
+                  "romaji": "Sore wa nan desu ka.",
+                  "meaning": "Itu apa?",
+                  "audio": "それはなんですか。"
+                },
+                {
+                  "jp": "あれは学校です。",
+                  "romaji": "Are wa gakkou desu.",
+                  "meaning": "Itu sekolah di sana.",
+                  "audio": "あれはがっこうです。"
+                },
+                {
+                  "jp": "どれがあなたの本ですか。",
+                  "romaji": "Dore ga anata no hon desu ka.",
+                  "meaning": "Yang mana bukumu?",
+                  "audio": "どれがあなたのほんですか。"
+                },
+                {
+                  "jp": "この本はおもしろいです。",
+                  "romaji": "Kono hon wa omoshiroi desu.",
+                  "meaning": "Buku ini menarik.",
+                  "audio": "このほんはおもしろいです。"
+                },
+                {
+                  "jp": "その本はだれのですか。",
+                  "romaji": "Sono hon wa dare no desu ka.",
+                  "meaning": "Buku itu milik siapa?",
+                  "audio": "そのほんはだれのですか。"
+                },
+                {
+                  "jp": "あの本をください。",
+                  "romaji": "Ano hon o kudasai.",
+                  "meaning": "Tolong berikan buku yang di sana.",
+                  "audio": "あのほんをください。"
+                },
+                {
+                  "jp": "どの本を読みますか。",
+                  "romaji": "Dono hon o yomimasu ka.",
+                  "meaning": "Buku yang mana yang akan dibaca?",
+                  "audio": "どのほんをよみますか。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.3",
+          "title": "Penunjuk Tempat (場所を表す言葉・ばしょをあらわすことば)",
+          "note": {
+            "title": "Catatan",
+            "intro": "ここ・そこ・あそこ・どこ digunakan untuk menunjukkan lokasi. Sedangkan こちら・そちら・あちら・どちら merupakan bentuk yang lebih sopan dan juga dapat digunakan untuk menunjukkan tempat atau arah."
+          },
+          "tabs": [
+            {
+              "title": "Penunjuk Tempat",
+              "words": [
+                {
+                  "jp": "ここ",
+                  "romaji": "Koko",
+                  "meaning": "Di sini",
+                  "audio": "ここ"
+                },
+                {
+                  "jp": "そこ",
+                  "romaji": "Soko",
+                  "meaning": "Di situ (dekat lawan bicara)",
+                  "audio": "そこ"
+                },
+                {
+                  "jp": "あそこ",
+                  "romaji": "Asoko",
+                  "meaning": "Di sana (jauh dari pembicara dan lawan bicara)",
+                  "audio": "あそこ"
+                },
+                {
+                  "jp": "どこ",
+                  "romaji": "Doko",
+                  "meaning": "Di mana",
+                  "audio": "どこ"
+                },
+                {
+                  "jp": "こちら",
+                  "romaji": "Kochira",
+                  "meaning": "Di sini / arah sini (lebih sopan)",
+                  "audio": "こちら"
+                },
+                {
+                  "jp": "そちら",
+                  "romaji": "Sochira",
+                  "meaning": "Di situ / arah sana (lebih sopan)",
+                  "audio": "そちら"
+                },
+                {
+                  "jp": "あちら",
+                  "romaji": "Achira",
+                  "meaning": "Di sana / arah sana (lebih sopan)",
+                  "audio": "あちら"
+                },
+                {
+                  "jp": "どちら",
+                  "romaji": "Dochira",
+                  "meaning": "Di mana / arah mana (lebih sopan)",
+                  "audio": "どちら"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "ここは教室です。",
+                  "romaji": "Koko wa kyoushitsu desu.",
+                  "meaning": "Di sini adalah ruang kelas.",
+                  "audio": "ここはきょうしつです。"
+                },
+                {
+                  "jp": "そこに座ってください。",
+                  "romaji": "Soko ni suwatte kudasai.",
+                  "meaning": "Silakan duduk di situ.",
+                  "audio": "そこにすわってください。"
+                },
+                {
+                  "jp": "あそこに学校があります。",
+                  "romaji": "Asoko ni gakkou ga arimasu.",
+                  "meaning": "Di sana ada sekolah.",
+                  "audio": "あそこにがっこうがあります。"
+                },
+                {
+                  "jp": "トイレはどこですか。",
+                  "romaji": "Toire wa doko desu ka.",
+                  "meaning": "Toilet ada di mana?",
+                  "audio": "といれはどこですか。"
+                },
+                {
+                  "jp": "こちらへ来てください。",
+                  "romaji": "Kochira e kite kudasai.",
+                  "meaning": "Silakan datang ke arah sini.",
+                  "audio": "こちらへきてください。"
+                },
+                {
+                  "jp": "そちらにありますか。",
+                  "romaji": "Sochira ni arimasu ka.",
+                  "meaning": "Apakah ada di sana?",
+                  "audio": "そちらにありますか。"
+                },
+                {
+                  "jp": "駅はあちらです。",
+                  "romaji": "Eki wa achira desu.",
+                  "meaning": "Stasiun ada di arah sana.",
+                  "audio": "えきはあちらです。"
+                },
+                {
+                  "jp": "お手洗いはどちらですか。",
+                  "romaji": "Otearai wa dochira desu ka.",
+                  "meaning": "Di manakah toilet? (lebih sopan)",
+                  "audio": "おてあらいはどちらですか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

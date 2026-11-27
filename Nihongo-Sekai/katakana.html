@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#355C45">
+  <meta name="description" content="Nihongo Sekai — teman belajar Katakana bahasa Jepang.">
+
+  <title>Belajar Katakana — Nihongo Sekai</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- KATAKANA BARU — HEADER DAN NAVIGASI -->
+  <header class="site-header" id="home">
+    <nav class="navbar" aria-label="Navigasi utama">
+      <a class="logo" href="index.html" aria-label="Nihongo Sekai, kembali ke beranda">
+        <span class="logo-mark" aria-hidden="true">日</span>
+        <span>Nihongo <strong>Sekai</strong><small>日本語の世界</small></span>
+      </a>
+
+      <div class="nav-links" id="navLinks">
+        <a href="index.html">Home</a>
+        <a href="materi.html">Materi</a>
+        <a href="tentang.html">Tentang</a>
+      </div>
+      <div class="nav-actions">
+        <!-- DARK MODE BARU -->
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Aktifkan mode gelap">
+          <span id="themeIcon">🌙</span>
+        </button>
+
+        <!-- HAMBURGER -->
+        <button class="menu-toggle" id="menuToggle" type="button" aria-label="Buka menu" aria-controls="navLinks" aria-expanded="false">
+          ☰
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- KATAKANA BARU — TOMBOL KEMBALI -->
+    <div class="page-width" style="padding-top:24px">
+      <a class="back-link" href="index.html">← Kembali ke Halaman</a>
+    </div>
+
+    <!-- KATAKANA BARU — BAGIAN MATERI -->
+    <section class="hiragana-section page-width" id="katakana"
+      aria-labelledby="katakanaTitle">
+
+      <div class="section-heading hiragana-heading">
+        <div>
+          <span class="section-kicker">PELAJARAN KEDUA</span>
+          <h2 id="katakanaTitle">カタカナ · Katakana</h2>
+
+          <!-- KATAKANA BARU — DESKRIPSI JUMLAH KARAKTER -->
+          <p>Pelajari 104 karakter Katakana, mulai dari huruf dasar hingga gabungan. Pilih salah satu huruf untuk melihat cara baca dan contoh katanya.</p>
+        </div>
+        <span class="heading-flower" aria-hidden="true">ア</span>
+      </div>
+
+      <!-- KATAKANA BARU — PENJELASAN -->
+      <div class="lesson-intro">
+        <span class="lesson-intro-mark" aria-hidden="true">文</span>
+        <div>
+          <strong>Apa itu Katakana?</strong>
+          <p>Katakana adalah salah satu sistem tulisan Jepang. Huruf ini umumnya digunakan untuk menulis kata serapan dari bahasa asing, nama asing, dan bunyi tiruan.</p>
+        </div>
+      </div>
+
+      <!-- KATAKANA BARU — TOOLBAR -->
+      <div class="kana-toolbar">
+        <div>
+          <strong>Daftar huruf Katakana</strong>
+          <!-- KATAKANA BARU — JUMLAH HURUF -->
+          <span id="kanaCount"> · 104 karakter</span>
+        </div>
+        <span class="tap-hint">Ketuk huruf untuk belajar</span>
+      </div>
+
+        
+<!-- KATAKANA BARU — TAB KATEGORI -->
+
+<div class="kana-tabs" aria-label="Kategori Katakana">
+
+  <!-- KATAKANA BARU — TAB DASAR -->
+  <button class="kana-tab" type="button"
+    data-category="basic" aria-pressed="false">
+    Dasar
+  </button>
+
+  <!-- KATAKANA BARU — TAB DAKUTEN -->
+  <button class="kana-tab" type="button"
+    data-category="dakuten" aria-pressed="false">
+    Dakuten
+  </button>
+
+  <!-- KATAKANA BARU — TAB HANDAKUTEN -->
+  <button class="kana-tab" type="button"
+    data-category="handakuten" aria-pressed="false">
+    Handakuten
+  </button>
+
+  <!-- KATAKANA BARU — TAB YOUON -->
+  <button class="kana-tab" type="button"
+    data-category="youon" aria-pressed="false">
+    Youon
+  </button>
+
+      </div>
+
+      <!-- KATAKANA BARU — GRID HURUF -->
+      <div class="kana-grid" id="kanaGrid"
+        aria-label="Daftar huruf Katakana"></div>
+
+
+      <!-- KATAKANA BARU — DETAIL HURUF + PANEL STROKE ORDER -->
+      <article class="kana-detail" id="kanaDetail" aria-live="polite" hidden>
+        <div class="kana-detail-character" id="detailKana">ア</div>
+
+        <div class="kana-detail-copy">
+          <span class="detail-label">HURUF YANG DIPILIH</span>
+          <h3 id="detailRomaji">a</h3>
+
+          <p id="detailDescription">Dibaca seperti bunyi a.</p>
+
+        <div class="example-word">
+          <span>CONTOH KATA</span>
+            <strong id="detailWord">アイス  </strong>
+            <small id="detailMeaning">Es krim</small>
+        </div>
+
+        <!-- KATAKANA BARU — AREA ANIMASI URUTAN CORETAN -->
+        <div class="stroke-order-panel" id="strokeOrderPanel">
+          <h4>URUTAN CORETAN</h4>
+
+        <div class="stroke-order-animation" id="strokeAnimation">
+          <!-- Animasi ditampilkan melalui JavaScript -->
+        </div>
+
+            <p class="stroke-order-info" id="strokeInfo">
+              Pelajari urutan penulisan huruf Jepang.
+            </p>
+
+            <button type="button" id="replayStroke">
+               ↻ Ulangi Animasi
+            </button>
+          </div>
+        </div>
+      </article>
+
+
+      <!-- KATAKANA BARU — BAGIAN LATIHAN -->
+      <section class="hiragana-quiz" aria-labelledby="quizTitle">
+
+        <div class="quiz-heading">
+          <span class="quiz-icon" aria-hidden="true">✎</span>
+          <div>
+            <span class="section-kicker">CEK PEMAHAMANMU</span>
+            <h3 id="quizTitle">Latihan Katakana</h3>
+            <p>Tebak romaji dari huruf yang muncul.</p>
+          </div>
+        </div>
+
+        <div class="quiz-content">
+
+        <!-- KATAKANA BARU — TOMBOL PILIH MODE -->
+        <div class="quiz-start" id="quizStart">
+          <p>Pilih mode latihan yang ingin kamu coba.</p>
+
+          <button class="primary-button quiz-start-button"
+            id="startRelaxedKatakana" type="button">
+            Mode Santai
+          </button>
+
+          <button class="primary-button quiz-start-button"
+            id="startChallengeKatakana" type="button">
+            Mode Tantangan
+          </button>
+        </div>
+        </div>
+      </section>
+
+    </section>
+  </main>
+
+  <!-- KATAKANA BARU — FOOTER -->
+  <footer class="footer">
+    <p class="footer-jp">がんばって！</p>
+    <p>Semangat belajar bahasa Jepang 🌸</p>
+    <small>© <span id="year">2026</span> Nihongo Sekai</small>
+  </footer>
+
+  <!-- KATAKANA BARU — JAVASCRIPT -->
+  <script src="js/script.js"></script>
+  <script src="js/katakana.js"></script>
+
+</body>
+</html>

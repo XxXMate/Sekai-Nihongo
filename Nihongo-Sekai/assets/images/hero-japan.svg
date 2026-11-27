@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" fill="none">
+<defs>
+  <linearGradient id="fuji" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce8dd"/><stop offset="1" stop-color="#94ad98"/></linearGradient>
+  <linearGradient id="roof" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#597866"/><stop offset="1" stop-color="#294a38"/></linearGradient>
+  <linearGradient id="pagoda" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d98779"/><stop offset="1" stop-color="#a95850"/></linearGradient>
+</defs>
+<!-- kabut dan bukit jauh -->
+<path d="M0 480 Q120 420 240 470 T480 460 T760 450 T1000 430 V600 H0Z" fill="#b9cbb8" opacity=".42"/>
+<path d="M0 520 Q140 445 280 500 T560 490 T820 475 T1000 485 V600 H0Z" fill="#78967d" opacity=".45"/>
+<!-- gunung fuji -->
+<path d="M155 505 L465 150 Q485 125 505 155 L805 505Z" fill="url(#fuji)" opacity=".95"/>
+<path d="M404 220 L465 150 Q485 125 505 155 L566 226 L525 210 L499 234 L474 211 L452 232Z" fill="#fffdf8" opacity=".96"/>
+<path d="M155 505 Q310 455 465 478 Q630 447 805 505" stroke="#6e9179" stroke-width="8" opacity=".22"/>
+<!-- awan lembut -->
+<g fill="#fffdf8" opacity=".78"><path d="M90 450 Q110 420 142 440 Q163 405 198 430 Q225 414 245 447 Q272 449 277 474 H86Z"/><path d="M555 422 Q576 395 607 416 Q629 386 660 414 Q694 403 709 439 H548Z"/></g>
+<!-- pagoda -->
+<g transform="translate(760 170)">
+  <path d="M82 24 L92 0 L102 24 L96 30 L88 30Z" fill="#355c45"/>
+  <path d="M90 0 L90 -18" stroke="#355c45" stroke-width="5" stroke-linecap="round"/>
+  <path d="M45 100 H140 V360 H45Z" fill="url(#pagoda)"/>
+  <g fill="#f5e9d8"><rect x="58" y="124" width="13" height="28"/><rect x="87" y="124" width="13" height="28"/><rect x="116" y="124" width="13" height="28"/><rect x="58" y="224" width="13" height="30"/><rect x="87" y="224" width="13" height="30"/><rect x="116" y="224" width="13" height="30"/></g>
+  <g fill="url(#roof)" stroke="#355c45" stroke-width="4" stroke-linejoin="round">
+    <path d="M5 112 Q90 62 180 112 Q130 105 90 91 Q50 105 5 112Z"/>
+    <path d="M-10 212 Q90 158 195 212 Q140 203 90 189 Q40 203 -10 212Z"/>
+    <path d="M-22 314 Q90 254 208 314 Q144 303 90 287 Q36 303 -22 314Z"/>
+  </g>
+  <path d="M28 360 H160" stroke="#355c45" stroke-width="9" stroke-linecap="round"/>
+</g>
+<!-- pohon sakura dan ranting -->
+<path d="M995 35 Q900 55 850 110 T742 166" stroke="#715747" stroke-width="11" stroke-linecap="round"/>
+<path d="M918 58 Q880 15 846 2 M872 91 Q822 50 790 42 M826 126 Q785 100 754 100" stroke="#80604c" stroke-width="5" stroke-linecap="round"/>
+<g fill="#f1b9b2" stroke="#e6a39d" stroke-width="2" opacity=".95">
+ <g transform="translate(900 32)"><ellipse cy="-15" rx="10" ry="17"/><ellipse cx="15" cy="-4" rx="10" ry="17" transform="rotate(65 15 -4)"/><ellipse cx="9" cy="14" rx="10" ry="17" transform="rotate(135 9 14)"/><ellipse cx="-10" cy="13" rx="10" ry="17" transform="rotate(205 -10 13)"/><ellipse cx="-16" cy="-5" rx="10" ry="17" transform="rotate(285 -16 -5)"/><circle r="5" fill="#d58b75" stroke="none"/></g>
+ <g transform="translate(824 86) scale(.82)"><ellipse cy="-15" rx="10" ry="17"/><ellipse cx="15" cy="-4" rx="10" ry="17" transform="rotate(65 15 -4)"/><ellipse cx="9" cy="14" rx="10" ry="17" transform="rotate(135 9 14)"/><ellipse cx="-10" cy="13" rx="10" ry="17" transform="rotate(205 -10 13)"/><ellipse cx="-16" cy="-5" rx="10" ry="17" transform="rotate(285 -16 -5)"/><circle r="5" fill="#d58b75" stroke="none"/></g>
+ <g transform="translate(964 92) scale(.9)"><ellipse cy="-15" rx="10" ry="17"/><ellipse cx="15" cy="-4" rx="10" ry="17" transform="rotate(65 15 -4)"/><ellipse cx="9" cy="14" rx="10" ry="17" transform="rotate(135 9 14)"/><ellipse cx="-10" cy="13" rx="10" ry="17" transform="rotate(205 -10 13)"/><ellipse cx="-16" cy="-5" rx="10" ry="17" transform="rotate(285 -16 -5)"/><circle r="5" fill="#d58b75" stroke="none"/></g>
+</g>
+<!-- ombak Jepang di dasar -->
+<g stroke="#89a58c" stroke-width="9" opacity=".55">
+ <path d="M0 555 Q40 510 80 555 T160 555 T240 555 T320 555 T400 555 T480 555 T560 555 T640 555"/>
+ <path d="M0 582 Q40 537 80 582 T160 582 T240 582 T320 582 T400 582 T480 582 T560 582 T640 582"/>
+</g>
+<!-- kelopak beterbangan -->
+<g fill="#e9a7a0" opacity=".8"><path d="M650 145 q18 -19 28 2 q-15 19 -28 -2Z"/><path d="M710 260 q17 -17 27 3 q-14 18 -27 -3Z"/><path d="M600 330 q14 -16 23 2 q-12 16 -23 -2Z"/><path d="M925 285 q16 -17 25 3 q-13 17 -25 -3Z"/></g>
+</svg>

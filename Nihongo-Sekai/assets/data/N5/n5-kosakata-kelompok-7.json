@@ -1,0 +1,203 @@
+{
+  "groups": [
+    {
+      "number": 7,
+      "title": "Makanan dan Minuman",
+      "description": "Kosakata dasar tentang makanan dan minuman yang sering dijumpai dalam kehidupan sehari-hari.",
+      "subgroups": [
+        {
+          "number": "7.1",
+          "title": "Makanan (食べ物・たべもの)",
+          "words": [
+            {
+              "jp": "ごはん (ご飯)",
+              "romaji": "Gohan",
+              "meaning": "Nasi",
+              "audio": true,
+              "example": "ごはんを たべます。",
+              "exampleRomaji": "Gohan o tabemasu.",
+              "translation": "Saya makan nasi."
+            },
+            {
+              "jp": "パン",
+              "romaji": "Pan",
+              "meaning": "Roti",
+              "audio": true,
+              "example": "パンを たべます。",
+              "exampleRomaji": "Pan o tabemasu.",
+              "translation": "Saya makan roti."
+            },
+            {
+              "jp": "たまご (卵)",
+              "romaji": "Tamago",
+              "meaning": "Telur",
+              "audio": true,
+              "example": "たまごを たべます。",
+              "exampleRomaji": "Tamago o tabemasu.",
+              "translation": "Saya makan telur."
+            },
+            {
+              "jp": "にく (肉)",
+              "romaji": "Niku",
+              "meaning": "Daging",
+              "audio": true,
+              "example": "にくを たべます。",
+              "exampleRomaji": "Niku o tabemasu.",
+              "translation": "Saya makan daging."
+            },
+            {
+              "jp": "さかな (魚)",
+              "romaji": "Sakana",
+              "meaning": "Ikan",
+              "audio": true,
+              "example": "さかなを たべます。",
+              "exampleRomaji": "Sakana o tabemasu.",
+              "translation": "Saya makan ikan."
+            },
+            {
+              "jp": "やさい (野菜)",
+              "romaji": "Yasai",
+              "meaning": "Sayuran",
+              "audio": true,
+              "example": "やさいを たべます。",
+              "exampleRomaji": "Yasai o tabemasu.",
+              "translation": "Saya makan sayuran."
+            },
+            {
+              "jp": "くだもの (果物)",
+              "romaji": "Kudamono",
+              "meaning": "Buah-buahan",
+              "audio": true,
+              "example": "くだものを たべます。",
+              "exampleRomaji": "Kudamono o tabemasu.",
+              "translation": "Saya makan buah-buahan."
+            },
+            {
+              "jp": "ケーキ",
+              "romaji": "Keeki",
+              "meaning": "Kue",
+              "audio": true,
+              "example": "ケーキを たべます。",
+              "exampleRomaji": "Keeki o tabemasu.",
+              "translation": "Saya makan kue."
+            },
+            {
+              "jp": "カレー",
+              "romaji": "Karee",
+              "meaning": "Kari",
+              "audio": true,
+              "example": "カレーを たべます。",
+              "exampleRomaji": "Karee o tabemasu.",
+              "translation": "Saya makan kari."
+            },
+            {
+              "jp": "おにぎり (お握り)",
+              "romaji": "Onigiri",
+              "meaning": "Nasi kepal",
+              "audio": true,
+              "example": "おにぎりを たべます。",
+              "exampleRomaji": "Onigiri o tabemasu.",
+              "translation": "Saya makan nasi kepal."
+            }
+          ]
+        },
+        {
+          "number": "7.2",
+          "title": "Minuman (飲み物・のみもの)",
+          "words": [
+            {
+              "jp": "みず (水)",
+              "romaji": "Mizu",
+              "meaning": "Air",
+              "audio": true,
+              "example": "みずを のみます。",
+              "exampleRomaji": "Mizu o nomimasu.",
+              "translation": "Saya minum air."
+            },
+            {
+              "jp": "おちゃ (お茶)",
+              "romaji": "Ocha",
+              "meaning": "Teh",
+              "audio": true,
+              "example": "おちゃを のみます。",
+              "exampleRomaji": "Ocha o nomimasu.",
+              "translation": "Saya minum teh."
+            },
+            {
+              "jp": "ぎゅうにゅう (牛乳)",
+              "romaji": "Gyuunyuu",
+              "meaning": "Susu",
+              "audio": true,
+              "example": "ぎゅうにゅうを のみます。",
+              "exampleRomaji": "Gyuunyuu o nomimasu.",
+              "translation": "Saya minum susu."
+            },
+            {
+              "jp": "コーヒー",
+              "romaji": "Koohii",
+              "meaning": "Kopi",
+              "audio": true,
+              "example": "コーヒーを のみます。",
+              "exampleRomaji": "Koohii o nomimasu.",
+              "translation": "Saya minum kopi."
+            },
+            {
+              "jp": "ジュース",
+              "romaji": "Juusu",
+              "meaning": "Jus",
+              "audio": true,
+              "example": "ジュースを のみます。",
+              "exampleRomaji": "Juusu o nomimasu.",
+              "translation": "Saya minum jus."
+            },
+            {
+              "jp": "こうちゃ (紅茶)",
+              "romaji": "Koucha",
+              "meaning": "Teh hitam",
+              "audio": true,
+              "example": "こうちゃを のみます。",
+              "exampleRomaji": "Koucha o nomimasu.",
+              "translation": "Saya minum teh hitam."
+            },
+            {
+              "jp": "コーラ",
+              "romaji": "Koora",
+              "meaning": "Cola",
+              "audio": true,
+              "example": "コーラを のみます。",
+              "exampleRomaji": "Koora o nomimasu.",
+              "translation": "Saya minum cola."
+            },
+            {
+              "jp": "りょくちゃ (緑茶)",
+              "romaji": "Ryokucha",
+              "meaning": "Teh hijau",
+              "audio": true,
+              "example": "りょくちゃを のみます。",
+              "exampleRomaji": "Ryokucha o nomimasu.",
+              "translation": "Saya minum teh hijau."
+            },
+            {
+              "jp": "レモンティー",
+              "romaji": "Remon tii",
+              "meaning": "Teh lemon",
+              "audio": true,
+              "example": "レモンティーを のみます。",
+              "exampleRomaji": "Remon tii o nomimasu.",
+              "translation": "Saya minum teh lemon."
+            },
+            {
+              "jp": "ミルクティー",
+              "romaji": "Miruku tii",
+              "meaning": "Teh susu",
+              "audio": true,
+              "example": "ミルクティーを のみます。",
+              "exampleRomaji": "Miruku tii o nomimasu.",
+              "translation": "Saya minum teh susu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "groups": [
+    {
+      "number": 16,
+      "title": "Kelompok 16 — Transportasi",
+      "description": "Pelajari kosakata alat transportasi dan gunakan dalam kalimat sederhana untuk menceritakan perjalanan sehari-hari.",
+      "subgroups": [
+        {
+          "number": "16.1",
+          "title": "Alat Transportasi (乗り物・のりもの)",
+          "words": [
+            {
+              "jp": "でんしゃ (電車)",
+              "romaji": "Densha",
+              "meaning": "Kereta listrik",
+              "audio": "でんしゃ"
+            },
+            {
+              "jp": "ちかてつ (地下鉄)",
+              "romaji": "Chikatetsu",
+              "meaning": "Kereta bawah tanah",
+              "audio": "ちかてつ"
+            },
+            {
+              "jp": "バス",
+              "romaji": "Basu",
+              "meaning": "Bus",
+              "audio": "バス"
+            },
+            {
+              "jp": "タクシー",
+              "romaji": "Takushii",
+              "meaning": "Taksi",
+              "audio": "タクシー"
+            },
+            {
+              "jp": "じてんしゃ (自転車)",
+              "romaji": "Jitensha",
+              "meaning": "Sepeda",
+              "audio": "じてんしゃ"
+            },
+            {
+              "jp": "くるま (車)",
+              "romaji": "Kuruma",
+              "meaning": "Mobil",
+              "audio": "くるま"
+            },
+            {
+              "jp": "ひこうき (飛行機)",
+              "romaji": "Hikouki",
+              "meaning": "Pesawat terbang",
+              "audio": "ひこうき"
+            },
+            {
+              "jp": "ふね (船)",
+              "romaji": "Fune",
+              "meaning": "Kapal",
+              "audio": "ふね"
+            },
+            {
+              "jp": "しんかんせん (新幹線)",
+              "romaji": "Shinkansen",
+              "meaning": "Kereta cepat Shinkansen",
+              "audio": "しんかんせん"
+            },
+            {
+              "jp": "バイク",
+              "romaji": "Baiku",
+              "meaning": "Sepeda motor",
+              "audio": "バイク"
+            },
+            {
+              "jp": "トラック",
+              "romaji": "Torakku",
+              "meaning": "Truk",
+              "audio": "トラック"
+            },
+            {
+              "jp": "モノレール",
+              "romaji": "Monoreeru",
+              "meaning": "Monorel",
+              "audio": "モノレール"
+            }
+          ]
+        },
+        {
+          "number": "16.2",
+          "title": "乗り物を使った文 (のりものをつかったぶん) — Kalimat dengan Kata Transportasi",
+          "note": {
+            "title": "Catatan Materi",
+            "intro": "Partikel で digunakan setelah kata transportasi untuk menunjukkan alat atau sarana yang digunakan saat bepergian. Pola sederhana: Alat Transportasi + で + Tempat Tujuan + へ／に + 行きます. Partikel へ atau に menunjukkan arah atau tujuan, sedangkan で menjelaskan kendaraan yang digunakan."
+          },
+          "words": [
+            {
+              "jp": "電車で学校へ行きます。",
+              "romaji": "Densha de gakkou e ikimasu.",
+              "meaning": "Saya pergi ke sekolah naik kereta.",
+              "audio": "でんしゃでがっこうへいきます。"
+            },
+            {
+              "jp": "地下鉄で会社へ行きます。",
+              "romaji": "Chikatetsu de kaisha e ikimasu.",
+              "meaning": "Saya pergi ke perusahaan naik kereta bawah tanah.",
+              "audio": "ちかてつでかいしゃへいきます。"
+            },
+            {
+              "jp": "バスで駅へ行きます。",
+              "romaji": "Basu de eki e ikimasu.",
+              "meaning": "Saya pergi ke stasiun naik bus.",
+              "audio": "バスでえきへいきます。"
+            },
+            {
+              "jp": "タクシーで病院へ行きます。",
+              "romaji": "Takushii de byouin e ikimasu.",
+              "meaning": "Saya pergi ke rumah sakit naik taksi.",
+              "audio": "タクシーでびょういんへいきます。"
+            },
+            {
+              "jp": "自転車で学校へ行きます。",
+              "romaji": "Jitensha de gakkou e ikimasu.",
+              "meaning": "Saya pergi ke sekolah naik sepeda.",
+              "audio": "じてんしゃでがっこうへいきます。"
+            },
+            {
+              "jp": "車で買い物に行きます。",
+              "romaji": "Kuruma de kaimono ni ikimasu.",
+              "meaning": "Saya pergi berbelanja naik mobil.",
+              "audio": "くるまでかいものにいきます。"
+            },
+            {
+              "jp": "飛行機で日本へ行きます。",
+              "romaji": "Hikouki de Nihon e ikimasu.",
+              "meaning": "Saya pergi ke Jepang naik pesawat.",
+              "audio": "ひこうきでにほんへいきます。"
+            },
+            {
+              "jp": "船で島へ行きます。",
+              "romaji": "Fune de shima e ikimasu.",
+              "meaning": "Saya pergi ke pulau naik kapal.",
+              "audio": "ふねでしまへいきます。"
+            },
+            {
+              "jp": "新幹線で東京へ行きます。",
+              "romaji": "Shinkansen de Toukyou e ikimasu.",
+              "meaning": "Saya pergi ke Tokyo naik Shinkansen.",
+              "audio": "しんかんせんでとうきょうへいきます。"
+            },
+            {
+              "jp": "バイクで会社へ行きます。",
+              "romaji": "Baiku de kaisha e ikimasu.",
+              "meaning": "Saya pergi ke perusahaan naik sepeda motor.",
+              "audio": "バイクでかいしゃへいきます。"
+            },
+            {
+              "jp": "トラックで荷物を運びます。",
+              "romaji": "Torakku de nimotsu o hakobimasu.",
+              "meaning": "Mengangkut barang menggunakan truk.",
+              "audio": "トラックでにもつをはこびます。"
+            },
+            {
+              "jp": "モノレールで空港へ行きます。",
+              "romaji": "Monoreeru de kuukou e ikimasu.",
+              "meaning": "Saya pergi ke bandara naik monorel.",
+              "audio": "モノレールでくうこうへいきます。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

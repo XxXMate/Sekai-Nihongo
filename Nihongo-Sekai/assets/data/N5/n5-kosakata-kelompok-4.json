@@ -1,0 +1,440 @@
+{
+  "groups": [
+    {
+      "number": 4,
+      "title": "Counter / Kata Bantu Bilangan",
+      "subgroups": [
+        {
+          "number": "4.1",
+          "title": "Penghitung Benda Umum (~つ) (物の数え方・もののかぞえかた)",
+          "tabs": [
+            {
+              "title": "Penghitung Benda Umum (~つ) (物の数え方・もののかぞえかた)",
+              "words": [
+                {
+                  "jp": "ひとつ (一つ)",
+                  "romaji": "Hitotsu",
+                  "meaning": "Satu benda",
+                  "label": "Umum",
+                  "audio": "ひとつ",
+                  "example": "りんごを一つください。",
+                  "exampleRomaji": "Ringo o hitotsu kudasai.",
+                  "translation": "Tolong beri saya satu apel."
+                },
+                {
+                  "jp": "ふたつ (二つ)",
+                  "romaji": "Futatsu",
+                  "meaning": "Dua benda",
+                  "label": "Umum",
+                  "audio": "ふたつ",
+                  "example": "りんごを二つ買いました。",
+                  "exampleRomaji": "Ringo o futatsu kaimashita.",
+                  "translation": "Saya membeli dua buah apel."
+                },
+                {
+                  "jp": "みっつ (三つ)",
+                  "romaji": "Mittsu",
+                  "meaning": "Tiga benda",
+                  "label": "Umum",
+                  "audio": "みっつ",
+                  "example": "ケーキを三つ食べました。",
+                  "exampleRomaji": "Keeki o mittsu tabemashita.",
+                  "translation": "Saya makan tiga potong kue."
+                },
+                {
+                  "jp": "よっつ (四つ)",
+                  "romaji": "Yottsu",
+                  "meaning": "Empat benda",
+                  "label": "Umum",
+                  "audio": "よっつ",
+                  "example": "卵を四つ買いました。",
+                  "exampleRomaji": "Tamago o yottsu kaimashita.",
+                  "translation": "Saya membeli empat butir telur."
+                },
+                {
+                  "jp": "いつつ (五つ)",
+                  "romaji": "Itsutsu",
+                  "meaning": "Lima benda",
+                  "label": "Umum",
+                  "audio": "いつつ",
+                  "example": "みかんを五つ食べました。",
+                  "exampleRomaji": "Mikan o itsutsu tabemashita.",
+                  "translation": "Saya makan lima buah jeruk."
+                },
+                {
+                  "jp": "むっつ (六つ)",
+                  "romaji": "Muttsu",
+                  "meaning": "Enam benda",
+                  "label": "Umum",
+                  "audio": "むっつ",
+                  "example": "箱が六つあります。",
+                  "exampleRomaji": "Hako ga muttsu arimasu.",
+                  "translation": "Ada enam kotak."
+                },
+                {
+                  "jp": "ななつ (七つ)",
+                  "romaji": "Nanatsu",
+                  "meaning": "Tujuh benda",
+                  "label": "Umum",
+                  "audio": "ななつ",
+                  "example": "りんごが七つあります。",
+                  "exampleRomaji": "Ringo ga nanatsu arimasu.",
+                  "translation": "Ada tujuh buah apel."
+                },
+                {
+                  "jp": "やっつ (八つ)",
+                  "romaji": "Yattsu",
+                  "meaning": "Delapan benda",
+                  "label": "Umum",
+                  "audio": "やっつ",
+                  "example": "パンを八つ買いました。",
+                  "exampleRomaji": "Pan o yattsu kaimashita.",
+                  "translation": "Saya membeli delapan roti."
+                },
+                {
+                  "jp": "ここのつ (九つ)",
+                  "romaji": "Kokonotsu",
+                  "meaning": "Sembilan benda",
+                  "label": "Umum",
+                  "audio": "ここのつ",
+                  "example": "いすが九つあります。",
+                  "exampleRomaji": "Isu ga kokonotsu arimasu.",
+                  "translation": "Ada sembilan kursi."
+                },
+                {
+                  "jp": "とお (十)",
+                  "romaji": "Too",
+                  "meaning": "Sepuluh benda",
+                  "label": "Umum",
+                  "audio": "とお",
+                  "example": "りんごを十ください。",
+                  "exampleRomaji": "Ringo o too kudasai.",
+                  "translation": "Tolong beri saya sepuluh apel."
+                },
+                {
+                  "jp": "いくつ (幾つ)",
+                  "romaji": "Ikutsu",
+                  "meaning": "Berapa banyak benda?",
+                  "label": "Umum",
+                  "audio": "いくつ",
+                  "example": "りんごはいくつありますか。",
+                  "exampleRomaji": "Ringo wa ikutsu arimasu ka.",
+                  "translation": "Ada berapa buah apel?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.2",
+          "title": "Penghitung Orang (~人) (人の数え方・ひとのかぞえかた)",
+          "tabs": [
+            {
+              "title": "Penghitung Orang (~人) (人の数え方・ひとのかぞえかた)",
+              "words": [
+                {
+                  "jp": "ひとり (一人)",
+                  "romaji": "Hitori",
+                  "meaning": "Satu orang",
+                  "label": "Umum",
+                  "audio": "ひとり",
+                  "example": "学生が一人います。",
+                  "exampleRomaji": "Gakusei ga hitori imasu.",
+                  "translation": "Ada satu orang siswa."
+                },
+                {
+                  "jp": "ふたり (二人)",
+                  "romaji": "Futari",
+                  "meaning": "Dua orang",
+                  "label": "Umum",
+                  "audio": "ふたり",
+                  "example": "教室に二人います。",
+                  "exampleRomaji": "Kyoushitsu ni futari imasu.",
+                  "translation": "Ada dua orang di kelas."
+                },
+                {
+                  "jp": "さんにん (三人)",
+                  "romaji": "Sannin",
+                  "meaning": "Tiga orang",
+                  "label": "Umum",
+                  "audio": "さんにん",
+                  "example": "家族は三人です。",
+                  "exampleRomaji": "Kazoku wa sannin desu.",
+                  "translation": "Keluarga saya terdiri dari tiga orang."
+                },
+                {
+                  "jp": "よにん (四人)",
+                  "romaji": "Yonin",
+                  "meaning": "Empat orang",
+                  "label": "Umum",
+                  "audio": "よにん",
+                  "example": "学生が四人います。",
+                  "exampleRomaji": "Gakusei ga yonin imasu.",
+                  "translation": "Ada empat orang siswa."
+                },
+                {
+                  "jp": "ごにん (五人)",
+                  "romaji": "Gonin",
+                  "meaning": "Lima orang",
+                  "label": "Umum",
+                  "audio": "ごにん",
+                  "example": "部屋に五人います。",
+                  "exampleRomaji": "Heya ni gonin imasu.",
+                  "translation": "Ada lima orang di kamar."
+                },
+                {
+                  "jp": "ろくにん (六人)",
+                  "romaji": "Rokunin",
+                  "meaning": "Enam orang",
+                  "label": "Umum",
+                  "audio": "ろくにん",
+                  "example": "クラスに六人います。",
+                  "exampleRomaji": "Kurasu ni rokunin imasu.",
+                  "translation": "Ada enam orang di kelas."
+                },
+                {
+                  "jp": "ななにん (七人)",
+                  "romaji": "Nananin",
+                  "meaning": "Tujuh orang",
+                  "label": "Umum",
+                  "audio": "ななにん",
+                  "note": "しちにん (Shichinin) juga merupakan cara baca yang digunakan.",
+                  "example": "家族は七人です。",
+                  "exampleRomaji": "Kazoku wa nananin desu.",
+                  "translation": "Keluarga itu terdiri dari tujuh orang."
+                },
+                {
+                  "jp": "はちにん (八人)",
+                  "romaji": "Hachinin",
+                  "meaning": "Delapan orang",
+                  "label": "Umum",
+                  "audio": "はちにん",
+                  "example": "会場に八人います。",
+                  "exampleRomaji": "Kaijou ni hachinin imasu.",
+                  "translation": "Ada delapan orang di tempat acara."
+                },
+                {
+                  "jp": "きゅうにん (九人)",
+                  "romaji": "Kyuunin",
+                  "meaning": "Sembilan orang",
+                  "label": "Umum",
+                  "audio": "きゅうにん",
+                  "example": "学生が九人います。",
+                  "exampleRomaji": "Gakusei ga kyuunin imasu.",
+                  "translation": "Ada sembilan orang siswa."
+                },
+                {
+                  "jp": "じゅうにん (十人)",
+                  "romaji": "Juunin",
+                  "meaning": "Sepuluh orang",
+                  "label": "Umum",
+                  "audio": "じゅうにん",
+                  "example": "部屋に十人います。",
+                  "exampleRomaji": "Heya ni juunin imasu.",
+                  "translation": "Ada sepuluh orang di kamar."
+                },
+                {
+                  "jp": "なんにん (何人)",
+                  "romaji": "Nan-nin",
+                  "meaning": "Berapa orang?",
+                  "label": "Umum",
+                  "audio": "なんにん",
+                  "example": "家族は何人ですか。",
+                  "exampleRomaji": "Kazoku wa nan-nin desu ka.",
+                  "translation": "Ada berapa orang dalam keluarga?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.3",
+          "title": "Counter Penting Lainnya (よく使う助数詞・よくつかうじょすうし)",
+          "tabs": [
+            {
+              "title": "Counter Penting Lainnya (よく使う助数詞・よくつかうじょすうし)",
+              "note": {
+                "title": "Catatan Penting",
+                "intro": "Hafalkan counter berikut karena sering digunakan dalam materi dan soal latihan JLPT N5. Tanda ~ menunjukkan tempat angka diletakkan sebelum counter. Perhatikan perubahan bunyi pada beberapa counter.",
+                "items": [
+                  {
+                    "number": "1本",
+                    "japanese": "いっぽん (一本)",
+                    "romaji": "Ippon"
+                  },
+                  {
+                    "number": "3本",
+                    "japanese": "さんぼん (三本)",
+                    "romaji": "Sanbon"
+                  },
+                  {
+                    "number": "6本",
+                    "japanese": "ろっぽん (六本)",
+                    "romaji": "Roppon"
+                  },
+                  {
+                    "number": "8本",
+                    "japanese": "はっぽん (八本)",
+                    "romaji": "Happon"
+                  },
+                  {
+                    "number": "10本",
+                    "japanese": "じゅっぽん (十本)",
+                    "romaji": "Juppon"
+                  },
+                  {
+                    "number": "1匹",
+                    "japanese": "いっぴき (一匹)",
+                    "romaji": "Ippiki"
+                  },
+                  {
+                    "number": "3匹",
+                    "japanese": "さんびき (三匹)",
+                    "romaji": "Sanbiki"
+                  },
+                  {
+                    "number": "6匹",
+                    "japanese": "ろっぴき (六匹)",
+                    "romaji": "Roppiki"
+                  },
+                  {
+                    "number": "8匹",
+                    "japanese": "はっぴき (八匹)",
+                    "romaji": "Happiki"
+                  },
+                  {
+                    "number": "10匹",
+                    "japanese": "じゅっぴき (十匹)",
+                    "romaji": "Juppiki"
+                  },
+                  {
+                    "number": "1杯",
+                    "japanese": "いっぱい (一杯)",
+                    "romaji": "Ippai"
+                  },
+                  {
+                    "number": "3杯",
+                    "japanese": "さんばい (三杯)",
+                    "romaji": "Sanbai"
+                  },
+                  {
+                    "number": "6杯",
+                    "japanese": "ろっぱい (六杯)",
+                    "romaji": "Roppai"
+                  },
+                  {
+                    "number": "8杯",
+                    "japanese": "はっぱい (八杯)",
+                    "romaji": "Happai"
+                  },
+                  {
+                    "number": "10杯",
+                    "japanese": "じゅっぱい (十杯)",
+                    "romaji": "Juppai"
+                  }
+                ],
+                "footer": "本 (ほん) digunakan untuk benda panjang, 匹 (ひき) untuk hewan kecil, dan 杯 (はい) untuk gelas atau mangkuk. Bentuk ほん・ぼん・ぽん, ひき・びき・ぴき, serta はい・ばい・ぱい berubah mengikuti angka."
+              },
+              "words": [
+                {
+                  "jp": "~こ (~個)",
+                  "romaji": "~Ko",
+                  "meaning": "Penghitung benda kecil atau benda padat",
+                  "label": "Umum",
+                  "audio": "こ",
+                  "example": "りんごを三個買いました。",
+                  "exampleRomaji": "Ringo o sanko kaimashita.",
+                  "translation": "Saya membeli tiga buah apel."
+                },
+                {
+                  "jp": "~ほん (~本)",
+                  "romaji": "~Hon / ~Bon / ~Pon",
+                  "meaning": "Penghitung benda panjang, seperti pensil, botol, atau payung",
+                  "label": "Umum",
+                  "audio": "ほん",
+                  "example": "えんぴつを三本買いました。",
+                  "exampleRomaji": "Enpitsu o sanbon kaimashita.",
+                  "translation": "Saya membeli tiga batang pensil.",
+                  "note": "Perubahan bunyi: ほん・ぼん・ぽん (Hon / Bon / Pon)."
+                },
+                {
+                  "jp": "~まい (~枚)",
+                  "romaji": "~Mai",
+                  "meaning": "Penghitung benda tipis dan pipih, seperti kertas, foto, atau pakaian",
+                  "label": "Umum",
+                  "audio": "まい",
+                  "example": "写真を二枚撮りました。",
+                  "exampleRomaji": "Shashin o nimai torimashita.",
+                  "translation": "Saya mengambil dua lembar foto."
+                },
+                {
+                  "jp": "~さつ (~冊)",
+                  "romaji": "~Satsu",
+                  "meaning": "Penghitung buku, majalah, atau benda berjilid",
+                  "label": "Umum",
+                  "audio": "さつ",
+                  "example": "本を三冊読みました。",
+                  "exampleRomaji": "Hon o sansatsu yomimashita.",
+                  "translation": "Saya membaca tiga buku."
+                },
+                {
+                  "jp": "~ひき (~匹)",
+                  "romaji": "~Hiki / ~Biki / ~Piki",
+                  "meaning": "Penghitung hewan kecil, seperti kucing, anjing, atau ikan",
+                  "label": "Umum",
+                  "audio": "ひき",
+                  "example": "猫が三匹います。",
+                  "exampleRomaji": "Neko ga sanbiki imasu.",
+                  "translation": "Ada tiga ekor kucing.",
+                  "note": "Perubahan bunyi: ひき・びき・ぴき (Hiki / Biki / Piki)."
+                },
+                {
+                  "jp": "~だい (~台)",
+                  "romaji": "~Dai",
+                  "meaning": "Penghitung kendaraan dan mesin",
+                  "label": "Umum",
+                  "audio": "だい",
+                  "example": "車が二台あります。",
+                  "exampleRomaji": "Kuruma ga nidai arimasu.",
+                  "translation": "Ada dua mobil."
+                },
+                {
+                  "jp": "~はい (~杯)",
+                  "romaji": "~Hai / ~Bai / ~Pai",
+                  "meaning": "Penghitung minuman dalam gelas atau mangkuk",
+                  "label": "Umum",
+                  "audio": "はい",
+                  "example": "水を一杯ください。",
+                  "exampleRomaji": "Mizu o ippai kudasai.",
+                  "translation": "Tolong beri saya segelas air.",
+                  "note": "Perubahan bunyi: はい・ばい・ぱい (Hai / Bai / Pai)."
+                },
+                {
+                  "jp": "~かい (~回)",
+                  "romaji": "~Kai",
+                  "meaning": "Penghitung frekuensi atau jumlah berapa kali",
+                  "label": "Umum",
+                  "audio": "かい",
+                  "example": "日本へ二回行きました。",
+                  "exampleRomaji": "Nihon e nikai ikimashita.",
+                  "translation": "Saya sudah pergi ke Jepang dua kali."
+                },
+                {
+                  "jp": "~さい (~歳)",
+                  "romaji": "~Sai",
+                  "meaning": "Penghitung usia atau umur",
+                  "label": "Umum",
+                  "audio": "さい",
+                  "example": "私は二十歳です。",
+                  "exampleRomaji": "Watashi wa hatachi desu.",
+                  "translation": "Saya berusia dua puluh tahun.",
+                  "note": "Usia 20 tahun memiliki bacaan khusus: はたち (Hatachi)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

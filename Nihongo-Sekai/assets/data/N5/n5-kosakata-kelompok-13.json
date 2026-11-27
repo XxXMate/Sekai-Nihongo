@@ -1,0 +1,207 @@
+{
+  "groups": [
+    {
+      "number": 13,
+      "title": "Kelompok 13 — Kata Keterangan",
+      "description": "Kosakata adverbia dasar dan contoh kalimat yang menggunakan kata keterangan dalam kehidupan sehari-hari.",
+      "subgroups": [
+        {
+          "number": "13.1",
+          "title": "Adverbia (副詞・ふくし)",
+          "words": [
+            {
+              "jp": "いつも",
+              "romaji": "Itsumo",
+              "meaning": "Selalu",
+              "audio": "いつも"
+            },
+            {
+              "jp": "よく",
+              "romaji": "Yoku",
+              "meaning": "Sering",
+              "audio": "よく"
+            },
+            {
+              "jp": "ときどき (時々)",
+              "romaji": "Tokidoki",
+              "meaning": "Kadang-kadang",
+              "audio": "ときどき"
+            },
+            {
+              "jp": "たいてい (大抵)",
+              "romaji": "Taitei",
+              "meaning": "Biasanya",
+              "audio": "たいてい"
+            },
+            {
+              "jp": "あまり (余り)",
+              "romaji": "Amari",
+              "meaning": "Tidak terlalu (biasanya digunakan dengan bentuk negatif)",
+              "audio": "あまり"
+            },
+            {
+              "jp": "ぜんぜん (全然)",
+              "romaji": "Zenzen",
+              "meaning": "Sama sekali (biasanya digunakan dengan bentuk negatif)",
+              "audio": "ぜんぜん"
+            },
+            {
+              "jp": "たくさん",
+              "romaji": "Takusan",
+              "meaning": "Banyak",
+              "audio": "たくさん"
+            },
+            {
+              "jp": "すこし (少し)",
+              "romaji": "Sukoshi",
+              "meaning": "Sedikit",
+              "audio": "すこし"
+            },
+            {
+              "jp": "ちょっと",
+              "romaji": "Chotto",
+              "meaning": "Sebentar / sedikit",
+              "audio": "ちょっと"
+            },
+            {
+              "jp": "もう",
+              "romaji": "Mou",
+              "meaning": "Sudah",
+              "audio": "もう"
+            },
+            {
+              "jp": "まだ",
+              "romaji": "Mada",
+              "meaning": "Masih / belum",
+              "audio": "まだ"
+            },
+            {
+              "jp": "すぐ (直ぐ)",
+              "romaji": "Sugu",
+              "meaning": "Segera",
+              "audio": "すぐ"
+            },
+            {
+              "jp": "ゆっくり",
+              "romaji": "Yukkuri",
+              "meaning": "Perlahan-lahan",
+              "audio": "ゆっくり"
+            },
+            {
+              "jp": "はやく (早く)",
+              "romaji": "Hayaku",
+              "meaning": "Dengan cepat / lebih awal",
+              "audio": "はやく"
+            },
+            {
+              "jp": "いっしょに (一緒に)",
+              "romaji": "Issho ni",
+              "meaning": "Bersama-sama",
+              "audio": "いっしょに"
+            }
+          ]
+        },
+        {
+          "number": "13.2",
+          "title": "Kalimat Adverbia (副詞を使った文・ふくしをつかったぶん)",
+          "note": {
+            "title": "Catatan Materi",
+            "intro": "Kata keterangan (副詞・ふくし) digunakan untuk memberikan informasi tambahan pada kata kerja atau keadaan, seperti seberapa sering, seberapa banyak, dan kapan suatu kegiatan dilakukan. Kata keterangan biasanya diletakkan sebelum kata kerja atau bagian kalimat yang dijelaskannya. Contoh: いつも学校へ行きます (selalu pergi ke sekolah). Perhatikan juga kata あまり dan ぜんぜん yang umumnya digunakan bersama bentuk negatif. Contoh: あまり食べません (tidak terlalu banyak makan) dan ぜんぜん分かりません (sama sekali tidak mengerti)."
+          },
+          "words": [
+            {
+              "jp": "私はいつも7時に起きます。",
+              "romaji": "Watashi wa itsumo shichi-ji ni okimasu.",
+              "meaning": "Saya selalu bangun pukul 7.",
+              "audio": "私はいつも7時に起きます。"
+            },
+            {
+              "jp": "よくコーヒーを飲みます。",
+              "romaji": "Yoku koohii o nomimasu.",
+              "meaning": "Saya sering minum kopi.",
+              "audio": "よくコーヒーを飲みます。"
+            },
+            {
+              "jp": "時々図書館へ行きます。",
+              "romaji": "Tokidoki toshokan e ikimasu.",
+              "meaning": "Saya kadang-kadang pergi ke perpustakaan.",
+              "audio": "時々図書館へ行きます。"
+            },
+            {
+              "jp": "たいてい家でご飯を食べます。",
+              "romaji": "Taitei ie de gohan o tabemasu.",
+              "meaning": "Saya biasanya makan di rumah.",
+              "audio": "たいてい家でご飯を食べます。"
+            },
+            {
+              "jp": "あまりテレビを見ません。",
+              "romaji": "Amari terebi o mimasen.",
+              "meaning": "Saya tidak terlalu sering menonton televisi.",
+              "audio": "あまりテレビを見ません。"
+            },
+            {
+              "jp": "全然分かりません。",
+              "romaji": "Zenzen wakarimasen.",
+              "meaning": "Saya sama sekali tidak mengerti.",
+              "audio": "全然分かりません。"
+            },
+            {
+              "jp": "毎日たくさん勉強します。",
+              "romaji": "Mainichi takusan benkyou shimasu.",
+              "meaning": "Saya belajar banyak setiap hari.",
+              "audio": "毎日たくさん勉強します。"
+            },
+            {
+              "jp": "日本語が少し分かります。",
+              "romaji": "Nihongo ga sukoshi wakarimasu.",
+              "meaning": "Saya sedikit mengerti bahasa Jepang.",
+              "audio": "日本語が少し分かります。"
+            },
+            {
+              "jp": "ちょっと待ってください。",
+              "romaji": "Chotto matte kudasai.",
+              "meaning": "Tolong tunggu sebentar.",
+              "audio": "ちょっと待ってください。"
+            },
+            {
+              "jp": "もうご飯を食べました。",
+              "romaji": "Mou gohan o tabemashita.",
+              "meaning": "Saya sudah makan.",
+              "audio": "もうご飯を食べました。"
+            },
+            {
+              "jp": "まだ宿題をしていません。",
+              "romaji": "Mada shukudai o shite imasen.",
+              "meaning": "Saya belum mengerjakan pekerjaan rumah.",
+              "audio": "まだ宿題をしていません。"
+            },
+            {
+              "jp": "すぐ行きます。",
+              "romaji": "Sugu ikimasu.",
+              "meaning": "Saya segera pergi.",
+              "audio": "すぐ行きます。"
+            },
+            {
+              "jp": "ゆっくり話してください。",
+              "romaji": "Yukkuri hanashite kudasai.",
+              "meaning": "Tolong berbicara perlahan-lahan.",
+              "audio": "ゆっくり話してください。"
+            },
+            {
+              "jp": "早く来てください。",
+              "romaji": "Hayaku kite kudasai.",
+              "meaning": "Tolong datang lebih cepat.",
+              "audio": "早く来てください。"
+            },
+            {
+              "jp": "一緒に帰りましょう。",
+              "romaji": "Issho ni kaerimashou.",
+              "meaning": "Ayo pulang bersama.",
+              "audio": "一緒に帰りましょう。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

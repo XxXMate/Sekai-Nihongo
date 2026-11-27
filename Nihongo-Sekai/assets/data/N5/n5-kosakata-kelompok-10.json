@@ -1,0 +1,173 @@
+{
+  "groups": [
+    {
+      "number": 10,
+      "title": "Kelompok 10 — Warna",
+      "description": "Kosakata warna dasar dan contoh kalimat menggunakan warna.",
+      "subgroups": [
+        {
+          "number": "10.1",
+          "title": "Warna Dasar (基本の色・きほんのいろ)",
+          "words": [
+            {
+              "jp": "いろ (色)",
+              "romaji": "Iro",
+              "meaning": "Warna",
+              "audio": "いろ"
+            },
+            {
+              "jp": "あかい (赤い)",
+              "romaji": "Akai",
+              "meaning": "Merah",
+              "audio": "あかい"
+            },
+            {
+              "jp": "あおい (青い)",
+              "romaji": "Aoi",
+              "meaning": "Biru",
+              "audio": "あおい"
+            },
+            {
+              "jp": "しろい (白い)",
+              "romaji": "Shiroi",
+              "meaning": "Putih",
+              "audio": "しろい"
+            },
+            {
+              "jp": "くろい (黒い)",
+              "romaji": "Kuroi",
+              "meaning": "Hitam",
+              "audio": "くろい"
+            },
+            {
+              "jp": "きいろい (黄色い)",
+              "romaji": "Kiiroi",
+              "meaning": "Kuning",
+              "audio": "きいろい"
+            },
+            {
+              "jp": "みどり (緑)",
+              "romaji": "Midori",
+              "meaning": "Hijau",
+              "audio": "みどり"
+            },
+            {
+              "jp": "ちゃいろ (茶色)",
+              "romaji": "Chairo",
+              "meaning": "Cokelat",
+              "audio": "ちゃいろ"
+            },
+            {
+              "jp": "むらさき (紫)",
+              "romaji": "Murasaki",
+              "meaning": "Ungu",
+              "audio": "むらさき"
+            },
+            {
+              "jp": "ピンク",
+              "romaji": "Pinku",
+              "meaning": "Merah muda",
+              "audio": "ピンク"
+            },
+            {
+              "jp": "オレンジ",
+              "romaji": "Orenji",
+              "meaning": "Oranye",
+              "audio": "オレンジ"
+            }
+          ]
+        },
+        {
+          "number": "10.2",
+          "title": "Kalimat tentang Warna (色を使った文・いろをつかったぶん)",
+          "words": [
+            {
+              "jp": "これは赤いかばんです。",
+              "romaji": "Kore wa akai kaban desu.",
+              "meaning": "Ini tas merah.",
+              "audio": "これは赤いかばんです。"
+            },
+            {
+              "jp": "このシャツは青いです。",
+              "romaji": "Kono shatsu wa aoi desu.",
+              "meaning": "Kemeja ini berwarna biru.",
+              "audio": "このシャツは青いです。"
+            },
+            {
+              "jp": "このくつは白いです。",
+              "romaji": "Kono kutsu wa shiroi desu.",
+              "meaning": "Sepatu ini berwarna putih.",
+              "audio": "このくつは白いです。"
+            },
+            {
+              "jp": "このかばんは黒いです。",
+              "romaji": "Kono kaban wa kuroi desu.",
+              "meaning": "Tas ini berwarna hitam.",
+              "audio": "このかばんは黒いです。"
+            },
+            {
+              "jp": "このペンは黄色いです。",
+              "romaji": "Kono pen wa kiiroi desu.",
+              "meaning": "Pulpen ini berwarna kuning.",
+              "audio": "このペンは黄色いです。"
+            },
+            {
+              "jp": "緑のかばんです。",
+              "romaji": "Midori no kaban desu.",
+              "meaning": "Tas hijau.",
+              "audio": "緑のかばんです。"
+            },
+            {
+              "jp": "茶色のくつです。",
+              "romaji": "Chairo no kutsu desu.",
+              "meaning": "Sepatu cokelat.",
+              "audio": "茶色のくつです。"
+            },
+            {
+              "jp": "紫のかさです。",
+              "romaji": "Murasaki no kasa desu.",
+              "meaning": "Payung ungu.",
+              "audio": "紫のかさです。"
+            },
+            {
+              "jp": "ピンクのシャツです。",
+              "romaji": "Pinku no shatsu desu.",
+              "meaning": "Kemeja merah muda.",
+              "audio": "ピンクのシャツです。"
+            },
+            {
+              "jp": "オレンジのペンです。",
+              "romaji": "Orenji no pen desu.",
+              "meaning": "Pulpen oranye.",
+              "audio": "オレンジのペンです。"
+            },
+            {
+              "jp": "このかばんは何色ですか。",
+              "romaji": "Kono kaban wa nani iro desu ka.",
+              "meaning": "Tas ini berwarna apa?",
+              "audio": "このかばんは何色ですか。"
+            },
+            {
+              "jp": "赤いです。",
+              "romaji": "Akai desu.",
+              "meaning": "Berwarna merah.",
+              "audio": "赤いです。"
+            },
+            {
+              "jp": "空は青いです。",
+              "romaji": "Sora wa aoi desu.",
+              "meaning": "Langit berwarna biru.",
+              "audio": "空は青いです。"
+            },
+            {
+              "jp": "雪は白いです。",
+              "romaji": "Yuki wa shiroi desu.",
+              "meaning": "Salju berwarna putih.",
+              "audio": "雪は白いです。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

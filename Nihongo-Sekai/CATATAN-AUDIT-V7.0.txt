@@ -1,0 +1,170 @@
+CATATAN AUDIT DAN PERBAIKAN — NIHONGO SEKAI V7.0
+=================================================
+
+Ringkasan
+--------
+Arsip V7.0 telah diperiksa pada struktur HTML, JavaScript, CSS, dan JSON.
+Perbaikan difokuskan pada konflik kode yang membuat halaman Kosakata N5 gagal,
+kesesuaian tampilan tab Hiragana, dan penandaan fitur yang belum aktif.
+Desain utama dan isi kurikulum tidak dirombak.
+
+FITUR YANG SUDAH ADA
+--------------------
+1. Beranda (index.html)
+   - Navigasi ke halaman belajar dan jalur JLPT.
+   - Pilihan level JLPT N5 sampai N1 sebagai informasi/jalur.
+   - Kartu menuju Hiragana, Katakana, Kana Mirip, dan Kuis Hiragana.
+   - Menu navigasi responsif, tombol tema terang/gelap, dan tahun footer otomatis.
+
+2. Hiragana (hiragana.html)
+   - Kategori Dasar, Dakuten, Handakuten, dan Youon.
+   - Kartu huruf, romaji, detail huruf, suara pengucapan browser, dan animasi coretan
+     berdasarkan data assets/data/kana-strokes.json apabila datanya tersedia.
+   - Tautan menuju kuis Hiragana.
+
+3. Katakana (katakana.html)
+   - Kategori Dasar, Dakuten, Handakuten, dan Youon.
+   - Kartu huruf, detail, pengucapan browser, dan animasi coretan jika data tersedia.
+   - Tautan menuju kuis Katakana.
+
+4. Kana Mirip (kana-mirip.html)
+   - Materi pasangan huruf Hiragana dan Katakana yang bentuknya mirip.
+   - Petunjuk/perbandingan dan latihan menjawab pasangan huruf.
+
+5. Kuis Hiragana dan Katakana
+   - Pilihan jumlah soal 10 sampai 100, bertambah 10.
+   - Mode Santai tanpa batas waktu dan Mode Tantangan dengan timer 5 detik.
+   - Umpan balik jawaban, skor, dan hasil kuis.
+
+6. Materi JLPT (materi.html dan n5.html)
+   - Pilihan jalur N5 sampai N1.
+   - Lima kategori pembelajaran: Kosakata, Kanji, Tata Bahasa, Membaca,
+     dan Mendengarkan.
+   - Pada V7.0, tautan materi yang benar-benar aktif baru kategori Kosakata N5.
+
+7. Kosakata N5 (n5-kosakata.html)
+   - 20 kartu kelompok; data terpisah tersedia untuk Kelompok 1 sampai 16.
+   - Kelompok 1–16 memuat total 573 entri kata dan/atau kalimat.
+   - Mendukung subkelompok, tab, catatan materi, romaji, arti, dan pengucapan browser.
+   - Kelompok 17–20 ditampilkan sebagai materi yang sedang disiapkan.
+
+8. Tentang (tentang.html)
+   - Halaman informasi mengenai website Nihongo Sekai.
+
+PERBAIKAN YANG DILAKUKAN
+------------------------
+1. js/n5-kosakata.js
+   - Menyusun ulang logika pemuatan data yang sebelumnya berisi penanda konflik Git.
+   - Memastikan halaman menggunakan JSON kelompok terpisah di assets/data/N5/.
+   - Menjaga catatan subkelompok muncul satu kali, di bawah judul dan sebelum tab/daftar.
+   - Mempertahankan dukungan catatan lama pada level tab bila catatan subkelompok tidak ada.
+   - Label tambahan hanya ditampilkan bila properti label memang tersedia di data.
+   - Menampilkan pesan aman untuk Kelompok 17–20 yang belum mempunyai file JSON.
+   - Menambah pengaman pemuatan dan penanganan kegagalan fetch.
+
+2. n5-kosakata.html
+   - Menghapus bagian HTML yang bertabrakan akibat konflik Git.
+   - Menyelaraskan kartu Kelompok 1–16 dengan JSON yang benar-benar tersedia.
+   - Memberi penanda kelompok 17–20 sebagai materi yang sedang disiapkan.
+   - Mengganti tampilan progres 0% statis dengan keterangan bahwa pencatatan progres
+     belum aktif, agar tidak disalahartikan sebagai data belajar yang tersimpan.
+
+3. css/n5-kosakata.css
+   - Menghapus penanda konflik Git dan mempertahankan aturan tampilan yang relevan.
+   - Merapikan dukungan tampilan catatan subkelompok dan label opsional.
+
+4. css/style.css
+   - Menghapus penanda konflik Git yang merusak pembacaan CSS.
+   - Mempertahankan dekorasi/aturan visual yang sudah ada.
+
+5. assets/data/N5/n5-kosakata-kelompok-12.json
+   - Menghapus nomor subkelompok yang tertulis dua kali pada judul 12.1 dan 12.2.
+
+6. assets/data/N5/n5-kosakata-kelompok-13.json
+   - Menghapus nomor subkelompok yang tertulis dua kali pada judul 13.1 dan 13.2.
+
+7. hiragana.html dan js/hiragana.js
+   - Menyamakan status awal tab Dasar dengan kondisi awal (belum dipilih).
+   - Menggunakan aria-selected untuk tab yang berada di dalam tablist.
+
+8. index.html
+   - Memberi keterangan bahwa Flashcard dan Mode Ekstrem masih disiapkan.
+
+CATATAN YANG PERLU DIPUTUSKAN PADA PENGEMBANGAN BERIKUTNYA
+----------------------------------------------------------
+- Kelompok 2 berjudul "Kata Ganti Orang dan Keluarga", tetapi isi JSON saat ini
+  berfokus pada kosakata keluarga. Perlu diputuskan apakah judul diganti atau
+  kosakata kata ganti orang ditambahkan setelah ditinjau.
+- Kelompok 19 berjudul "Kata Tanya dan Kata Keterangan" berpotensi tumpang tindih
+  dengan Kelompok 13 "Kata Keterangan". Sebaiknya struktur kurikulumnya ditinjau
+  sebelum membuat JSON Kelompok 17–20.
+- Kelompok 17–20 belum memiliki file JSON.
+- Flashcard dan Mode Ekstrem belum memiliki alur/JavaScript aktif.
+- Pelacakan progres dan penyimpanan status penyelesaian materi belum aktif.
+- Dari lima kategori JLPT, kategori Kanji, Tata Bahasa, Membaca, dan Mendengarkan
+  masih berupa pengenalan kategori, belum menjadi materi interaktif.
+- Pilihan N4–N1 saat ini merupakan jalur/pengenalan level; materi lengkapnya belum
+  tersedia.
+- assets/data/n5-kosakata.json adalah file lama yang tidak digunakan oleh alur
+  Kosakata N5 V7.0 saat ini. Data aktif dibaca dari assets/data/N5/ per kelompok.
+
+HASIL PEMERIKSAAN TEKNIS
+------------------------
+- 10 halaman HTML diperiksa.
+- 9 file JavaScript lolos pemeriksaan sintaks Node.js.
+- 4 file CSS lolos parsing tanpa error.
+- 18 file JSON berhasil dibaca tanpa error format.
+- Tidak ditemukan penanda konflik Git yang tertinggal.
+- Tidak ditemukan ID HTML duplikat pada halaman yang diperiksa.
+- Tidak ditemukan referensi file lokal yang hilang dari HTML.
+- Interaksi utama yang diuji melalui browser meliputi pemuatan Kosakata N5
+  (Kelompok 13, 14, 16, dan placeholder 17), pilihan kana, Kana Mirip, serta
+  alur dasar kuis Hiragana dan Katakana.
+
+Catatan: pengujian ini bukan sertifikasi bahwa seluruh fitur yang belum aktif telah
+selesai; bagian yang belum aktif disebutkan secara eksplisit di atas.
+
+PENINGKATAN KENYAMANAN PENGGUNA — TAHAP 1: HP
+------------------------------------------------
+Fokus: keterbacaan teks dan kemudahan menekan tombol pada layar kecil.
+Perubahan ini hanya menyentuh CSS responsif; HTML, JavaScript, JSON,
+isi kosakata, dan alur fitur tidak diubah pada tahap ini.
+
+1. css/style.css
+   - Tombol tema dan hamburger menjadi area 44 x 44 px.
+   - Tautan menu pada layar kecil memiliki tinggi minimal 44 px.
+   - Teks pendukung yang sebelumnya 8–11 px pada bagian utama dinaikkan
+     umumnya menjadi 12 px, dengan penyesuaian khusus untuk ruang sempit.
+   - Tab kana menjadi minimal 48 px.
+   - Kartu huruf sedikit diperbesar agar lebih mudah disentuh.
+   - Tombol kuis, pilihan jawaban, tombol ulangi coretan, dan tombol utama
+     disesuaikan agar memiliki area sentuh sekitar 44–48 px atau lebih.
+   - Teks romaji kana dan keterangan detail diperbesar agar lebih terbaca.
+
+2. css/n5-kosakata.css
+   - Deskripsi kartu kelompok, judul subkelompok, romaji, arti, contoh,
+     dan catatan materi pada HP dibuat lebih mudah dibaca.
+   - Tombol tutup, buka subkelompok, buka kosakata, tab, dan audio diberi
+     tinggi/area sentuh minimal sekitar 44–52 px.
+   - Ukuran huruf Jepang utama dan susunan kolom kosakata tetap dipertahankan.
+
+3. css/n5-page.css
+   - Teks deskripsi N5, tujuan belajar, kartu kategori, dan tag diperbesar.
+   - Teks alur belajar tiga kolom diperbesar seperlunya tanpa mengubah
+     susunan tiga kolom yang telah digunakan.
+   - Tautan kembali diberi area sentuh yang lebih nyaman.
+
+4. css/materi-page.css
+   - Teks deskripsi halaman Materi JLPT dan kategori pada HP diperbesar.
+   - Catatan kategori dibuat sedikit lebih mudah dibaca.
+
+Batas perubahan
+---------------
+- Tidak mengubah warna, tema, bentuk kartu, struktur halaman, atau tata letak utama.
+- Tidak mengubah fitur, JavaScript, maupun materi kurikulum.
+- Penyesuaian hanya berlaku pada breakpoint HP yang sudah digunakan tiap halaman.
+
+Pemeriksaan tahap ini
+---------------------
+- Keempat CSS diperiksa ulang menggunakan parser CSS; tidak ditemukan error.
+- JavaScript, HTML, dan seluruh JSON tidak diubah pada tahap ini.

@@ -1,0 +1,227 @@
+{
+  "groups": [
+    {
+      "number": 11,
+      "title": "Kelompok 11 — Bagian Tubuh",
+      "description": "Kosakata bagian tubuh dan contoh kalimat sederhana yang menggunakannya.",
+      "subgroups": [
+        {
+          "number": "11.1",
+          "title": "Bagian Tubuh (体の部分・からだのぶぶん)",
+          "words": [
+            {
+              "jp": "からだ (体)",
+              "romaji": "Karada",
+              "meaning": "Tubuh",
+              "audio": "からだ"
+            },
+            {
+              "jp": "あたま (頭)",
+              "romaji": "Atama",
+              "meaning": "Kepala",
+              "audio": "あたま"
+            },
+            {
+              "jp": "かお (顔)",
+              "romaji": "Kao",
+              "meaning": "Wajah",
+              "audio": "かお"
+            },
+            {
+              "jp": "かみ (髪)",
+              "romaji": "Kami",
+              "meaning": "Rambut",
+              "audio": "かみ"
+            },
+            {
+              "jp": "め (目)",
+              "romaji": "Me",
+              "meaning": "Mata",
+              "audio": "め"
+            },
+            {
+              "jp": "みみ (耳)",
+              "romaji": "Mimi",
+              "meaning": "Telinga",
+              "audio": "みみ"
+            },
+            {
+              "jp": "はな (鼻)",
+              "romaji": "Hana",
+              "meaning": "Hidung",
+              "audio": "はな"
+            },
+            {
+              "jp": "くち (口)",
+              "romaji": "Kuchi",
+              "meaning": "Mulut",
+              "audio": "くち"
+            },
+            {
+              "jp": "は (歯)",
+              "romaji": "Ha",
+              "meaning": "Gigi",
+              "audio": "は"
+            },
+            {
+              "jp": "くび (首)",
+              "romaji": "Kubi",
+              "meaning": "Leher",
+              "audio": "くび"
+            },
+            {
+              "jp": "かた (肩)",
+              "romaji": "Kata",
+              "meaning": "Bahu",
+              "audio": "かた"
+            },
+            {
+              "jp": "うで (腕)",
+              "romaji": "Ude",
+              "meaning": "Lengan",
+              "audio": "うで"
+            },
+            {
+              "jp": "て (手)",
+              "romaji": "Te",
+              "meaning": "Tangan",
+              "audio": "て"
+            },
+            {
+              "jp": "ゆび (指)",
+              "romaji": "Yubi",
+              "meaning": "Jari",
+              "audio": "ゆび"
+            },
+            {
+              "jp": "むね (胸)",
+              "romaji": "Mune",
+              "meaning": "Dada",
+              "audio": "むね"
+            },
+            {
+              "jp": "おなか (お腹)",
+              "romaji": "Onaka",
+              "meaning": "Perut",
+              "audio": "おなか"
+            },
+            {
+              "jp": "せなか (背中)",
+              "romaji": "Senaka",
+              "meaning": "Punggung",
+              "audio": "せなか"
+            },
+            {
+              "jp": "あし (足)",
+              "romaji": "Ashi",
+              "meaning": "Kaki",
+              "audio": "あし"
+            },
+            {
+              "jp": "ひざ (膝)",
+              "romaji": "Hiza",
+              "meaning": "Lutut",
+              "audio": "ひざ"
+            }
+          ]
+        },
+        {
+          "number": "11.2",
+          "title": "Kalimat Bagian Tubuh (体についての文・からだについてのぶん)",
+          "words": [
+            {
+              "jp": "頭が痛いです。",
+              "romaji": "Atama ga itai desu.",
+              "meaning": "Kepala saya sakit.",
+              "audio": "頭が痛いです。"
+            },
+            {
+              "jp": "おなかが痛いです。",
+              "romaji": "Onaka ga itai desu.",
+              "meaning": "Perut saya sakit.",
+              "audio": "おなかが痛いです。"
+            },
+            {
+              "jp": "歯が痛いです。",
+              "romaji": "Ha ga itai desu.",
+              "meaning": "Gigi saya sakit.",
+              "audio": "歯が痛いです。"
+            },
+            {
+              "jp": "手が痛いです。",
+              "romaji": "Te ga itai desu.",
+              "meaning": "Tangan saya sakit.",
+              "audio": "手が痛いです。"
+            },
+            {
+              "jp": "足が痛いです。",
+              "romaji": "Ashi ga itai desu.",
+              "meaning": "Kaki saya sakit.",
+              "audio": "足が痛いです。"
+            },
+            {
+              "jp": "髪が長いです。",
+              "romaji": "Kami ga nagai desu.",
+              "meaning": "Rambutnya panjang.",
+              "audio": "髪が長いです。"
+            },
+            {
+              "jp": "目が大きいです。",
+              "romaji": "Me ga ookii desu.",
+              "meaning": "Matanya besar.",
+              "audio": "目が大きいです。"
+            },
+            {
+              "jp": "耳が小さいです。",
+              "romaji": "Mimi ga chiisai desu.",
+              "meaning": "Telinganya kecil.",
+              "audio": "耳が小さいです。"
+            },
+            {
+              "jp": "鼻が高いです。",
+              "romaji": "Hana ga takai desu.",
+              "meaning": "Hidungnya mancung.",
+              "audio": "鼻が高いです。"
+            },
+            {
+              "jp": "口を開けてください。",
+              "romaji": "Kuchi o akete kudasai.",
+              "meaning": "Tolong buka mulut.",
+              "audio": "口を開けてください。"
+            },
+            {
+              "jp": "手を上げてください。",
+              "romaji": "Te o agete kudasai.",
+              "meaning": "Tolong angkat tangan.",
+              "audio": "手を上げてください。"
+            },
+            {
+              "jp": "指を見せてください。",
+              "romaji": "Yubi o misete kudasai.",
+              "meaning": "Tolong tunjukkan jari.",
+              "audio": "指を見せてください。"
+            },
+            {
+              "jp": "目は二つあります。",
+              "romaji": "Me wa futatsu arimasu.",
+              "meaning": "Mata ada dua.",
+              "audio": "目は二つあります。"
+            },
+            {
+              "jp": "耳は二つあります。",
+              "romaji": "Mimi wa futatsu arimasu.",
+              "meaning": "Telinga ada dua.",
+              "audio": "耳は二つあります。"
+            },
+            {
+              "jp": "指は十本あります。",
+              "romaji": "Yubi wa juppon arimasu.",
+              "meaning": "Jari ada sepuluh.",
+              "audio": "指は十本あります。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

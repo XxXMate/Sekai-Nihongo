@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" fill="none">
+<!-- Ombak seigaiha di sudut kanan bawah -->
+<g stroke="#91aa91" stroke-width="6" opacity=".42">
+ <path d="M145 220a48 48 0 0 1 96 0M193 220a48 48 0 0 1 96 0M241 220a48 48 0 0 1 96 0M289 220a48 48 0 0 1 96 0M337 220a48 48 0 0 1 96 0"/>
+ <path d="M193 220a48 48 0 0 1 96 0M241 220a48 48 0 0 1 96 0M289 220a48 48 0 0 1 96 0" transform="translate(0 -38)"/>
+</g>
+<!-- bunga sakura kecil di atas kanan -->
+<g transform="translate(365 38)" fill="#efb9b2" opacity=".76">
+ <ellipse cy="-13" rx="8" ry="13"/><ellipse cx="13" cy="-4" rx="8" ry="13" transform="rotate(65 13 -4)"/><ellipse cx="8" cy="12" rx="8" ry="13" transform="rotate(135 8 12)"/><ellipse cx="-9" cy="11" rx="8" ry="13" transform="rotate(205 -9 11)"/><ellipse cx="-13" cy="-5" rx="8" ry="13" transform="rotate(285 -13 -5)"/><circle r="4" fill="#cb897b"/>
+</g>
+<path d="M332 16 Q352 0 370 8" stroke="#90745b" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+</svg>

@@ -1,0 +1,203 @@
+{
+  "groups": [
+    {
+      "number": 12,
+      "title": "Kelompok 12 — Profesi dan Pekerjaan",
+      "description": "Kosakata profesi umum dan contoh kalimat tentang pekerjaan.",
+      "subgroups": [
+        {
+          "number": "12.1",
+          "title": "Profesi Umum (職業・しょくぎょう)",
+          "words": [
+            {
+              "jp": "しょくぎょう (職業)",
+              "romaji": "Shokugyou",
+              "meaning": "Profesi",
+              "audio": "しょくぎょう"
+            },
+            {
+              "jp": "しごと (仕事)",
+              "romaji": "Shigoto",
+              "meaning": "Pekerjaan",
+              "audio": "しごと"
+            },
+            {
+              "jp": "かいしゃ (会社)",
+              "romaji": "Kaisha",
+              "meaning": "Perusahaan",
+              "audio": "かいしゃ"
+            },
+            {
+              "jp": "せんせい (先生)",
+              "romaji": "Sensei",
+              "meaning": "Guru",
+              "audio": "せんせい"
+            },
+            {
+              "jp": "いしゃ (医者)",
+              "romaji": "Isha",
+              "meaning": "Dokter",
+              "audio": "いしゃ"
+            },
+            {
+              "jp": "はいしゃ (歯医者)",
+              "romaji": "Haisha",
+              "meaning": "Dokter gigi",
+              "audio": "はいしゃ"
+            },
+            {
+              "jp": "かんごし (看護師)",
+              "romaji": "Kangoshi",
+              "meaning": "Perawat",
+              "audio": "かんごし"
+            },
+            {
+              "jp": "かいしゃいん (会社員)",
+              "romaji": "Kaishain",
+              "meaning": "Pegawai perusahaan",
+              "audio": "かいしゃいん"
+            },
+            {
+              "jp": "てんいん (店員)",
+              "romaji": "Ten'in",
+              "meaning": "Pegawai toko",
+              "audio": "てんいん"
+            },
+            {
+              "jp": "ぎんこういん (銀行員)",
+              "romaji": "Ginkouin",
+              "meaning": "Pegawai bank",
+              "audio": "ぎんこういん"
+            },
+            {
+              "jp": "こうむいん (公務員)",
+              "romaji": "Koumuin",
+              "meaning": "Pegawai negeri",
+              "audio": "こうむいん"
+            },
+            {
+              "jp": "けいさつかん (警察官)",
+              "romaji": "Keisatsukan",
+              "meaning": "Polisi",
+              "audio": "けいさつかん"
+            },
+            {
+              "jp": "うんてんしゅ (運転手)",
+              "romaji": "Untenshu",
+              "meaning": "Sopir",
+              "audio": "うんてんしゅ"
+            },
+            {
+              "jp": "りょうりにん (料理人)",
+              "romaji": "Ryourinin",
+              "meaning": "Juru masak",
+              "audio": "りょうりにん"
+            },
+            {
+              "jp": "のうか (農家)",
+              "romaji": "Nouka",
+              "meaning": "Petani",
+              "audio": "のうか"
+            }
+          ]
+        },
+        {
+          "number": "12.2",
+          "title": "Kalimat Pekerjaan (仕事を使った文・しごとをつかったぶん)",
+          "words": [
+            {
+              "jp": "私は会社員です。",
+              "romaji": "Watashi wa kaishain desu.",
+              "meaning": "Saya pegawai perusahaan.",
+              "audio": "私は会社員です。"
+            },
+            {
+              "jp": "父は医者です。",
+              "romaji": "Chichi wa isha desu.",
+              "meaning": "Ayah saya seorang dokter.",
+              "audio": "父は医者です。"
+            },
+            {
+              "jp": "母は看護師です。",
+              "romaji": "Haha wa kangoshi desu.",
+              "meaning": "Ibu saya seorang perawat.",
+              "audio": "母は看護師です。"
+            },
+            {
+              "jp": "兄は先生です。",
+              "romaji": "Ani wa sensei desu.",
+              "meaning": "Kakak laki-laki saya seorang guru.",
+              "audio": "兄は先生です。"
+            },
+            {
+              "jp": "姉は銀行員です。",
+              "romaji": "Ane wa ginkouin desu.",
+              "meaning": "Kakak perempuan saya pegawai bank.",
+              "audio": "姉は銀行員です。"
+            },
+            {
+              "jp": "あの人は店員です。",
+              "romaji": "Ano hito wa ten'in desu.",
+              "meaning": "Orang itu pegawai toko.",
+              "audio": "あの人は店員です。"
+            },
+            {
+              "jp": "田中さんは警察官です。",
+              "romaji": "Tanaka-san wa keisatsukan desu.",
+              "meaning": "Tanaka adalah seorang polisi.",
+              "audio": "田中さんは警察官です。"
+            },
+            {
+              "jp": "父は運転手です。",
+              "romaji": "Chichi wa untenshu desu.",
+              "meaning": "Ayah saya seorang sopir.",
+              "audio": "父は運転手です。"
+            },
+            {
+              "jp": "兄は料理人です。",
+              "romaji": "Ani wa ryourinin desu.",
+              "meaning": "Kakak laki-laki saya seorang juru masak.",
+              "audio": "兄は料理人です。"
+            },
+            {
+              "jp": "私は会社で働いています。",
+              "romaji": "Watashi wa kaisha de hataraite imasu.",
+              "meaning": "Saya bekerja di perusahaan.",
+              "audio": "私は会社で働いています。"
+            },
+            {
+              "jp": "毎日、会社へ行きます。",
+              "romaji": "Mainichi, kaisha e ikimasu.",
+              "meaning": "Setiap hari saya pergi ke perusahaan.",
+              "audio": "毎日、会社へ行きます。"
+            },
+            {
+              "jp": "何の仕事をしていますか。",
+              "romaji": "Nan no shigoto o shite imasu ka.",
+              "meaning": "Apa pekerjaan Anda?",
+              "audio": "何の仕事をしていますか。"
+            },
+            {
+              "jp": "どこで働いていますか。",
+              "romaji": "Doko de hataraite imasu ka.",
+              "meaning": "Anda bekerja di mana?",
+              "audio": "どこで働いていますか。"
+            },
+            {
+              "jp": "病院で働いています。",
+              "romaji": "Byouin de hataraite imasu.",
+              "meaning": "Saya bekerja di rumah sakit.",
+              "audio": "病院で働いています。"
+            },
+            {
+              "jp": "お仕事は何ですか。",
+              "romaji": "Oshigoto wa nan desu ka.",
+              "meaning": "Apa pekerjaan Anda?",
+              "audio": "お仕事は何ですか。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

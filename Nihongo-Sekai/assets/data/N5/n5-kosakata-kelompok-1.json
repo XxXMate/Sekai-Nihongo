@@ -1,0 +1,300 @@
+{
+  "groups": [
+    {
+      "number": 1,
+      "title": "Salam dan Ungkapan Sehari-hari",
+      "subgroups": [
+        {
+          "number": "1.1",
+          "title": "Ungkapan Sapaan (挨拶・あいさつ)",
+          "words": [
+            {
+              "jp": "おはようございます",
+              "romaji": "Ohayou gozaimasu",
+              "meaning": "Selamat pagi",
+              "label": "Sopan",
+              "audio": "おはようございます",
+              "example": "おはようございます、先生。",
+              "exampleRomaji": "Ohayou gozaimasu, sensei.",
+              "translation": "Selamat pagi, Guru."
+            },
+            {
+              "jp": "おはよう",
+              "romaji": "Ohayou",
+              "meaning": "Selamat pagi",
+              "label": "Kasual",
+              "audio": "おはよう",
+              "example": "おはよう、田中さん。",
+              "exampleRomaji": "Ohayou, Tanaka-san.",
+              "translation": "Selamat pagi, Tanaka."
+            },
+            {
+              "jp": "こんにちは",
+              "romaji": "Konnichiwa",
+              "meaning": "Halo / Selamat siang",
+              "label": "Umum",
+              "audio": "こんにちは",
+              "example": "こんにちは、元気ですか。",
+              "exampleRomaji": "Konnichiwa, genki desu ka.",
+              "translation": "Halo, apa kabar?"
+            },
+            {
+              "jp": "こんばんは",
+              "romaji": "Konbanwa",
+              "meaning": "Selamat malam",
+              "label": "Umum",
+              "audio": "こんばんは",
+              "example": "こんばんは、田中さん。",
+              "exampleRomaji": "Konbanwa, Tanaka-san.",
+              "translation": "Selamat malam, Tanaka."
+            },
+            {
+              "jp": "おやすみなさい",
+              "romaji": "Oyasuminasai",
+              "meaning": "Selamat tidur",
+              "label": "Sopan",
+              "audio": "おやすみなさい",
+              "example": "おやすみなさい、お母さん。",
+              "exampleRomaji": "Oyasuminasai, okaasan.",
+              "translation": "Selamat tidur, Ibu."
+            },
+            {
+              "jp": "おやすみ",
+              "romaji": "Oyasumi",
+              "meaning": "Selamat tidur",
+              "label": "Kasual",
+              "audio": "おやすみ",
+              "example": "おやすみ、また明日。",
+              "exampleRomaji": "Oyasumi, mata ashita.",
+              "translation": "Selamat tidur, sampai besok."
+            }
+          ]
+        },
+        {
+          "number": "1.2",
+          "title": "Ungkapan Perpisahan (別れの挨拶・わかれのあいさつ)",
+          "words": [
+            {
+              "jp": "さようなら",
+              "romaji": "Sayounara",
+              "meaning": "Selamat tinggal",
+              "label": "Umum",
+              "audio": "さようなら",
+              "example": "先生、さようなら。",
+              "exampleRomaji": "Sensei, sayounara.",
+              "translation": "Guru, selamat tinggal."
+            },
+            {
+              "jp": "またね",
+              "romaji": "Mata ne",
+              "meaning": "Sampai jumpa",
+              "label": "Kasual",
+              "audio": "またね",
+              "example": "またね、明日。",
+              "exampleRomaji": "Mata ne, ashita.",
+              "translation": "Sampai jumpa, besok."
+            },
+            {
+              "jp": "じゃあ、また",
+              "romaji": "Jaa, mata",
+              "meaning": "Kalau begitu, sampai jumpa",
+              "label": "Kasual",
+              "audio": "じゃあ、また",
+              "example": "じゃあ、また学校で。",
+              "exampleRomaji": "Jaa, mata gakkou de.",
+              "translation": "Kalau begitu, sampai jumpa di sekolah."
+            },
+            {
+              "jp": "また明日",
+              "romaji": "Mata ashita",
+              "meaning": "Sampai besok",
+              "label": "Umum",
+              "audio": "またあした",
+              "example": "また明日、友達。",
+              "exampleRomaji": "Mata ashita, tomodachi.",
+              "translation": "Sampai besok, teman."
+            },
+            {
+              "jp": "では、また",
+              "romaji": "Dewa, mata",
+              "meaning": "Kalau begitu, sampai jumpa",
+              "label": "Sopan",
+              "audio": "では、また",
+              "example": "では、また明日。",
+              "exampleRomaji": "Dewa, mata ashita.",
+              "translation": "Kalau begitu, sampai jumpa besok."
+            }
+          ]
+        },
+        {
+          "number": "1.3",
+          "title": "Permintaan Maaf dan Terima Kasih (お礼とお詫び・おれいとおわび)",
+          "words": [
+            {
+              "jp": "ごめんなさい",
+              "romaji": "Gomennasai",
+              "meaning": "Maaf",
+              "label": "Sopan",
+              "audio": "ごめんなさい",
+              "example": "ごめんなさい、遅れました。",
+              "exampleRomaji": "Gomennasai, okuremashita.",
+              "translation": "Maaf, saya terlambat."
+            },
+            {
+              "jp": "ごめん",
+              "romaji": "Gomen",
+              "meaning": "Maaf",
+              "label": "Kasual",
+              "audio": "ごめん",
+              "example": "ごめん、待たせたね。",
+              "exampleRomaji": "Gomen, mataseta ne.",
+              "translation": "Maaf, sudah membuatmu menunggu."
+            },
+            {
+              "jp": "ありがとう",
+              "romaji": "Arigatou",
+              "meaning": "Terima kasih",
+              "label": "Kasual",
+              "audio": "ありがとう",
+              "example": "ありがとう、田中さん。",
+              "exampleRomaji": "Arigatou, Tanaka-san.",
+              "translation": "Terima kasih, Tanaka."
+            },
+            {
+              "jp": "ありがとうございます",
+              "romaji": "Arigatou gozaimasu",
+              "meaning": "Terima kasih",
+              "label": "Sopan",
+              "audio": "ありがとうございます",
+              "example": "ありがとうございます、先生。",
+              "exampleRomaji": "Arigatou gozaimasu, sensei.",
+              "translation": "Terima kasih, Guru."
+            },
+            {
+              "jp": "いいえ",
+              "romaji": "Iie",
+              "meaning": "Tidak / Bukan. Dalam konteks tertentu dapat digunakan saat merespons ucapan terima kasih.",
+              "label": "Umum",
+              "audio": "いいえ",
+              "example": "いいえ、大丈夫です。",
+              "exampleRomaji": "Iie, daijoubu desu.",
+              "translation": "Tidak apa-apa."
+            }
+          ]
+        },
+        {
+          "number": "1.4",
+          "title": "Ungkapan Sebelum dan Sesudah Makan (食事の挨拶・しょくじのあいさつ)",
+          "words": [
+            {
+              "jp": "いただきます",
+              "romaji": "Itadakimasu",
+              "meaning": "Ungkapan sebelum makan sebagai bentuk rasa syukur.",
+              "label": "Umum",
+              "audio": "いただきます",
+              "example": "いただきます。",
+              "exampleRomaji": "Itadakimasu.",
+              "translation": "Ungkapan yang diucapkan sebelum mulai makan."
+            },
+            {
+              "jp": "ごちそうさまでした",
+              "romaji": "Gochisousama deshita",
+              "meaning": "Ungkapan terima kasih setelah menikmati makanan.",
+              "label": "Umum",
+              "audio": "ごちそうさまでした",
+              "example": "ごちそうさまでした。",
+              "exampleRomaji": "Gochisousama deshita.",
+              "translation": "Terima kasih atas makanannya."
+            }
+          ]
+        },
+        {
+          "number": "1.5",
+          "title": "Ungkapan Lainnya (その他の表現・そのたのひょうげん)",
+          "words": [
+            {
+              "jp": "いってきます",
+              "romaji": "Ittekimasu",
+              "meaning": "Saya pergi dulu",
+              "label": "Umum",
+              "audio": "いってきます",
+              "example": "いってきます！",
+              "exampleRomaji": "Ittekimasu!",
+              "translation": "Saya pergi dulu!"
+            },
+            {
+              "jp": "いってらっしゃい",
+              "romaji": "Itterasshai",
+              "meaning": "Hati-hati di jalan",
+              "label": "Umum",
+              "audio": "いってらっしゃい",
+              "example": "いってらっしゃい！",
+              "exampleRomaji": "Itterasshai!",
+              "translation": "Hati-hati di jalan!"
+            },
+            {
+              "jp": "ただいま",
+              "romaji": "Tadaima",
+              "meaning": "Saya pulang",
+              "label": "Umum",
+              "audio": "ただいま",
+              "example": "ただいま！",
+              "exampleRomaji": "Tadaima!",
+              "translation": "Aku pulang!"
+            },
+            {
+              "jp": "おかえりなさい",
+              "romaji": "Okaerinasai",
+              "meaning": "Selamat datang kembali",
+              "label": "Sopan",
+              "audio": "おかえりなさい",
+              "example": "おかえりなさい、お父さん。",
+              "exampleRomaji": "Okaerinasai, otousan.",
+              "translation": "Selamat datang kembali, Ayah."
+            },
+            {
+              "jp": "おかえり",
+              "romaji": "Okaeri",
+              "meaning": "Selamat datang kembali",
+              "label": "Kasual",
+              "audio": "おかえり",
+              "example": "おかえり！",
+              "exampleRomaji": "Okaeri!",
+              "translation": "Selamat datang kembali!"
+            },
+            {
+              "jp": "はじめまして",
+              "romaji": "Hajimemashite",
+              "meaning": "Salam kenal",
+              "label": "Umum",
+              "audio": "はじめまして",
+              "example": "はじめまして。私はアナです。",
+              "exampleRomaji": "Hajimemashite. Watashi wa Ana desu.",
+              "translation": "Salam kenal. Saya Ana."
+            },
+            {
+              "jp": "よろしくお願いします",
+              "romaji": "Yoroshiku onegaishimasu",
+              "meaning": "Mohon bantuannya / Senang berkenalan",
+              "label": "Sopan",
+              "audio": "よろしくおねがいします",
+              "example": "どうぞよろしくお願いします。",
+              "exampleRomaji": "Douzo yoroshiku onegaishimasu.",
+              "translation": "Senang berkenalan dengan Anda."
+            },
+            {
+              "jp": "よろしく",
+              "romaji": "Yoroshiku",
+              "meaning": "Mohon bantuannya / Senang berkenalan",
+              "label": "Kasual",
+              "audio": "よろしく",
+              "example": "よろしくね。",
+              "exampleRomaji": "Yoroshiku ne.",
+              "translation": "Senang berkenalan denganmu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

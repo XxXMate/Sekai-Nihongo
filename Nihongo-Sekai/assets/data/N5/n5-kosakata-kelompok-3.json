@@ -1,0 +1,864 @@
+{
+  "groups": [
+    {
+      "number": 3,
+      "title": "Angka, Waktu, dan Tanggal",
+      "subgroups": [
+        {
+          "number": "3.1",
+          "title": "Angka Dasar (基本の数字・きほんのすうじ)",
+          "words": [
+            {
+              "jp": "ぜろ (零)",
+              "romaji": "Zero",
+              "meaning": "Nol",
+              "label": "Umum",
+              "audio": "ぜろ",
+              "example": "番号はゼロです。",
+              "exampleRomaji": "Bangou wa zero desu.",
+              "translation": "Nomornya nol."
+            },
+            {
+              "jp": "いち (一)",
+              "romaji": "Ichi",
+              "meaning": "Satu",
+              "label": "Umum",
+              "audio": "いち",
+              "example": "りんごが一つあります。",
+              "exampleRomaji": "Ringo ga hitotsu arimasu.",
+              "translation": "Ada satu buah apel."
+            },
+            {
+              "jp": "に (二)",
+              "romaji": "Ni",
+              "meaning": "Dua",
+              "label": "Umum",
+              "audio": "に",
+              "example": "猫が二匹います。",
+              "exampleRomaji": "Neko ga nihiki imasu.",
+              "translation": "Ada dua ekor kucing."
+            },
+            {
+              "jp": "さん (三)",
+              "romaji": "San",
+              "meaning": "Tiga",
+              "label": "Umum",
+              "audio": "さん",
+              "example": "本が三冊あります。",
+              "exampleRomaji": "Hon ga sansatsu arimasu.",
+              "translation": "Ada tiga buku."
+            },
+            {
+              "jp": "よん (四)",
+              "romaji": "Yon",
+              "meaning": "Empat",
+              "label": "Umum",
+              "audio": "よん",
+              "example": "家族は四人です。",
+              "exampleRomaji": "Kazoku wa yonin desu.",
+              "translation": "Keluarga saya ada empat orang."
+            },
+            {
+              "jp": "ご (五)",
+              "romaji": "Go",
+              "meaning": "Lima",
+              "label": "Umum",
+              "audio": "ご",
+              "example": "りんごを五つ買いました。",
+              "exampleRomaji": "Ringo o itsutsu kaimashita.",
+              "translation": "Saya membeli lima buah apel."
+            },
+            {
+              "jp": "ろく (六)",
+              "romaji": "Roku",
+              "meaning": "Enam",
+              "label": "Umum",
+              "audio": "ろく",
+              "example": "六時に起きます。",
+              "exampleRomaji": "Rokuji ni okimasu.",
+              "translation": "Saya bangun pukul enam."
+            },
+            {
+              "jp": "なな (七)",
+              "romaji": "Nana",
+              "meaning": "Tujuh",
+              "label": "Umum",
+              "audio": "なな",
+              "example": "七時に学校へ行きます。",
+              "exampleRomaji": "Nanaji ni gakkou e ikimasu.",
+              "translation": "Saya pergi ke sekolah pukul tujuh."
+            },
+            {
+              "jp": "はち (八)",
+              "romaji": "Hachi",
+              "meaning": "Delapan",
+              "label": "Umum",
+              "audio": "はち",
+              "example": "鉛筆が八本あります。",
+              "exampleRomaji": "Enpitsu ga happon arimasu.",
+              "translation": "Ada delapan batang pensil."
+            },
+            {
+              "jp": "きゅう (九)",
+              "romaji": "Kyuu",
+              "meaning": "Sembilan",
+              "label": "Umum",
+              "audio": "きゅう",
+              "example": "九時に寝ます。",
+              "exampleRomaji": "Kuji ni nemasu.",
+              "translation": "Saya tidur pukul sembilan."
+            },
+            {
+              "jp": "じゅう (十)",
+              "romaji": "Juu",
+              "meaning": "Sepuluh",
+              "label": "Umum",
+              "audio": "じゅう",
+              "example": "十人の学生がいます。",
+              "exampleRomaji": "Juu-nin no gakusei ga imasu.",
+              "translation": "Ada sepuluh siswa."
+            }
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Angka Besar dan Uang (大きな数とお金・おおきなかずとおかね)",
+          "tabs": [
+            {
+              "title": "Angka Besar (大きな数・おおきなかず)",
+              "words": [
+                {
+                  "jp": "ひゃく (百)",
+                  "romaji": "Hyaku",
+                  "meaning": "Seratus",
+                  "label": "Umum",
+                  "audio": "ひゃく",
+                  "example": "この町には百人います。",
+                  "exampleRomaji": "Kono machi ni wa hyakunin imasu.",
+                  "translation": "Ada seratus orang di kota ini."
+                },
+                {
+                  "jp": "にひゃく (二百)",
+                  "romaji": "Nihyaku",
+                  "meaning": "Dua ratus",
+                  "label": "Umum",
+                  "audio": "にひゃく",
+                  "example": "この本は二百円です。",
+                  "exampleRomaji": "Kono hon wa nihyaku-en desu.",
+                  "translation": "Buku ini harganya dua ratus yen."
+                },
+                {
+                  "jp": "さんびゃく (三百)",
+                  "romaji": "Sanbyaku",
+                  "meaning": "Tiga ratus",
+                  "label": "Umum",
+                  "audio": "さんびゃく",
+                  "example": "駅まで三百メートルです。",
+                  "exampleRomaji": "Eki made sanbyaku meetoru desu.",
+                  "translation": "Jarak ke stasiun tiga ratus meter."
+                },
+                {
+                  "jp": "ろっぴゃく (六百)",
+                  "romaji": "Roppyaku",
+                  "meaning": "Enam ratus",
+                  "label": "Umum",
+                  "audio": "ろっぴゃく",
+                  "example": "このかばんは六百円です。",
+                  "exampleRomaji": "Kono kaban wa roppyaku-en desu.",
+                  "translation": "Tas ini harganya enam ratus yen."
+                },
+                {
+                  "jp": "はっぴゃく (八百)",
+                  "romaji": "Happyaku",
+                  "meaning": "Delapan ratus",
+                  "label": "Umum",
+                  "audio": "はっぴゃく",
+                  "example": "学校に八百人の学生がいます。",
+                  "exampleRomaji": "Gakkou ni happyakunin no gakusei ga imasu.",
+                  "translation": "Ada delapan ratus siswa di sekolah."
+                },
+                {
+                  "jp": "せん (千)",
+                  "romaji": "Sen",
+                  "meaning": "Seribu",
+                  "label": "Umum",
+                  "audio": "せん",
+                  "example": "これは千円です。",
+                  "exampleRomaji": "Kore wa sen-en desu.",
+                  "translation": "Ini seribu yen."
+                },
+                {
+                  "jp": "さんぜん (三千)",
+                  "romaji": "Sanzen",
+                  "meaning": "Tiga ribu",
+                  "label": "Umum",
+                  "audio": "さんぜん",
+                  "example": "この時計は三千円です。",
+                  "exampleRomaji": "Kono tokei wa sanzen-en desu.",
+                  "translation": "Jam ini harganya tiga ribu yen."
+                },
+                {
+                  "jp": "はっせん (八千)",
+                  "romaji": "Hassen",
+                  "meaning": "Delapan ribu",
+                  "label": "Umum",
+                  "audio": "はっせん",
+                  "example": "この自転車は八千円です。",
+                  "exampleRomaji": "Kono jitensha wa hassen-en desu.",
+                  "translation": "Sepeda ini harganya delapan ribu yen."
+                }
+              ],
+              "note": {
+                "title": "Catatan Pelafalan",
+                "intro": "Perhatikan perubahan bunyi saat membaca angka 300, 600, 800, 3.000, dan 8.000, ya!",
+                "items": [
+                  {
+                    "number": "300",
+                    "japanese": "さんびゃく (三百)",
+                    "romaji": "Sanbyaku"
+                  },
+                  {
+                    "number": "600",
+                    "japanese": "ろっぴゃく (六百)",
+                    "romaji": "Roppyaku"
+                  },
+                  {
+                    "number": "800",
+                    "japanese": "はっぴゃく (八百)",
+                    "romaji": "Happyaku"
+                  },
+                  {
+                    "number": "3.000",
+                    "japanese": "さんぜん (三千)",
+                    "romaji": "Sanzen"
+                  },
+                  {
+                    "number": "8.000",
+                    "japanese": "はっせん (八千)",
+                    "romaji": "Hassen"
+                  }
+                ],
+                "footer": "Catatan: Perubahan bunyi pada angka-angka tersebut merupakan perubahan pelafalan khusus (音便 / onbin), bukan semuanya rendaku dalam pengertian linguistik yang ketat."
+              }
+            },
+            {
+              "title": "Kosakata Uang (お金の言葉・おかねのことば)",
+              "words": [
+                {
+                  "jp": "えん (円)",
+                  "romaji": "En",
+                  "meaning": "Yen; mata uang Jepang",
+                  "label": "Umum",
+                  "audio": "えん",
+                  "example": "これは五百円です。",
+                  "exampleRomaji": "Kore wa gohyaku-en desu.",
+                  "translation": "Ini harganya lima ratus yen."
+                },
+                {
+                  "jp": "おかね (お金)",
+                  "romaji": "Okane",
+                  "meaning": "Uang",
+                  "label": "Umum",
+                  "audio": "おかね",
+                  "example": "お金がありません。",
+                  "exampleRomaji": "Okane ga arimasen.",
+                  "translation": "Saya tidak punya uang."
+                },
+                {
+                  "jp": "ねだん (値段)",
+                  "romaji": "Nedan",
+                  "meaning": "Harga",
+                  "label": "Umum",
+                  "audio": "ねだん",
+                  "example": "この値段は安いです。",
+                  "exampleRomaji": "Kono nedan wa yasui desu.",
+                  "translation": "Harga ini murah."
+                },
+                {
+                  "jp": "たかい (高い)",
+                  "romaji": "Takai",
+                  "meaning": "Mahal; tinggi",
+                  "label": "Umum",
+                  "audio": "たかい",
+                  "example": "このかばんはたかいです。",
+                  "exampleRomaji": "Kono kaban wa takai desu.",
+                  "translation": "Tas ini mahal."
+                },
+                {
+                  "jp": "やすい (安い)",
+                  "romaji": "Yasui",
+                  "meaning": "Murah",
+                  "label": "Umum",
+                  "audio": "やすい",
+                  "example": "このほんはやすいです。",
+                  "exampleRomaji": "Kono hon wa yasui desu.",
+                  "translation": "Buku ini murah."
+                },
+                {
+                  "jp": "いくら (幾ら)",
+                  "romaji": "Ikura",
+                  "meaning": "Berapa harga",
+                  "label": "Umum",
+                  "audio": "いくら",
+                  "example": "このほんはいくらですか。",
+                  "exampleRomaji": "Kono hon wa ikura desu ka.",
+                  "translation": "Berapa harga buku ini?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.3",
+          "title": "Hari dalam Seminggu (曜日・ようび)",
+          "words": [
+            {
+              "jp": "にちようび (日曜日)",
+              "romaji": "Nichiyoubi",
+              "meaning": "Hari Minggu",
+              "label": "Umum",
+              "audio": "にちようび",
+              "example": "今日は日曜日です。",
+              "exampleRomaji": "Kyou wa nichiyoubi desu.",
+              "translation": "Hari ini hari Minggu."
+            },
+            {
+              "jp": "げつようび (月曜日)",
+              "romaji": "Getsuyoubi",
+              "meaning": "Hari Senin",
+              "label": "Umum",
+              "audio": "げつようび",
+              "example": "明日は月曜日です。",
+              "exampleRomaji": "Ashita wa getsuyoubi desu.",
+              "translation": "Besok hari Senin."
+            },
+            {
+              "jp": "かようび (火曜日)",
+              "romaji": "Kayoubi",
+              "meaning": "Hari Selasa",
+              "label": "Umum",
+              "audio": "かようび",
+              "example": "火曜日に学校へ行きます。",
+              "exampleRomaji": "Kayoubi ni gakkou e ikimasu.",
+              "translation": "Saya pergi ke sekolah pada hari Selasa."
+            },
+            {
+              "jp": "すいようび (水曜日)",
+              "romaji": "Suiyoubi",
+              "meaning": "Hari Rabu",
+              "label": "Umum",
+              "audio": "すいようび",
+              "example": "水曜日は休みです。",
+              "exampleRomaji": "Suiyoubi wa yasumi desu.",
+              "translation": "Hari Rabu libur."
+            },
+            {
+              "jp": "もくようび (木曜日)",
+              "romaji": "Mokuyoubi",
+              "meaning": "Hari Kamis",
+              "label": "Umum",
+              "audio": "もくようび",
+              "example": "木曜日に勉強します。",
+              "exampleRomaji": "Mokuyoubi ni benkyou shimasu.",
+              "translation": "Saya belajar pada hari Kamis."
+            },
+            {
+              "jp": "きんようび (金曜日)",
+              "romaji": "Kinyoubi",
+              "meaning": "Hari Jumat",
+              "label": "Umum",
+              "audio": "きんようび",
+              "example": "金曜日に友達に会います。",
+              "exampleRomaji": "Kinyoubi ni tomodachi ni aimasu.",
+              "translation": "Saya bertemu teman pada hari Jumat."
+            },
+            {
+              "jp": "どようび (土曜日)",
+              "romaji": "Doyoubi",
+              "meaning": "Hari Sabtu",
+              "label": "Umum",
+              "audio": "どようび",
+              "example": "土曜日は休みです。",
+              "exampleRomaji": "Doyoubi wa yasumi desu.",
+              "translation": "Hari Sabtu libur."
+            }
+          ]
+        },
+        {
+          "number": "3.4",
+          "title": "Tanggal (日付・ひづけ)",
+          "note": {
+            "title": "Catatan Pelafalan Tanggal",
+            "intro": "Tanggal 1–10 dan tanggal 20 memiliki cara baca khusus. Perhatikan terutama tanggal 20.",
+            "items": [
+              {
+                "number": "20",
+                "japanese": "はつか (二十日)",
+                "romaji": "Hatsuka",
+                "explanation": "Dibaca Hatsuka, bukan Nijuu-nichi."
+              }
+            ],
+            "footer": "Hafalkan bentuk khusus ini karena tidak mengikuti pola angka biasa ditambah にち."
+          },
+          "words": [
+            {
+              "jp": "ついたち (一日)",
+              "romaji": "Tsuitachi",
+              "meaning": "Tanggal 1",
+              "label": "Umum",
+              "audio": "ついたち"
+            },
+            {
+              "jp": "ふつか (二日)",
+              "romaji": "Futsuka",
+              "meaning": "Tanggal 2",
+              "label": "Umum",
+              "audio": "ふつか"
+            },
+            {
+              "jp": "みっか (三日)",
+              "romaji": "Mikka",
+              "meaning": "Tanggal 3",
+              "label": "Umum",
+              "audio": "みっか"
+            },
+            {
+              "jp": "よっか (四日)",
+              "romaji": "Yokka",
+              "meaning": "Tanggal 4",
+              "label": "Umum",
+              "audio": "よっか"
+            },
+            {
+              "jp": "いつか (五日)",
+              "romaji": "Itsuka",
+              "meaning": "Tanggal 5",
+              "label": "Umum",
+              "audio": "いつか"
+            },
+            {
+              "jp": "むいか (六日)",
+              "romaji": "Muika",
+              "meaning": "Tanggal 6",
+              "label": "Umum",
+              "audio": "むいか"
+            },
+            {
+              "jp": "なのか (七日)",
+              "romaji": "Nanoka",
+              "meaning": "Tanggal 7",
+              "label": "Umum",
+              "audio": "なのか"
+            },
+            {
+              "jp": "ようか (八日)",
+              "romaji": "Youka",
+              "meaning": "Tanggal 8",
+              "label": "Umum",
+              "audio": "ようか"
+            },
+            {
+              "jp": "ここのか (九日)",
+              "romaji": "Kokonoka",
+              "meaning": "Tanggal 9",
+              "label": "Umum",
+              "audio": "ここのか"
+            },
+            {
+              "jp": "とおか (十日)",
+              "romaji": "Tooka",
+              "meaning": "Tanggal 10",
+              "label": "Umum",
+              "audio": "とおか"
+            },
+            {
+              "jp": "はつか (二十日)",
+              "romaji": "Hatsuka",
+              "meaning": "Tanggal 20",
+              "label": "Umum",
+              "audio": "はつか"
+            }
+          ]
+        },
+        {
+          "number": "3.5",
+          "title": "Waktu (Jam & Menit) (時刻・じこく)",
+          "note": {
+            "title": "Catatan Pelafalan Jam",
+            "intro": "Beberapa angka memiliki cara baca khusus saat digunakan untuk menyebutkan jam.",
+            "items": [
+              {
+                "number": "1時",
+                "japanese": "いちじ (一時)",
+                "romaji": "Ichiji",
+                "explanation": "Pukul satu."
+              },
+              {
+                "number": "4時",
+                "japanese": "よじ (四時)",
+                "romaji": "Yoji",
+                "explanation": "Dibaca Yoji, bukan Yonji."
+              },
+              {
+                "number": "7時",
+                "japanese": "しちじ (七時)",
+                "romaji": "Shichiji",
+                "explanation": "Dibaca Shichiji."
+              },
+              {
+                "number": "9時",
+                "japanese": "くじ (九時)",
+                "romaji": "Kuji",
+                "explanation": "Dibaca Kuji, bukan Kyuuji."
+              },
+              {
+                "number": "10分",
+                "japanese": "じゅっぷん (十分)",
+                "romaji": "Juppun",
+                "explanation": "Bunyi p rangkap: ppun."
+              }
+            ],
+            "footer": "Jam 2, 3, 5, 6, 8, dan 10 mengikuti pola angka + じ. ごふん dibaca Go-fun. はん berarti setengah jam atau 30 menit."
+          },
+          "words": [
+            {
+              "jp": "いちじ (一時)",
+              "romaji": "Ichiji",
+              "meaning": "Pukul satu",
+              "label": "Umum",
+              "audio": "いちじ",
+              "example": "今は一時です。",
+              "exampleRomaji": "Ima wa ichiji desu.",
+              "translation": "Sekarang pukul satu."
+            },
+            {
+              "jp": "にじ (二時)",
+              "romaji": "Niji",
+              "meaning": "Pukul dua",
+              "label": "Umum",
+              "audio": "にじ",
+              "example": "今は二時です。",
+              "exampleRomaji": "Ima wa niji desu.",
+              "translation": "Sekarang pukul dua."
+            },
+            {
+              "jp": "さんじ (三時)",
+              "romaji": "Sanji",
+              "meaning": "Pukul tiga",
+              "label": "Umum",
+              "audio": "さんじ",
+              "example": "今は三時です。",
+              "exampleRomaji": "Ima wa sanji desu.",
+              "translation": "Sekarang pukul tiga."
+            },
+            {
+              "jp": "よじ (四時)",
+              "romaji": "Yoji",
+              "meaning": "Pukul empat",
+              "label": "Umum",
+              "audio": "よじ",
+              "example": "今は四時です。",
+              "exampleRomaji": "Ima wa yoji desu.",
+              "translation": "Sekarang pukul empat."
+            },
+            {
+              "jp": "ごじ (五時)",
+              "romaji": "Goji",
+              "meaning": "Pukul lima",
+              "label": "Umum",
+              "audio": "ごじ",
+              "example": "今は五時です。",
+              "exampleRomaji": "Ima wa goji desu.",
+              "translation": "Sekarang pukul lima."
+            },
+            {
+              "jp": "ろくじ (六時)",
+              "romaji": "Rokuji",
+              "meaning": "Pukul enam",
+              "label": "Umum",
+              "audio": "ろくじ",
+              "example": "今は六時です。",
+              "exampleRomaji": "Ima wa rokuji desu.",
+              "translation": "Sekarang pukul enam."
+            },
+            {
+              "jp": "しちじ (七時)",
+              "romaji": "Shichiji",
+              "meaning": "Pukul tujuh",
+              "label": "Umum",
+              "audio": "しちじ",
+              "example": "今は七時です。",
+              "exampleRomaji": "Ima wa shichiji desu.",
+              "translation": "Sekarang pukul tujuh."
+            },
+            {
+              "jp": "はちじ (八時)",
+              "romaji": "Hachiji",
+              "meaning": "Pukul delapan",
+              "label": "Umum",
+              "audio": "はちじ",
+              "example": "今は八時です。",
+              "exampleRomaji": "Ima wa hachiji desu.",
+              "translation": "Sekarang pukul delapan."
+            },
+            {
+              "jp": "くじ (九時)",
+              "romaji": "Kuji",
+              "meaning": "Pukul sembilan",
+              "label": "Umum",
+              "audio": "くじ",
+              "example": "今は九時です。",
+              "exampleRomaji": "Ima wa kuji desu.",
+              "translation": "Sekarang pukul sembilan."
+            },
+            {
+              "jp": "じゅうじ (十時)",
+              "romaji": "Juuji",
+              "meaning": "Pukul sepuluh",
+              "label": "Umum",
+              "audio": "じゅうじ",
+              "example": "今は十時です。",
+              "exampleRomaji": "Ima wa juuji desu.",
+              "translation": "Sekarang pukul sepuluh."
+            },
+            {
+              "jp": "ごふん (五分)",
+              "romaji": "Go-fun",
+              "meaning": "Lima menit",
+              "label": "Umum",
+              "audio": "ごふん",
+              "example": "五分待ってください。",
+              "exampleRomaji": "Go-fun matte kudasai.",
+              "translation": "Tolong tunggu lima menit."
+            },
+            {
+              "jp": "じゅっぷん (十分)",
+              "romaji": "Juppun",
+              "meaning": "Sepuluh menit",
+              "label": "Umum",
+              "audio": "じゅっぷん",
+              "example": "十分休みます。",
+              "exampleRomaji": "Juppun yasumimasu.",
+              "translation": "Saya beristirahat selama sepuluh menit."
+            },
+            {
+              "jp": "はん (半)",
+              "romaji": "Han",
+              "meaning": "Setengah; menunjukkan 30 menit setelah jam",
+              "label": "Umum",
+              "audio": "はん",
+              "example": "三時半です。",
+              "exampleRomaji": "Sanji han desu.",
+              "translation": "Pukul 3.30."
+            },
+            {
+              "jp": "いまなんじですか (今何時ですか)",
+              "romaji": "Ima nanji desu ka",
+              "meaning": "Sekarang pukul berapa?",
+              "label": "Umum",
+              "audio": "いまなんじですか",
+              "example": "今何時ですか。",
+              "exampleRomaji": "Ima nanji desu ka.",
+              "translation": "Sekarang pukul berapa?"
+            }
+          ]
+        },
+        {
+          "number": "3.6",
+          "title": "Keterangan Waktu (時間の表現・じかんのひょうげん)",
+          "words": [
+            {
+              "jp": "きょう (今日)",
+              "romaji": "Kyou",
+              "meaning": "Hari ini",
+              "label": "Umum",
+              "audio": "きょう"
+            },
+            {
+              "jp": "きのう (昨日)",
+              "romaji": "Kinou",
+              "meaning": "Kemarin",
+              "label": "Umum",
+              "audio": "きのう"
+            },
+            {
+              "jp": "あした (明日)",
+              "romaji": "Ashita",
+              "meaning": "Besok",
+              "label": "Umum",
+              "audio": "あした"
+            },
+            {
+              "jp": "あさって (明後日)",
+              "romaji": "Asatte",
+              "meaning": "Lusa",
+              "label": "Umum",
+              "audio": "あさって"
+            },
+            {
+              "jp": "おととい (一昨日)",
+              "romaji": "Ototoi",
+              "meaning": "Kemarin lusa",
+              "label": "Umum",
+              "audio": "おととい"
+            },
+            {
+              "jp": "あさ (朝)",
+              "romaji": "Asa",
+              "meaning": "Pagi",
+              "label": "Umum",
+              "audio": "あさ"
+            },
+            {
+              "jp": "ひる (昼)",
+              "romaji": "Hiru",
+              "meaning": "Siang",
+              "label": "Umum",
+              "audio": "ひる"
+            },
+            {
+              "jp": "ゆうがた (夕方)",
+              "romaji": "Yuugata",
+              "meaning": "Sore",
+              "label": "Umum",
+              "audio": "ゆうがた"
+            },
+            {
+              "jp": "よる (夜)",
+              "romaji": "Yoru",
+              "meaning": "Malam",
+              "label": "Umum",
+              "audio": "よる"
+            },
+            {
+              "jp": "ばん (晩)",
+              "romaji": "Ban",
+              "meaning": "Malam",
+              "label": "Umum",
+              "audio": "ばん"
+            },
+            {
+              "jp": "けさ (今朝)",
+              "romaji": "Kesa",
+              "meaning": "Pagi ini",
+              "label": "Umum",
+              "audio": "けさ"
+            },
+            {
+              "jp": "こんばん (今晩)",
+              "romaji": "Konban",
+              "meaning": "Malam ini",
+              "label": "Umum",
+              "audio": "こんばん"
+            },
+            {
+              "jp": "せんしゅう (先週)",
+              "romaji": "Senshuu",
+              "meaning": "Minggu lalu",
+              "label": "Umum",
+              "audio": "せんしゅう"
+            },
+            {
+              "jp": "こんしゅう (今週)",
+              "romaji": "Konshuu",
+              "meaning": "Minggu ini",
+              "label": "Umum",
+              "audio": "こんしゅう"
+            },
+            {
+              "jp": "らいしゅう (来週)",
+              "romaji": "Raishuu",
+              "meaning": "Minggu depan",
+              "label": "Umum",
+              "audio": "らいしゅう"
+            },
+            {
+              "jp": "まいしゅう (毎週)",
+              "romaji": "Maishuu",
+              "meaning": "Setiap minggu",
+              "label": "Umum",
+              "audio": "まいしゅう"
+            },
+            {
+              "jp": "せんげつ (先月)",
+              "romaji": "Sengetsu",
+              "meaning": "Bulan lalu",
+              "label": "Umum",
+              "audio": "せんげつ"
+            },
+            {
+              "jp": "こんげつ (今月)",
+              "romaji": "Kongetsu",
+              "meaning": "Bulan ini",
+              "label": "Umum",
+              "audio": "こんげつ"
+            },
+            {
+              "jp": "らいげつ (来月)",
+              "romaji": "Raigetsu",
+              "meaning": "Bulan depan",
+              "label": "Umum",
+              "audio": "らいげつ"
+            },
+            {
+              "jp": "まいつき (毎月)",
+              "romaji": "Maitsuki",
+              "meaning": "Setiap bulan",
+              "label": "Umum",
+              "audio": "まいつき"
+            },
+            {
+              "jp": "きょねん (去年)",
+              "romaji": "Kyonen",
+              "meaning": "Tahun lalu",
+              "label": "Umum",
+              "audio": "きょねん"
+            },
+            {
+              "jp": "ことし (今年)",
+              "romaji": "Kotoshi",
+              "meaning": "Tahun ini",
+              "label": "Umum",
+              "audio": "ことし"
+            },
+            {
+              "jp": "らいねん (来年)",
+              "romaji": "Rainen",
+              "meaning": "Tahun depan",
+              "label": "Umum",
+              "audio": "らいねん"
+            },
+            {
+              "jp": "まいとし (毎年)",
+              "romaji": "Maitoshi",
+              "meaning": "Setiap tahun",
+              "label": "Umum",
+              "audio": "まいとし"
+            },
+            {
+              "jp": "まいにち (毎日)",
+              "romaji": "Mainichi",
+              "meaning": "Setiap hari",
+              "label": "Umum",
+              "audio": "まいにち"
+            },
+            {
+              "jp": "まいあさ (毎朝)",
+              "romaji": "Maiasa",
+              "meaning": "Setiap pagi",
+              "label": "Umum",
+              "audio": "まいあさ"
+            },
+            {
+              "jp": "まいばん (毎晩)",
+              "romaji": "Maiban",
+              "meaning": "Setiap malam",
+              "label": "Umum",
+              "audio": "まいばん"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

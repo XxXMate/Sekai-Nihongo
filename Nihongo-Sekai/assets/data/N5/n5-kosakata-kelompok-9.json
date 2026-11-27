@@ -1,0 +1,227 @@
+{
+  "groups": [
+    {
+      "number": 9,
+      "title": "Kelompok 9 — Cuaca dan Musim",
+      "description": "Kosakata cuaca, empat musim, dan kalimat sederhana tentang cuaca.",
+      "subgroups": [
+        {
+          "number": "9.1",
+          "title": "Cuaca & 4 Musim (天気と四季・てんきとしき)",
+          "words": [
+            {
+              "jp": "てんき (天気)",
+              "romaji": "Tenki",
+              "meaning": "Cuaca",
+              "audio": "てんき"
+            },
+            {
+              "jp": "はれ (晴れ)",
+              "romaji": "Hare",
+              "meaning": "Cerah",
+              "audio": "はれ"
+            },
+            {
+              "jp": "くもり (曇り)",
+              "romaji": "Kumori",
+              "meaning": "Mendung",
+              "audio": "くもり"
+            },
+            {
+              "jp": "あめ (雨)",
+              "romaji": "Ame",
+              "meaning": "Hujan",
+              "audio": "あめ"
+            },
+            {
+              "jp": "ゆき (雪)",
+              "romaji": "Yuki",
+              "meaning": "Salju",
+              "audio": "ゆき"
+            },
+            {
+              "jp": "くも (雲)",
+              "romaji": "Kumo",
+              "meaning": "Awan",
+              "audio": "くも"
+            },
+            {
+              "jp": "かぜ (風)",
+              "romaji": "Kaze",
+              "meaning": "Angin",
+              "audio": "かぜ"
+            },
+            {
+              "jp": "そら (空)",
+              "romaji": "Sora",
+              "meaning": "Langit",
+              "audio": "そら"
+            },
+            {
+              "jp": "きせつ (季節)",
+              "romaji": "Kisetsu",
+              "meaning": "Musim",
+              "audio": "きせつ"
+            },
+            {
+              "jp": "はる (春)",
+              "romaji": "Haru",
+              "meaning": "Musim semi",
+              "audio": "はる"
+            },
+            {
+              "jp": "なつ (夏)",
+              "romaji": "Natsu",
+              "meaning": "Musim panas",
+              "audio": "なつ"
+            },
+            {
+              "jp": "あき (秋)",
+              "romaji": "Aki",
+              "meaning": "Musim gugur",
+              "audio": "あき"
+            },
+            {
+              "jp": "ふゆ (冬)",
+              "romaji": "Fuyu",
+              "meaning": "Musim dingin",
+              "audio": "ふゆ"
+            },
+            {
+              "jp": "あつい (暑い)",
+              "romaji": "Atsui",
+              "meaning": "Panas (cuaca)",
+              "audio": "あつい"
+            },
+            {
+              "jp": "さむい (寒い)",
+              "romaji": "Samui",
+              "meaning": "Dingin (cuaca)",
+              "audio": "さむい"
+            },
+            {
+              "jp": "すずしい (涼しい)",
+              "romaji": "Suzushii",
+              "meaning": "Sejuk",
+              "audio": "すずしい"
+            },
+            {
+              "jp": "あたたかい (暖かい)",
+              "romaji": "Atatakai",
+              "meaning": "Hangat",
+              "audio": "あたたかい"
+            }
+          ]
+        },
+        {
+          "number": "9.2",
+          "title": "Kalimat Cuaca (天気を使った文・てんきをつかったぶん)",
+          "words": [
+            {
+              "jp": "今日はいい天気です。",
+              "romaji": "Kyou wa ii tenki desu.",
+              "meaning": "Hari ini cuacanya bagus.",
+              "audio": "今日はいい天気です。"
+            },
+            {
+              "jp": "今日の天気はどうですか。",
+              "romaji": "Kyou no tenki wa dou desu ka.",
+              "meaning": "Bagaimana cuaca hari ini?",
+              "audio": "今日の天気はどうですか。"
+            },
+            {
+              "jp": "今日は晴れです。",
+              "romaji": "Kyou wa hare desu.",
+              "meaning": "Hari ini cerah.",
+              "audio": "今日は晴れです。"
+            },
+            {
+              "jp": "明日は曇りです。",
+              "romaji": "Ashita wa kumori desu.",
+              "meaning": "Besok mendung.",
+              "audio": "明日は曇りです。"
+            },
+            {
+              "jp": "昨日は雨でした。",
+              "romaji": "Kinou wa ame deshita.",
+              "meaning": "Kemarin hujan.",
+              "audio": "昨日は雨でした。"
+            },
+            {
+              "jp": "雨が降っています。",
+              "romaji": "Ame ga futte imasu.",
+              "meaning": "Hujan sedang turun.",
+              "audio": "雨が降っています。"
+            },
+            {
+              "jp": "雪が降っています。",
+              "romaji": "Yuki ga futte imasu.",
+              "meaning": "Salju sedang turun.",
+              "audio": "雪が降っています。"
+            },
+            {
+              "jp": "明日は雨が降ります。",
+              "romaji": "Ashita wa ame ga furimasu.",
+              "meaning": "Besok akan turun hujan.",
+              "audio": "明日は雨が降ります。"
+            },
+            {
+              "jp": "風が吹いています。",
+              "romaji": "Kaze ga fuite imasu.",
+              "meaning": "Angin sedang bertiup.",
+              "audio": "風が吹いています。"
+            },
+            {
+              "jp": "風が強いです。",
+              "romaji": "Kaze ga tsuyoi desu.",
+              "meaning": "Anginnya kencang.",
+              "audio": "風が強いです。"
+            },
+            {
+              "jp": "空が青いです。",
+              "romaji": "Sora ga aoi desu.",
+              "meaning": "Langit berwarna biru.",
+              "audio": "空が青いです。"
+            },
+            {
+              "jp": "雲が多いです。",
+              "romaji": "Kumo ga ooi desu.",
+              "meaning": "Awan banyak.",
+              "audio": "雲が多いです。"
+            },
+            {
+              "jp": "日本には四つの季節があります。",
+              "romaji": "Nihon ni wa yottsu no kisetsu ga arimasu.",
+              "meaning": "Di Jepang ada empat musim.",
+              "audio": "日本には四つの季節があります。"
+            },
+            {
+              "jp": "春は暖かいです。",
+              "romaji": "Haru wa atatakai desu.",
+              "meaning": "Musim semi hangat.",
+              "audio": "春は暖かいです。"
+            },
+            {
+              "jp": "夏は暑いです。",
+              "romaji": "Natsu wa atsui desu.",
+              "meaning": "Musim panas panas.",
+              "audio": "夏は暑いです。"
+            },
+            {
+              "jp": "秋は涼しいです。",
+              "romaji": "Aki wa suzushii desu.",
+              "meaning": "Musim gugur sejuk.",
+              "audio": "秋は涼しいです。"
+            },
+            {
+              "jp": "冬は寒いです。",
+              "romaji": "Fuyu wa samui desu.",
+              "meaning": "Musim dingin dingin.",
+              "audio": "冬は寒いです。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
