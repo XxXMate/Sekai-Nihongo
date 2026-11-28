@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 8,
-      "title": "Kelompok 8 — Pakaian & Benda Sehari-hari",
+      "title": "Pakaian dan Benda Sehari-hari（服と日用品・ふくとにちようひん）",
       "description": "Pelajari kosakata pakaian dan benda yang sering dibawa, kemudian gunakan dalam kalimat sederhana.",
       "subgroups": [
         {
           "number": "8.1",
-          "title": "Pakaian & Benda yang Sering Dibawa (服と持ち物・ふくともちもの)",
+          "title": "Pakaian dan Benda yang Sering Dibawa（服と持ち物・ふくともちもの）",
           "tabs": [
             {
               "title": "Pakaian (服・ふく)",
@@ -257,7 +257,7 @@
         },
         {
           "number": "8.2",
-          "title": "Kalimat Benda (持ち物を使った文・もちものをつかったぶん)",
+          "title": "Contoh Kalimat tentang Benda（持ち物を使った文・もちものをつかったぶん）",
           "words": [
             {
               "jp": "かさを もって いきます。",

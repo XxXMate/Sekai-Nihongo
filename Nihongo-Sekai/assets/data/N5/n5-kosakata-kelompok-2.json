@@ -2,287 +2,388 @@
   "groups": [
     {
       "number": 2,
-      "title": "Kata Ganti Orang dan Keluarga",
+      "title": "Keluarga（家族・かぞく）",
       "subgroups": [
         {
           "number": "2.1",
-          "title": "Keluarga Sendiri (自分の家族・じぶんのかぞく)",
-          "words": [
+          "title": "Keluarga Sendiri（自分の家族・じぶんのかぞく）",
+          "tabs": [
             {
-              "jp": "かぞく (家族)",
-              "romaji": "Kazoku",
-              "meaning": "Keluarga",
-              "label": "Umum",
-              "audio": "かぞく",
-              "example": "家族は四人です。",
-              "exampleRomaji": "Kazoku wa yonin desu.",
-              "translation": "Keluarga saya ada empat orang."
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "かぞく (家族)",
+                  "romaji": "Kazoku",
+                  "meaning": "Keluarga",
+                  "label": "Umum",
+                  "audio": "かぞく"
+                },
+                {
+                  "jp": "ちち (父)",
+                  "romaji": "Chichi",
+                  "meaning": "Ayah saya",
+                  "label": "Umum",
+                  "audio": "ちち"
+                },
+                {
+                  "jp": "はは (母)",
+                  "romaji": "Haha",
+                  "meaning": "Ibu saya",
+                  "label": "Umum",
+                  "audio": "はは"
+                },
+                {
+                  "jp": "りょうしん (両親)",
+                  "romaji": "Ryoushin",
+                  "meaning": "Orang tua saya",
+                  "label": "Umum",
+                  "audio": "りょうしん"
+                },
+                {
+                  "jp": "あに (兄)",
+                  "romaji": "Ani",
+                  "meaning": "Kakak laki-laki saya",
+                  "label": "Umum",
+                  "audio": "あに"
+                },
+                {
+                  "jp": "あね (姉)",
+                  "romaji": "Ane",
+                  "meaning": "Kakak perempuan saya",
+                  "label": "Umum",
+                  "audio": "あね"
+                },
+                {
+                  "jp": "おとうと (弟)",
+                  "romaji": "Otouto",
+                  "meaning": "Adik laki-laki saya",
+                  "label": "Umum",
+                  "audio": "おとうと"
+                },
+                {
+                  "jp": "いもうと (妹)",
+                  "romaji": "Imouto",
+                  "meaning": "Adik perempuan saya",
+                  "label": "Umum",
+                  "audio": "いもうと"
+                },
+                {
+                  "jp": "そふ (祖父)",
+                  "romaji": "Sofu",
+                  "meaning": "Kakek saya",
+                  "label": "Umum",
+                  "audio": "そふ"
+                },
+                {
+                  "jp": "そぼ (祖母)",
+                  "romaji": "Sobo",
+                  "meaning": "Nenek saya",
+                  "label": "Umum",
+                  "audio": "そぼ"
+                },
+                {
+                  "jp": "きょうだい (兄弟)",
+                  "romaji": "Kyoudai",
+                  "meaning": "Saudara kandung",
+                  "label": "Umum",
+                  "audio": "きょうだい"
+                },
+                {
+                  "jp": "しまい (姉妹)",
+                  "romaji": "Shimai",
+                  "meaning": "Saudara perempuan",
+                  "label": "Umum",
+                  "audio": "しまい"
+                },
+                {
+                  "jp": "むすこ (息子)",
+                  "romaji": "Musuko",
+                  "meaning": "Anak laki-laki saya",
+                  "label": "Umum",
+                  "audio": "むすこ"
+                },
+                {
+                  "jp": "むすめ (娘)",
+                  "romaji": "Musume",
+                  "meaning": "Anak perempuan saya",
+                  "label": "Umum",
+                  "audio": "むすめ"
+                }
+              ]
             },
             {
-              "jp": "ちち (父)",
-              "romaji": "Chichi",
-              "meaning": "Ayah saya",
-              "label": "Umum",
-              "audio": "ちち",
-              "example": "父は会社員です。",
-              "exampleRomaji": "Chichi wa kaishain desu.",
-              "translation": "Ayah saya pegawai perusahaan."
-            },
-            {
-              "jp": "はは (母)",
-              "romaji": "Haha",
-              "meaning": "Ibu saya",
-              "label": "Umum",
-              "audio": "はは",
-              "example": "母は料理が上手です。",
-              "exampleRomaji": "Haha wa ryouri ga jouzu desu.",
-              "translation": "Ibu saya pandai memasak."
-            },
-            {
-              "jp": "りょうしん (両親)",
-              "romaji": "Ryoushin",
-              "meaning": "Orang tua saya",
-              "label": "Umum",
-              "audio": "りょうしん",
-              "example": "両親は東京に住んでいます。",
-              "exampleRomaji": "Ryoushin wa Toukyou ni sunde imasu.",
-              "translation": "Orang tua saya tinggal di Tokyo."
-            },
-            {
-              "jp": "あに (兄)",
-              "romaji": "Ani",
-              "meaning": "Kakak laki-laki saya",
-              "label": "Umum",
-              "audio": "あに",
-              "example": "兄は大学生です。",
-              "exampleRomaji": "Ani wa daigakusei desu.",
-              "translation": "Kakak laki-laki saya mahasiswa."
-            },
-            {
-              "jp": "あね (姉)",
-              "romaji": "Ane",
-              "meaning": "Kakak perempuan saya",
-              "label": "Umum",
-              "audio": "あね",
-              "example": "姉は先生です。",
-              "exampleRomaji": "Ane wa sensei desu.",
-              "translation": "Kakak perempuan saya adalah guru."
-            },
-            {
-              "jp": "おとうと (弟)",
-              "romaji": "Otouto",
-              "meaning": "Adik laki-laki saya",
-              "label": "Umum",
-              "audio": "おとうと",
-              "example": "弟は高校生です。",
-              "exampleRomaji": "Otouto wa koukousei desu.",
-              "translation": "Adik laki-laki saya siswa SMA."
-            },
-            {
-              "jp": "いもうと (妹)",
-              "romaji": "Imouto",
-              "meaning": "Adik perempuan saya",
-              "label": "Umum",
-              "audio": "いもうと",
-              "example": "妹は十歳です。",
-              "exampleRomaji": "Imouto wa jussai desu.",
-              "translation": "Adik perempuan saya berusia sepuluh tahun."
-            },
-            {
-              "jp": "そふ (祖父)",
-              "romaji": "Sofu",
-              "meaning": "Kakek saya",
-              "label": "Umum",
-              "audio": "そふ",
-              "example": "祖父は元気です。",
-              "exampleRomaji": "Sofu wa genki desu.",
-              "translation": "Kakek saya sehat."
-            },
-            {
-              "jp": "そぼ (祖母)",
-              "romaji": "Sobo",
-              "meaning": "Nenek saya",
-              "label": "Umum",
-              "audio": "そぼ",
-              "example": "祖母は花が好きです。",
-              "exampleRomaji": "Sobo wa hana ga suki desu.",
-              "translation": "Nenek saya suka bunga."
-            },
-            {
-              "jp": "きょうだい (兄弟)",
-              "romaji": "Kyoudai",
-              "meaning": "Saudara kandung",
-              "label": "Umum",
-              "audio": "きょうだい",
-              "example": "私には兄弟が二人います。",
-              "exampleRomaji": "Watashi ni wa kyoudai ga futari imasu.",
-              "translation": "Saya memiliki dua saudara kandung."
-            },
-            {
-              "jp": "しまい (姉妹)",
-              "romaji": "Shimai",
-              "meaning": "Saudara perempuan",
-              "label": "Umum",
-              "audio": "しまい",
-              "example": "私たちは姉妹です。",
-              "exampleRomaji": "Watashitachi wa shimai desu.",
-              "translation": "Kami adalah saudara perempuan."
-            },
-            {
-              "jp": "むすこ (息子)",
-              "romaji": "Musuko",
-              "meaning": "Anak laki-laki saya",
-              "label": "Umum",
-              "audio": "むすこ",
-              "example": "息子は三歳です。",
-              "exampleRomaji": "Musuko wa sansai desu.",
-              "translation": "Anak laki-laki saya berusia tiga tahun."
-            },
-            {
-              "jp": "むすめ (娘)",
-              "romaji": "Musume",
-              "meaning": "Anak perempuan saya",
-              "label": "Umum",
-              "audio": "むすめ",
-              "example": "娘は五歳です。",
-              "exampleRomaji": "Musume wa gosai desu.",
-              "translation": "Anak perempuan saya berusia lima tahun."
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "家族は四人です。",
+                  "romaji": "Kazoku wa yonin desu.",
+                  "meaning": "Keluarga saya ada empat orang.",
+                  "audio": "家族は四人です。"
+                },
+                {
+                  "jp": "父は会社員です。",
+                  "romaji": "Chichi wa kaishain desu.",
+                  "meaning": "Ayah saya pegawai perusahaan.",
+                  "audio": "父は会社員です。"
+                },
+                {
+                  "jp": "母は料理が上手です。",
+                  "romaji": "Haha wa ryouri ga jouzu desu.",
+                  "meaning": "Ibu saya pandai memasak.",
+                  "audio": "母は料理が上手です。"
+                },
+                {
+                  "jp": "両親は東京に住んでいます。",
+                  "romaji": "Ryoushin wa Toukyou ni sunde imasu.",
+                  "meaning": "Orang tua saya tinggal di Tokyo.",
+                  "audio": "両親は東京に住んでいます。"
+                },
+                {
+                  "jp": "兄は大学生です。",
+                  "romaji": "Ani wa daigakusei desu.",
+                  "meaning": "Kakak laki-laki saya mahasiswa.",
+                  "audio": "兄は大学生です。"
+                },
+                {
+                  "jp": "姉は先生です。",
+                  "romaji": "Ane wa sensei desu.",
+                  "meaning": "Kakak perempuan saya adalah guru.",
+                  "audio": "姉は先生です。"
+                },
+                {
+                  "jp": "弟は高校生です。",
+                  "romaji": "Otouto wa koukousei desu.",
+                  "meaning": "Adik laki-laki saya siswa SMA.",
+                  "audio": "弟は高校生です。"
+                },
+                {
+                  "jp": "妹は十歳です。",
+                  "romaji": "Imouto wa jussai desu.",
+                  "meaning": "Adik perempuan saya berusia sepuluh tahun.",
+                  "audio": "妹は十歳です。"
+                },
+                {
+                  "jp": "祖父は元気です。",
+                  "romaji": "Sofu wa genki desu.",
+                  "meaning": "Kakek saya sehat.",
+                  "audio": "祖父は元気です。"
+                },
+                {
+                  "jp": "祖母は花が好きです。",
+                  "romaji": "Sobo wa hana ga suki desu.",
+                  "meaning": "Nenek saya suka bunga.",
+                  "audio": "祖母は花が好きです。"
+                },
+                {
+                  "jp": "私には兄弟が二人います。",
+                  "romaji": "Watashi ni wa kyoudai ga futari imasu.",
+                  "meaning": "Saya memiliki dua saudara kandung.",
+                  "audio": "私には兄弟が二人います。"
+                },
+                {
+                  "jp": "私たちは姉妹です。",
+                  "romaji": "Watashitachi wa shimai desu.",
+                  "meaning": "Kami adalah saudara perempuan.",
+                  "audio": "私たちは姉妹です。"
+                },
+                {
+                  "jp": "息子は三歳です。",
+                  "romaji": "Musuko wa sansai desu.",
+                  "meaning": "Anak laki-laki saya berusia tiga tahun.",
+                  "audio": "息子は三歳です。"
+                },
+                {
+                  "jp": "娘は五歳です。",
+                  "romaji": "Musume wa gosai desu.",
+                  "meaning": "Anak perempuan saya berusia lima tahun.",
+                  "audio": "娘は五歳です。"
+                }
+              ]
             }
           ]
         },
         {
           "number": "2.2",
-          "title": "Keluarga Orang Lain (相手の家族・あいてのかぞく)",
-          "words": [
+          "title": "Keluarga Orang Lain（相手の家族・あいてのかぞく）",
+          "tabs": [
             {
-              "jp": "ごかぞく (ご家族)",
-              "romaji": "Gokazoku",
-              "meaning": "Keluarga Anda / keluarga orang lain",
-              "label": "Sopan",
-              "audio": "ごかぞく",
-              "example": "ご家族は何人ですか。",
-              "exampleRomaji": "Gokazoku wa nan-nin desu ka.",
-              "translation": "Ada berapa orang dalam keluarga Anda?"
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "ごかぞく (ご家族)",
+                  "romaji": "Gokazoku",
+                  "meaning": "Keluarga Anda / keluarga orang lain",
+                  "label": "Sopan",
+                  "audio": "ごかぞく"
+                },
+                {
+                  "jp": "おとうさん (お父さん)",
+                  "romaji": "Otousan",
+                  "meaning": "Ayah Anda",
+                  "label": "Sopan",
+                  "audio": "おとうさん"
+                },
+                {
+                  "jp": "おかあさん (お母さん)",
+                  "romaji": "Okaasan",
+                  "meaning": "Ibu Anda",
+                  "label": "Sopan",
+                  "audio": "おかあさん"
+                },
+                {
+                  "jp": "ごりょうしん (ご両親)",
+                  "romaji": "Goryoushin",
+                  "meaning": "Orang tua Anda",
+                  "label": "Sopan",
+                  "audio": "ごりょうしん"
+                },
+                {
+                  "jp": "おにいさん (お兄さん)",
+                  "romaji": "Oniisan",
+                  "meaning": "Kakak laki-laki Anda",
+                  "label": "Sopan",
+                  "audio": "おにいさん"
+                },
+                {
+                  "jp": "おねえさん (お姉さん)",
+                  "romaji": "Oneesan",
+                  "meaning": "Kakak perempuan Anda",
+                  "label": "Sopan",
+                  "audio": "おねえさん"
+                },
+                {
+                  "jp": "おとうとさん (弟さん)",
+                  "romaji": "Otoutosan",
+                  "meaning": "Adik laki-laki Anda",
+                  "label": "Sopan",
+                  "audio": "おとうとさん"
+                },
+                {
+                  "jp": "いもうとさん (妹さん)",
+                  "romaji": "Imoutosan",
+                  "meaning": "Adik perempuan Anda",
+                  "label": "Sopan",
+                  "audio": "いもうとさん"
+                },
+                {
+                  "jp": "おじいさん (お祖父さん)",
+                  "romaji": "Ojiisan",
+                  "meaning": "Kakek Anda",
+                  "label": "Sopan",
+                  "audio": "おじいさん"
+                },
+                {
+                  "jp": "おばあさん (お祖母さん)",
+                  "romaji": "Obaasan",
+                  "meaning": "Nenek Anda",
+                  "label": "Sopan",
+                  "audio": "おばあさん"
+                },
+                {
+                  "jp": "ごきょうだい (ご兄弟)",
+                  "romaji": "Gokyoudai",
+                  "meaning": "Saudara kandung Anda",
+                  "label": "Sopan",
+                  "audio": "ごきょうだい"
+                },
+                {
+                  "jp": "むすこさん (息子さん)",
+                  "romaji": "Musukosan",
+                  "meaning": "Anak laki-laki Anda",
+                  "label": "Sopan",
+                  "audio": "むすこさん"
+                },
+                {
+                  "jp": "むすめさん (娘さん)",
+                  "romaji": "Musumesan",
+                  "meaning": "Anak perempuan Anda",
+                  "label": "Sopan",
+                  "audio": "むすめさん"
+                }
+              ]
             },
             {
-              "jp": "おとうさん (お父さん)",
-              "romaji": "Otousan",
-              "meaning": "Ayah Anda",
-              "label": "Sopan",
-              "audio": "おとうさん",
-              "example": "お父さんはお元気ですか。",
-              "exampleRomaji": "Otousan wa ogenki desu ka.",
-              "translation": "Apakah ayah Anda sehat?"
-            },
-            {
-              "jp": "おかあさん (お母さん)",
-              "romaji": "Okaasan",
-              "meaning": "Ibu Anda",
-              "label": "Sopan",
-              "audio": "おかあさん",
-              "example": "お母さんは料理が好きですか。",
-              "exampleRomaji": "Okaasan wa ryouri ga suki desu ka.",
-              "translation": "Apakah ibu Anda suka memasak?"
-            },
-            {
-              "jp": "ごりょうしん (ご両親)",
-              "romaji": "Goryoushin",
-              "meaning": "Orang tua Anda",
-              "label": "Sopan",
-              "audio": "ごりょうしん",
-              "example": "ご両親はお元気ですか。",
-              "exampleRomaji": "Goryoushin wa ogenki desu ka.",
-              "translation": "Apakah orang tua Anda sehat?"
-            },
-            {
-              "jp": "おにいさん (お兄さん)",
-              "romaji": "Oniisan",
-              "meaning": "Kakak laki-laki Anda",
-              "label": "Sopan",
-              "audio": "おにいさん",
-              "example": "お兄さんは学生ですか。",
-              "exampleRomaji": "Oniisan wa gakusei desu ka.",
-              "translation": "Apakah kakak laki-laki Anda seorang pelajar?"
-            },
-            {
-              "jp": "おねえさん (お姉さん)",
-              "romaji": "Oneesan",
-              "meaning": "Kakak perempuan Anda",
-              "label": "Sopan",
-              "audio": "おねえさん",
-              "example": "お姉さんは何歳ですか。",
-              "exampleRomaji": "Oneesan wa nan-sai desu ka.",
-              "translation": "Berapa usia kakak perempuan Anda?"
-            },
-            {
-              "jp": "おとうとさん (弟さん)",
-              "romaji": "Otoutosan",
-              "meaning": "Adik laki-laki Anda",
-              "label": "Sopan",
-              "audio": "おとうとさん",
-              "example": "弟さんは学生ですか。",
-              "exampleRomaji": "Otoutosan wa gakusei desu ka.",
-              "translation": "Apakah adik laki-laki Anda seorang pelajar?"
-            },
-            {
-              "jp": "いもうとさん (妹さん)",
-              "romaji": "Imoutosan",
-              "meaning": "Adik perempuan Anda",
-              "label": "Sopan",
-              "audio": "いもうとさん",
-              "example": "妹さんは何歳ですか。",
-              "exampleRomaji": "Imoutosan wa nan-sai desu ka.",
-              "translation": "Berapa usia adik perempuan Anda?"
-            },
-            {
-              "jp": "おじいさん (お祖父さん)",
-              "romaji": "Ojiisan",
-              "meaning": "Kakek Anda",
-              "label": "Sopan",
-              "audio": "おじいさん",
-              "example": "おじいさんはお元気ですか。",
-              "exampleRomaji": "Ojiisan wa ogenki desu ka.",
-              "translation": "Apakah kakek Anda sehat?"
-            },
-            {
-              "jp": "おばあさん (お祖母さん)",
-              "romaji": "Obaasan",
-              "meaning": "Nenek Anda",
-              "label": "Sopan",
-              "audio": "おばあさん",
-              "example": "おばあさんはお元気ですか。",
-              "exampleRomaji": "Obaasan wa ogenki desu ka.",
-              "translation": "Apakah nenek Anda sehat?"
-            },
-            {
-              "jp": "ごきょうだい (ご兄弟)",
-              "romaji": "Gokyoudai",
-              "meaning": "Saudara kandung Anda",
-              "label": "Sopan",
-              "audio": "ごきょうだい",
-              "example": "ご兄弟は何人ですか。",
-              "exampleRomaji": "Gokyoudai wa nan-nin desu ka.",
-              "translation": "Ada berapa saudara kandung Anda?"
-            },
-            {
-              "jp": "むすこさん (息子さん)",
-              "romaji": "Musukosan",
-              "meaning": "Anak laki-laki Anda",
-              "label": "Sopan",
-              "audio": "むすこさん",
-              "example": "息子さんは何歳ですか。",
-              "exampleRomaji": "Musukosan wa nan-sai desu ka.",
-              "translation": "Berapa usia anak laki-laki Anda?"
-            },
-            {
-              "jp": "むすめさん (娘さん)",
-              "romaji": "Musumesan",
-              "meaning": "Anak perempuan Anda",
-              "label": "Sopan",
-              "audio": "むすめさん",
-              "example": "娘さんは何歳ですか。",
-              "exampleRomaji": "Musumesan wa nan-sai desu ka.",
-              "translation": "Berapa usia anak perempuan Anda?"
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "ご家族は何人ですか。",
+                  "romaji": "Gokazoku wa nan-nin desu ka.",
+                  "meaning": "Ada berapa orang dalam keluarga Anda?",
+                  "audio": "ご家族は何人ですか。"
+                },
+                {
+                  "jp": "お父さんはお元気ですか。",
+                  "romaji": "Otousan wa ogenki desu ka.",
+                  "meaning": "Apakah ayah Anda sehat?",
+                  "audio": "お父さんはお元気ですか。"
+                },
+                {
+                  "jp": "お母さんは料理が好きですか。",
+                  "romaji": "Okaasan wa ryouri ga suki desu ka.",
+                  "meaning": "Apakah ibu Anda suka memasak?",
+                  "audio": "お母さんは料理が好きですか。"
+                },
+                {
+                  "jp": "ご両親はお元気ですか。",
+                  "romaji": "Goryoushin wa ogenki desu ka.",
+                  "meaning": "Apakah orang tua Anda sehat?",
+                  "audio": "ご両親はお元気ですか。"
+                },
+                {
+                  "jp": "お兄さんは学生ですか。",
+                  "romaji": "Oniisan wa gakusei desu ka.",
+                  "meaning": "Apakah kakak laki-laki Anda seorang pelajar?",
+                  "audio": "お兄さんは学生ですか。"
+                },
+                {
+                  "jp": "お姉さんは何歳ですか。",
+                  "romaji": "Oneesan wa nan-sai desu ka.",
+                  "meaning": "Berapa usia kakak perempuan Anda?",
+                  "audio": "お姉さんは何歳ですか。"
+                },
+                {
+                  "jp": "弟さんは学生ですか。",
+                  "romaji": "Otoutosan wa gakusei desu ka.",
+                  "meaning": "Apakah adik laki-laki Anda seorang pelajar?",
+                  "audio": "弟さんは学生ですか。"
+                },
+                {
+                  "jp": "妹さんは何歳ですか。",
+                  "romaji": "Imoutosan wa nan-sai desu ka.",
+                  "meaning": "Berapa usia adik perempuan Anda?",
+                  "audio": "妹さんは何歳ですか。"
+                },
+                {
+                  "jp": "おじいさんはお元気ですか。",
+                  "romaji": "Ojiisan wa ogenki desu ka.",
+                  "meaning": "Apakah kakek Anda sehat?",
+                  "audio": "おじいさんはお元気ですか。"
+                },
+                {
+                  "jp": "おばあさんはお元気ですか。",
+                  "romaji": "Obaasan wa ogenki desu ka.",
+                  "meaning": "Apakah nenek Anda sehat?",
+                  "audio": "おばあさんはお元気ですか。"
+                },
+                {
+                  "jp": "ご兄弟は何人ですか。",
+                  "romaji": "Gokyoudai wa nan-nin desu ka.",
+                  "meaning": "Ada berapa saudara kandung Anda?",
+                  "audio": "ご兄弟は何人ですか。"
+                },
+                {
+                  "jp": "息子さんは何歳ですか。",
+                  "romaji": "Musukosan wa nan-sai desu ka.",
+                  "meaning": "Berapa usia anak laki-laki Anda?",
+                  "audio": "息子さんは何歳ですか。"
+                },
+                {
+                  "jp": "娘さんは何歳ですか。",
+                  "romaji": "Musumesan wa nan-sai desu ka.",
+                  "meaning": "Berapa usia anak perempuan Anda?",
+                  "audio": "娘さんは何歳ですか。"
+                }
+              ]
             }
           ]
         }

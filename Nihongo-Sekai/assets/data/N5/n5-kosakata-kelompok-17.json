@@ -1,0 +1,376 @@
+{
+  "groups": [
+    {
+      "number": 17,
+      "title": "Kata Tanya dan Kata Sambung（疑問詞と接続詞・ぎもんしとせつぞくし）",
+      "description": "Pelajari kata tanya untuk meminta informasi dan kata sambung untuk menghubungkan kalimat dalam percakapan sederhana.",
+      "subgroups": [
+        {
+          "number": "17.1",
+          "title": "Kata Tanya（疑問詞・ぎもんし）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kata tanya digunakan untuk meminta informasi seperti benda, orang, tempat, waktu, cara, alasan, pilihan, harga, jumlah, dan usia. Letakkan kata tanya pada bagian kalimat yang ingin ditanyakan. 何 dapat dibaca なに atau なん, bergantung pada kata yang mengikutinya. Contoh: 何をしますか (なにをしますか) dan 何時ですか (なんじですか). Beberapa kata seperti どこ, どれ, どの, どちら, dan いくら sudah diperkenalkan di kelompok sebelumnya; di sini kata-kata tersebut diulang untuk latihan bertanya, bukan dihitung sebagai kosakata baru."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "なに／なん (何)",
+                  "romaji": "Nani / Nan",
+                  "meaning": "Apa",
+                  "audio": "なに",
+                  "note": "何 dibaca なに atau なん sesuai konteks. なに sering digunakan sebelum partikel seperti を, sedangkan なん muncul pada beberapa gabungan seperti なんじ (何時) dan なんにん (何人)."
+                },
+                {
+                  "jp": "だれ (誰)",
+                  "romaji": "Dare",
+                  "meaning": "Siapa",
+                  "audio": "だれ"
+                },
+                {
+                  "jp": "どこ",
+                  "romaji": "Doko",
+                  "meaning": "Di mana",
+                  "audio": "どこ"
+                },
+                {
+                  "jp": "いつ",
+                  "romaji": "Itsu",
+                  "meaning": "Kapan",
+                  "audio": "いつ"
+                },
+                {
+                  "jp": "どう",
+                  "romaji": "Dou",
+                  "meaning": "Bagaimana",
+                  "audio": "どう"
+                },
+                {
+                  "jp": "どうして",
+                  "romaji": "Doushite",
+                  "meaning": "Mengapa / kenapa",
+                  "audio": "どうして"
+                },
+                {
+                  "jp": "なぜ",
+                  "romaji": "Naze",
+                  "meaning": "Mengapa (lebih sering terasa formal atau tertulis)",
+                  "audio": "なぜ",
+                  "note": "なぜ dan どうして sama-sama menanyakan alasan. どうして lebih umum untuk percakapan sehari-hari, sedangkan なぜ sering terasa lebih formal atau langsung."
+                },
+                {
+                  "jp": "どれ",
+                  "romaji": "Dore",
+                  "meaning": "Yang mana (memilih satu benda tanpa menyebut kata benda setelahnya)",
+                  "audio": "どれ"
+                },
+                {
+                  "jp": "どの",
+                  "romaji": "Dono",
+                  "meaning": "Yang mana (diikuti kata benda)",
+                  "audio": "どの"
+                },
+                {
+                  "jp": "どちら",
+                  "romaji": "Dochira",
+                  "meaning": "Yang mana dari dua pilihan; juga dapat menanyakan arah atau tempat dengan lebih sopan",
+                  "audio": "どちら"
+                },
+                {
+                  "jp": "いくら (幾ら)",
+                  "romaji": "Ikura",
+                  "meaning": "Berapa harga",
+                  "audio": "いくら"
+                },
+                {
+                  "jp": "いくつ",
+                  "romaji": "Ikutsu",
+                  "meaning": "Berapa jumlah; juga dapat digunakan untuk menanyakan usia",
+                  "audio": "いくつ",
+                  "note": "Untuk menanyakan usia dengan lebih jelas, なんさい (何歳) juga dapat digunakan. Bentuk おいくつですか lebih halus dalam percakapan."
+                },
+                {
+                  "jp": "なんにん (何人)",
+                  "romaji": "Nannin",
+                  "meaning": "Berapa orang",
+                  "audio": "なんにん"
+                },
+                {
+                  "jp": "なんじ (何時)",
+                  "romaji": "Nanji",
+                  "meaning": "Jam berapa",
+                  "audio": "なんじ"
+                },
+                {
+                  "jp": "なんさい (何歳)",
+                  "romaji": "Nansai",
+                  "meaning": "Berapa usia / berapa tahun",
+                  "audio": "なんさい"
+                },
+                {
+                  "jp": "どのくらい",
+                  "romaji": "Dono kurai",
+                  "meaning": "Seberapa; berapa lama, jauh, atau banyak, bergantung konteks",
+                  "audio": "どのくらい"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "これは何ですか。",
+                  "romaji": "Kore wa nan desu ka.",
+                  "meaning": "Ini apa?",
+                  "audio": "これは何ですか。"
+                },
+                {
+                  "jp": "先生は誰ですか。",
+                  "romaji": "Sensei wa dare desu ka.",
+                  "meaning": "Guru itu siapa?",
+                  "audio": "先生は誰ですか。"
+                },
+                {
+                  "jp": "トイレはどこですか。",
+                  "romaji": "Toire wa doko desu ka.",
+                  "meaning": "Toilet ada di mana?",
+                  "audio": "トイレはどこですか。"
+                },
+                {
+                  "jp": "誕生日はいつですか。",
+                  "romaji": "Tanjoubi wa itsu desu ka.",
+                  "meaning": "Kapan ulang tahunmu?",
+                  "audio": "誕生日はいつですか。"
+                },
+                {
+                  "jp": "日本語はどうですか。",
+                  "romaji": "Nihongo wa dou desu ka.",
+                  "meaning": "Bagaimana bahasa Jepang?",
+                  "audio": "日本語はどうですか。"
+                },
+                {
+                  "jp": "どうして日本語を勉強しますか。",
+                  "romaji": "Doushite Nihongo o benkyou shimasu ka.",
+                  "meaning": "Mengapa kamu belajar bahasa Jepang?",
+                  "audio": "どうして日本語を勉強しますか。"
+                },
+                {
+                  "jp": "なぜ学校へ行きますか。",
+                  "romaji": "Naze gakkou e ikimasu ka.",
+                  "meaning": "Mengapa kamu pergi ke sekolah?",
+                  "audio": "なぜ学校へ行きますか。"
+                },
+                {
+                  "jp": "あなたのかばんはどれですか。",
+                  "romaji": "Anata no kaban wa dore desu ka.",
+                  "meaning": "Yang mana tas milikmu?",
+                  "audio": "あなたのかばんはどれですか。"
+                },
+                {
+                  "jp": "どの本を読みますか。",
+                  "romaji": "Dono hon o yomimasu ka.",
+                  "meaning": "Buku yang mana yang akan kamu baca?",
+                  "audio": "どの本を読みますか。"
+                },
+                {
+                  "jp": "バスと電車と、どちらがいいですか。",
+                  "romaji": "Basu to densha to, dochira ga ii desu ka.",
+                  "meaning": "Bus atau kereta, mana yang lebih baik?",
+                  "audio": "バスと電車と、どちらがいいですか。"
+                },
+                {
+                  "jp": "このかばんはいくらですか。",
+                  "romaji": "Kono kaban wa ikura desu ka.",
+                  "meaning": "Berapa harga tas ini?",
+                  "audio": "このかばんはいくらですか。"
+                },
+                {
+                  "jp": "りんごはいくつありますか。",
+                  "romaji": "Ringo wa ikutsu arimasu ka.",
+                  "meaning": "Ada berapa buah apel?",
+                  "audio": "りんごはいくつありますか。"
+                },
+                {
+                  "jp": "学生が何人いますか。",
+                  "romaji": "Gakusei ga nannin imasu ka.",
+                  "meaning": "Ada berapa orang siswa?",
+                  "audio": "学生が何人いますか。"
+                },
+                {
+                  "jp": "今何時ですか。",
+                  "romaji": "Ima nanji desu ka.",
+                  "meaning": "Sekarang jam berapa?",
+                  "audio": "今何時ですか。"
+                },
+                {
+                  "jp": "何歳ですか。",
+                  "romaji": "Nansai desu ka.",
+                  "meaning": "Berapa usia kamu?",
+                  "audio": "何歳ですか。"
+                },
+                {
+                  "jp": "毎日どのくらい勉強しますか。",
+                  "romaji": "Mainichi dono kurai benkyou shimasu ka.",
+                  "meaning": "Setiap hari, berapa lama kamu belajar?",
+                  "audio": "毎日どのくらい勉強しますか。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "17.2",
+          "title": "Kata Sambung（接続詞・せつぞくし）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kata sambung membantu menghubungkan informasi atau kalimat. そして dan それから digunakan untuk menambahkan informasi atau menunjukkan urutan kegiatan. でも menunjukkan pertentangan, sedangkan だから memperkenalkan hasil atau kesimpulan. じゃあ dan では digunakan saat beralih ke keputusan atau kegiatan berikutnya; じゃあ lebih kasual, sedangkan では lebih sopan. それとも digunakan untuk menawarkan pilihan dalam pertanyaan."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "そして",
+                  "romaji": "Soshite",
+                  "meaning": "Dan; lalu; kemudian",
+                  "audio": "そして"
+                },
+                {
+                  "jp": "それから",
+                  "romaji": "Sorekara",
+                  "meaning": "Setelah itu; kemudian",
+                  "audio": "それから"
+                },
+                {
+                  "jp": "でも",
+                  "romaji": "Demo",
+                  "meaning": "Tetapi; namun",
+                  "audio": "でも"
+                },
+                {
+                  "jp": "だから",
+                  "romaji": "Dakara",
+                  "meaning": "Karena itu; jadi",
+                  "audio": "だから"
+                },
+                {
+                  "jp": "じゃあ",
+                  "romaji": "Jaa",
+                  "meaning": "Kalau begitu (kasual)",
+                  "audio": "じゃあ"
+                },
+                {
+                  "jp": "では",
+                  "romaji": "Dewa",
+                  "meaning": "Kalau begitu (lebih sopan daripada じゃあ)",
+                  "audio": "では"
+                },
+                {
+                  "jp": "それとも",
+                  "romaji": "Soretomo",
+                  "meaning": "Atau (untuk menawarkan pilihan dalam pertanyaan)",
+                  "audio": "それとも"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "朝ご飯を食べます。そして、学校へ行きます。",
+                  "romaji": "Asagohan o tabemasu. Soshite, gakkou e ikimasu.",
+                  "meaning": "Saya sarapan. Lalu, saya pergi ke sekolah.",
+                  "audio": "朝ご飯を食べます。そして、学校へ行きます。"
+                },
+                {
+                  "jp": "本を読みます。それから、寝ます。",
+                  "romaji": "Hon o yomimasu. Sorekara, nemasu.",
+                  "meaning": "Saya membaca buku. Setelah itu, saya tidur.",
+                  "audio": "本を読みます。それから、寝ます。"
+                },
+                {
+                  "jp": "今日は雨です。でも、学校へ行きます。",
+                  "romaji": "Kyou wa ame desu. Demo, gakkou e ikimasu.",
+                  "meaning": "Hari ini hujan. Tetapi, saya pergi ke sekolah.",
+                  "audio": "今日は雨です。でも、学校へ行きます。"
+                },
+                {
+                  "jp": "日曜日です。だから、学校へ行きません。",
+                  "romaji": "Nichiyoubi desu. Dakara, gakkou e ikimasen.",
+                  "meaning": "Hari Minggu. Karena itu, saya tidak pergi ke sekolah.",
+                  "audio": "日曜日です。だから、学校へ行きません。"
+                },
+                {
+                  "jp": "じゃあ、また明日。",
+                  "romaji": "Jaa, mata ashita.",
+                  "meaning": "Kalau begitu, sampai besok.",
+                  "audio": "じゃあ、また明日。"
+                },
+                {
+                  "jp": "では、始めましょう。",
+                  "romaji": "Dewa, hajimemashou.",
+                  "meaning": "Kalau begitu, mari kita mulai.",
+                  "audio": "では、始めましょう。"
+                },
+                {
+                  "jp": "コーヒーにしますか。それとも、お茶にしますか。",
+                  "romaji": "Koohii ni shimasu ka. Soretomo, ocha ni shimasu ka.",
+                  "meaning": "Mau kopi? Atau mau teh?",
+                  "audio": "コーヒーにしますか。それとも、お茶にしますか。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "17.3",
+          "title": "Contoh Penggunaan Kata Tanya dan Kata Sambung（疑問詞と接続詞の例文・ぎもんしとせつぞくしのれいぶん）",
+          "note": {
+            "title": "Catatan Latihan",
+            "intro": "Perhatikan bagaimana kata tanya digunakan untuk meminta informasi, kemudian jawaban atau kegiatan berikutnya dihubungkan dengan kata sambung. Cobalah mengenali kata tanya dan kata sambung pada setiap contoh sebelum melihat artinya."
+          },
+          "words": [
+            {
+              "jp": "どうして日本語を勉強しますか。日本語が好きです。だから、毎日勉強します。",
+              "romaji": "Doushite Nihongo o benkyou shimasu ka. Nihongo ga suki desu. Dakara, mainichi benkyou shimasu.",
+              "meaning": "Mengapa kamu belajar bahasa Jepang? Saya suka bahasa Jepang. Karena itu, saya belajar setiap hari.",
+              "audio": "どうしてにほんごをべんきょうしますか。にほんごがすきです。だから、まいにちべんきょうします。"
+            },
+            {
+              "jp": "バスと電車と、どちらがいいですか。",
+              "romaji": "Basu to densha to, dochira ga ii desu ka.",
+              "meaning": "Bus atau kereta, mana yang lebih baik?",
+              "audio": "ばすとでんしゃと、どちらがいいですか。"
+            },
+            {
+              "jp": "今日は雨です。でも、学校へ行きます。",
+              "romaji": "Kyou wa ame desu. Demo, gakkou e ikimasu.",
+              "meaning": "Hari ini hujan. Tetapi, saya pergi ke sekolah.",
+              "audio": "きょうはあめです。でも、がっこうへいきます。"
+            },
+            {
+              "jp": "七時に学校へ行きます。それから、教室で勉強します。",
+              "romaji": "Shichi-ji ni gakkou e ikimasu. Sorekara, kyoushitsu de benkyou shimasu.",
+              "meaning": "Saya pergi ke sekolah pukul tujuh. Setelah itu, saya belajar di ruang kelas.",
+              "audio": "しちじにがっこうへいきます。それから、きょうしつでべんきょうします。"
+            },
+            {
+              "jp": "学校はどこですか。あそこです。では、行きます。",
+              "romaji": "Gakkou wa doko desu ka. Asoko desu. Dewa, ikimasu.",
+              "meaning": "Sekolah ada di mana? Di sana. Kalau begitu, saya pergi.",
+              "audio": "がっこうはどこですか。あそこです。では、いきます。"
+            },
+            {
+              "jp": "いつ学校へ行きますか。毎朝七時に行きます。",
+              "romaji": "Itsu gakkou e ikimasu ka. Maiasa shichi-ji ni ikimasu.",
+              "meaning": "Kapan kamu pergi ke sekolah? Saya pergi setiap pagi pukul tujuh.",
+              "audio": "いつがっこうへいきますか。まいあさしちじにいきます。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

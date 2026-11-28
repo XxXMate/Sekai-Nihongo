@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 16,
-      "title": "Kelompok 16 — Transportasi",
+      "title": "Transportasi（乗り物・のりもの）",
       "description": "Pelajari kosakata alat transportasi dan gunakan dalam kalimat sederhana untuk menceritakan perjalanan sehari-hari.",
       "subgroups": [
         {
           "number": "16.1",
-          "title": "Alat Transportasi (乗り物・のりもの)",
+          "title": "Alat Transportasi（乗り物・のりもの）",
           "words": [
             {
               "jp": "でんしゃ (電車)",
@@ -85,7 +85,7 @@
         },
         {
           "number": "16.2",
-          "title": "乗り物を使った文 (のりものをつかったぶん) — Kalimat dengan Kata Transportasi",
+          "title": "Contoh Kalimat dengan Kata Transportasi（乗り物を使った文・のりものをつかったぶん）",
           "note": {
             "title": "Catatan Materi",
             "intro": "Partikel で digunakan setelah kata transportasi untuk menunjukkan alat atau sarana yang digunakan saat bepergian. Pola sederhana: Alat Transportasi + で + Tempat Tujuan + へ／に + 行きます. Partikel へ atau に menunjukkan arah atau tujuan, sedangkan で menjelaskan kendaraan yang digunakan."

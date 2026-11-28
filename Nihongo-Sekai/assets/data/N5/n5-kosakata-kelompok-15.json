@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 15,
-      "title": "Kelompok 15 — Tempat",
+      "title": "Tempat（場所・ばしょ）",
       "description": "Pelajari kosakata tempat dan gunakan dalam kalimat sederhana yang berkaitan dengan kehidupan sehari-hari.",
       "subgroups": [
         {
           "number": "15.1",
-          "title": "Tempat (場所・ばしょ)",
+          "title": "Tempat（場所・ばしょ）",
           "words": [
             {
               "jp": "がっこう (学校)",
@@ -97,7 +97,7 @@
         },
         {
           "number": "15.2",
-          "title": "場所を使った文 (ばしょをつかったぶん) — Kalimat Dengan Kata Tempat",
+          "title": "Contoh Kalimat dengan Kata Tempat（場所を使った文・ばしょをつかったぶん）",
           "note": {
             "title": "Catatan Materi",
             "intro": "Partikel で digunakan setelah nama tempat untuk menunjukkan lokasi berlangsungnya suatu kegiatan atau aktivitas. Pola sederhana: Tempat + で + Aktivitas. Partikel へ digunakan untuk menunjukkan arah atau tujuan. Contoh: 学校で勉強します (belajar di sekolah) dan 病院へ行きます (pergi ke rumah sakit)."

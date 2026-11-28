@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 9,
-      "title": "Kelompok 9 — Cuaca dan Musim",
+      "title": "Cuaca dan Musim（天気と季節・てんきときせつ）",
       "description": "Kosakata cuaca, empat musim, dan kalimat sederhana tentang cuaca.",
       "subgroups": [
         {
           "number": "9.1",
-          "title": "Cuaca & 4 Musim (天気と四季・てんきとしき)",
+          "title": "Cuaca dan Empat Musim（天気と四季・てんきとしき）",
           "words": [
             {
               "jp": "てんき (天気)",
@@ -115,7 +115,7 @@
         },
         {
           "number": "9.2",
-          "title": "Kalimat Cuaca (天気を使った文・てんきをつかったぶん)",
+          "title": "Contoh Kalimat tentang Cuaca（天気を使った文・てんきをつかったぶん）",
           "words": [
             {
               "jp": "今日はいい天気です。",

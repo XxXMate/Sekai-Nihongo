@@ -1,0 +1,915 @@
+{
+  "groups": [
+    {
+      "number": 20,
+      "title": "Benda Sehari-hari（日用品・にちようひん）",
+      "description": "日用品（にちようひん）— Barang-barang yang sering digunakan dalam kehidupan sehari-hari.",
+      "subgroups": [
+        {
+          "number": "20.1",
+          "title": "Alat Tulis dan Buku（文房具と本・ぶんぼうぐとほん）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "かみ (紙) berarti kertas. Pengucapannya sama dengan かみ (髪) yang berarti rambut pada Kelompok 11, tetapi kanji dan maknanya berbeda. のり (糊) pada kelompok ini berarti lem."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "じしょ (辞書)",
+                  "romaji": "Jisho",
+                  "meaning": "Kamus",
+                  "audio": "じしょ"
+                },
+                {
+                  "jp": "かみ (紙)",
+                  "romaji": "Kami",
+                  "meaning": "Kertas",
+                  "audio": "かみ"
+                },
+                {
+                  "jp": "けしごむ (消しゴム)",
+                  "romaji": "Keshigomu",
+                  "meaning": "Penghapus",
+                  "audio": "けしごむ"
+                },
+                {
+                  "jp": "じょうぎ (定規)",
+                  "romaji": "Jougi",
+                  "meaning": "Penggaris",
+                  "audio": "じょうぎ"
+                },
+                {
+                  "jp": "はさみ (鋏)",
+                  "romaji": "Hasami",
+                  "meaning": "Gunting",
+                  "audio": "はさみ"
+                },
+                {
+                  "jp": "のり (糊)",
+                  "romaji": "Nori",
+                  "meaning": "Lem",
+                  "audio": "のり"
+                },
+                {
+                  "jp": "ふでばこ (筆箱)",
+                  "romaji": "Fudebako",
+                  "meaning": "Kotak pensil",
+                  "audio": "ふでばこ"
+                },
+                {
+                  "jp": "きょうかしょ (教科書)",
+                  "romaji": "Kyoukasho",
+                  "meaning": "Buku pelajaran",
+                  "audio": "きょうかしょ"
+                },
+                {
+                  "jp": "しんぶん (新聞)",
+                  "romaji": "Shinbun",
+                  "meaning": "Koran / surat kabar",
+                  "audio": "しんぶん"
+                },
+                {
+                  "jp": "ざっし (雑誌)",
+                  "romaji": "Zasshi",
+                  "meaning": "Majalah",
+                  "audio": "ざっし"
+                },
+                {
+                  "jp": "しおり (栞)",
+                  "romaji": "Shiori",
+                  "meaning": "Pembatas buku",
+                  "audio": "しおり"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "この じしょを つかいます。",
+                  "romaji": "Kono jisho o tsukaimasu.",
+                  "meaning": "Saya menggunakan kamus ini.",
+                  "audio": "このじしょをつかいます。"
+                },
+                {
+                  "jp": "紙に なまえを かきます。",
+                  "romaji": "Kami ni namae o kakimasu.",
+                  "meaning": "Saya menulis nama di kertas.",
+                  "audio": "かみに なまえを かきます。"
+                },
+                {
+                  "jp": "けしゴムで まちがいを けします。",
+                  "romaji": "Keshigomu de machigai o keshimasu.",
+                  "meaning": "Saya menghapus kesalahan dengan penghapus.",
+                  "audio": "けしごむでまちがいをけします。"
+                },
+                {
+                  "jp": "じょうぎで せんを ひきます。",
+                  "romaji": "Jougi de sen o hikimasu.",
+                  "meaning": "Saya menarik garis dengan penggaris.",
+                  "audio": "じょうぎでせんをひきます。"
+                },
+                {
+                  "jp": "はさみで 紙を きります。",
+                  "romaji": "Hasami de kami o kirimasu.",
+                  "meaning": "Saya memotong kertas dengan gunting.",
+                  "audio": "はさみでかみをきります。"
+                },
+                {
+                  "jp": "のりで 紙を はります。",
+                  "romaji": "Nori de kami o harimasu.",
+                  "meaning": "Saya menempelkan kertas dengan lem.",
+                  "audio": "のりでかみをはります。"
+                },
+                {
+                  "jp": "ふでばこに えんぴつを いれます。",
+                  "romaji": "Fudebako ni enpitsu o iremasu.",
+                  "meaning": "Saya memasukkan pensil ke kotak pensil.",
+                  "audio": "ふでばこにえんぴつをいれます。"
+                },
+                {
+                  "jp": "きょうかしょを ひらいてください。",
+                  "romaji": "Kyoukasho o hiraite kudasai.",
+                  "meaning": "Tolong buka buku pelajaran.",
+                  "audio": "きょうかしょをひらいてください。"
+                },
+                {
+                  "jp": "ちちは まいあさ しんぶんを よみます。",
+                  "romaji": "Chichi wa maiasa shinbun o yomimasu.",
+                  "meaning": "Ayah membaca koran setiap pagi.",
+                  "audio": "ちちはまいあさしんぶんをよみます。"
+                },
+                {
+                  "jp": "この ざっしは おもしろいです。",
+                  "romaji": "Kono zasshi wa omoshiroi desu.",
+                  "meaning": "Majalah ini menarik.",
+                  "audio": "このざっしはおもしろいです。"
+                },
+                {
+                  "jp": "ほんに しおりを はさみます。",
+                  "romaji": "Hon ni shiori o hasamimasu.",
+                  "meaning": "Saya menyelipkan pembatas buku ke dalam buku.",
+                  "audio": "ほんにしおりをはさみます。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "20.2",
+          "title": "Elektronik dan Gadget（電化製品と電子機器・でんかせいひんとでんしきき）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "でんき (電気) dapat berarti listrik atau lampu, bergantung pada konteks. じゅうでんき (充電器) adalah alat untuk mengisi daya perangkat elektronik."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "テレビ",
+                  "romaji": "Terebi",
+                  "meaning": "Televisi",
+                  "audio": "テレビ"
+                },
+                {
+                  "jp": "ラジオ",
+                  "romaji": "Rajio",
+                  "meaning": "Radio",
+                  "audio": "ラジオ"
+                },
+                {
+                  "jp": "パソコン",
+                  "romaji": "Pasokon",
+                  "meaning": "Komputer / PC",
+                  "audio": "パソコン"
+                },
+                {
+                  "jp": "カメラ",
+                  "romaji": "Kamera",
+                  "meaning": "Kamera",
+                  "audio": "カメラ"
+                },
+                {
+                  "jp": "でんわ (電話)",
+                  "romaji": "Denwa",
+                  "meaning": "Telepon",
+                  "audio": "でんわ"
+                },
+                {
+                  "jp": "れいぞうこ (冷蔵庫)",
+                  "romaji": "Reizouko",
+                  "meaning": "Kulkas",
+                  "audio": "れいぞうこ"
+                },
+                {
+                  "jp": "せんたくき (洗濯機)",
+                  "romaji": "Sentakuki",
+                  "meaning": "Mesin cuci",
+                  "audio": "せんたくき"
+                },
+                {
+                  "jp": "そうじき (掃除機)",
+                  "romaji": "Soujiki",
+                  "meaning": "Penyedot debu",
+                  "audio": "そうじき"
+                },
+                {
+                  "jp": "でんしれんじ (電子レンジ)",
+                  "romaji": "Denshi renji",
+                  "meaning": "Microwave",
+                  "audio": "でんしれんじ"
+                },
+                {
+                  "jp": "リモコン",
+                  "romaji": "Rimokon",
+                  "meaning": "Remote control",
+                  "audio": "リモコン"
+                },
+                {
+                  "jp": "でんき (電気)",
+                  "romaji": "Denki",
+                  "meaning": "Listrik / lampu",
+                  "audio": "でんき"
+                },
+                {
+                  "jp": "でんち (電池)",
+                  "romaji": "Denchi",
+                  "meaning": "Baterai",
+                  "audio": "でんち"
+                },
+                {
+                  "jp": "タブレット",
+                  "romaji": "Taburetto",
+                  "meaning": "Tablet",
+                  "audio": "タブレット"
+                },
+                {
+                  "jp": "プリンター",
+                  "romaji": "Purintaa",
+                  "meaning": "Printer",
+                  "audio": "プリンター"
+                },
+                {
+                  "jp": "じゅうでんき (充電器)",
+                  "romaji": "Juudenki",
+                  "meaning": "Pengisi daya / charger",
+                  "audio": "じゅうでんき"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "まいばん テレビを みます。",
+                  "romaji": "Maiban terebi o mimasu.",
+                  "meaning": "Saya menonton televisi setiap malam.",
+                  "audio": "まいばんてれびをみます。"
+                },
+                {
+                  "jp": "あさ ラジオを ききます。",
+                  "romaji": "Asa rajio o kikimasu.",
+                  "meaning": "Saya mendengarkan radio pada pagi hari.",
+                  "audio": "あさラジオをききます。"
+                },
+                {
+                  "jp": "パソコンで にほんごを べんきょうします。",
+                  "romaji": "Pasokon de nihongo o benkyou shimasu.",
+                  "meaning": "Saya belajar bahasa Jepang menggunakan komputer.",
+                  "audio": "ぱそこんでにほんごをべんきょうします。"
+                },
+                {
+                  "jp": "カメラで しゃしんを とります。",
+                  "romaji": "Kamera de shashin o torimasu.",
+                  "meaning": "Saya mengambil foto dengan kamera.",
+                  "audio": "かめらでしゃしんをとります。"
+                },
+                {
+                  "jp": "あとで ともだちに でんわを します。",
+                  "romaji": "Ato de tomodachi ni denwa o shimasu.",
+                  "meaning": "Nanti saya menelepon teman.",
+                  "audio": "あとでともだちにでんわをします。"
+                },
+                {
+                  "jp": "れいぞうこに ぎゅうにゅうが あります。",
+                  "romaji": "Reizouko ni gyuunyuu ga arimasu.",
+                  "meaning": "Ada susu di dalam kulkas.",
+                  "audio": "れいぞうこにぎゅうにゅうがあります。"
+                },
+                {
+                  "jp": "せんたくきを つかいます。",
+                  "romaji": "Sentakuki o tsukaimasu.",
+                  "meaning": "Saya menggunakan mesin cuci.",
+                  "audio": "せんたくきをつかいます。"
+                },
+                {
+                  "jp": "そうじきで へやを きれいに します。",
+                  "romaji": "Soujiki de heya o kirei ni shimasu.",
+                  "meaning": "Saya membersihkan kamar dengan penyedot debu.",
+                  "audio": "そうじきでへやをきれいにします。"
+                },
+                {
+                  "jp": "でんしレンジを つかいます。",
+                  "romaji": "Denshi renji o tsukaimasu.",
+                  "meaning": "Saya menggunakan microwave.",
+                  "audio": "でんしれんじをつかいます。"
+                },
+                {
+                  "jp": "リモコンで テレビを つけます。",
+                  "romaji": "Rimokon de terebi o tsukemasu.",
+                  "meaning": "Saya menyalakan televisi dengan remote control.",
+                  "audio": "りもこんでてれびをつけます。"
+                },
+                {
+                  "jp": "へやの でんきを つけます。",
+                  "romaji": "Heya no denki o tsukemasu.",
+                  "meaning": "Saya menyalakan lampu kamar.",
+                  "audio": "へやのでんきをつけます。"
+                },
+                {
+                  "jp": "この おもちゃに でんちを いれます。",
+                  "romaji": "Kono omocha ni denchi o iremasu.",
+                  "meaning": "Saya memasukkan baterai ke mainan ini.",
+                  "audio": "このおもちゃにでんちをいれます。"
+                },
+                {
+                  "jp": "タブレットで えいがを みます。",
+                  "romaji": "Taburetto de eiga o mimasu.",
+                  "meaning": "Saya menonton film di tablet.",
+                  "audio": "たぶれっとでえいがをみます。"
+                },
+                {
+                  "jp": "プリンターを つかいます。",
+                  "romaji": "Purintaa o tsukaimasu.",
+                  "meaning": "Saya menggunakan printer.",
+                  "audio": "ぷりんたーをつかいます。"
+                },
+                {
+                  "jp": "この じゅうでんきは べんりです。",
+                  "romaji": "Kono juudenki wa benri desu.",
+                  "meaning": "Pengisi daya ini praktis.",
+                  "audio": "このじゅうでんきはべんりです。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "20.3",
+          "title": "Barang Pribadi（身の回りの品・みのまわりのしな）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kelompok ini berisi barang kecil yang biasa dibawa atau digunakan seseorang saat beraktivitas di luar rumah. Beberapa barang dapat muncul dalam konteks perjalanan, sekolah, atau pekerjaan."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "てぶくろ (手袋)",
+                  "romaji": "Tebukuro",
+                  "meaning": "Sarung tangan",
+                  "audio": "てぶくろ"
+                },
+                {
+                  "jp": "マスク",
+                  "romaji": "Masuku",
+                  "meaning": "Masker",
+                  "audio": "マスク"
+                },
+                {
+                  "jp": "タオル",
+                  "romaji": "Taoru",
+                  "meaning": "Handuk",
+                  "audio": "タオル"
+                },
+                {
+                  "jp": "くし (櫛)",
+                  "romaji": "Kushi",
+                  "meaning": "Sisir",
+                  "audio": "くし"
+                },
+                {
+                  "jp": "パスポート",
+                  "romaji": "Pasupooto",
+                  "meaning": "Paspor",
+                  "audio": "パスポート"
+                },
+                {
+                  "jp": "めいし (名刺)",
+                  "romaji": "Meishi",
+                  "meaning": "Kartu nama",
+                  "audio": "めいし"
+                },
+                {
+                  "jp": "てちょう (手帳)",
+                  "romaji": "Techou",
+                  "meaning": "Buku catatan kecil / agenda",
+                  "audio": "てちょう"
+                },
+                {
+                  "jp": "きっぷ (切符)",
+                  "romaji": "Kippu",
+                  "meaning": "Tiket",
+                  "audio": "きっぷ"
+                },
+                {
+                  "jp": "ネックレス",
+                  "romaji": "Nekkuresu",
+                  "meaning": "Kalung",
+                  "audio": "ネックレス"
+                },
+                {
+                  "jp": "ポーチ",
+                  "romaji": "Poochi",
+                  "meaning": "Pouch / kantong kecil",
+                  "audio": "ポーチ"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "さむいひは てぶくろを します。",
+                  "romaji": "Samui hi wa tebukuro o shimasu.",
+                  "meaning": "Saat hari dingin, saya memakai sarung tangan.",
+                  "audio": "さむいひはてぶくろをします。"
+                },
+                {
+                  "jp": "そとで マスクを つけます。",
+                  "romaji": "Soto de masuku o tsukemasu.",
+                  "meaning": "Saya memakai masker di luar.",
+                  "audio": "そとでますくをつけます。"
+                },
+                {
+                  "jp": "タオルで かおを ふきます。",
+                  "romaji": "Taoru de kao o fukimasu.",
+                  "meaning": "Saya mengelap wajah dengan handuk.",
+                  "audio": "たおるでかおをふきます。"
+                },
+                {
+                  "jp": "くしを つかいます。",
+                  "romaji": "Kushi o tsukaimasu.",
+                  "meaning": "Saya menggunakan sisir.",
+                  "audio": "くしをつかいます。"
+                },
+                {
+                  "jp": "パスポートを もっています。",
+                  "romaji": "Pasupooto o motte imasu.",
+                  "meaning": "Saya membawa paspor.",
+                  "audio": "ぱすぽーとをもっています。"
+                },
+                {
+                  "jp": "かいしゃで めいしを つかいます。",
+                  "romaji": "Kaisha de meishi o tsukaimasu.",
+                  "meaning": "Saya menggunakan kartu nama di perusahaan.",
+                  "audio": "かいしゃでめいしをつかいます。"
+                },
+                {
+                  "jp": "この てちょうは べんりです。",
+                  "romaji": "Kono techou wa benri desu.",
+                  "meaning": "Buku agenda ini praktis.",
+                  "audio": "このてちょうはべんりです。"
+                },
+                {
+                  "jp": "えきで きっぷを かいます。",
+                  "romaji": "Eki de kippu o kaimasu.",
+                  "meaning": "Saya membeli tiket di stasiun.",
+                  "audio": "えきできっぷをかいます。"
+                },
+                {
+                  "jp": "あねは ネックレスを しています。",
+                  "romaji": "Ane wa nekkuresu o shite imasu.",
+                  "meaning": "Kakak perempuan saya sedang memakai kalung.",
+                  "audio": "あねはねっくれすをしています。"
+                },
+                {
+                  "jp": "ポーチに くしを いれます。",
+                  "romaji": "Poochi ni kushi o iremasu.",
+                  "meaning": "Saya memasukkan sisir ke dalam pouch.",
+                  "audio": "ぽーちにくしをいれます。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "20.4",
+          "title": "Perabotan dan Perlengkapan Rumah（家具と家庭用品・かぐとかていようひん）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kosakata di bagian ini mencakup perabot, tempat penyimpanan, dan benda yang digunakan di dalam rumah. Perhatikan perbedaan つくえ (meja belajar/kerja) dan テーブル (meja untuk makan atau meletakkan barang)."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "つくえ (机)",
+                  "romaji": "Tsukue",
+                  "meaning": "Meja belajar / meja kerja",
+                  "audio": "つくえ"
+                },
+                {
+                  "jp": "いす (椅子)",
+                  "romaji": "Isu",
+                  "meaning": "Kursi",
+                  "audio": "いす"
+                },
+                {
+                  "jp": "テーブル",
+                  "romaji": "Teeburu",
+                  "meaning": "Meja",
+                  "audio": "テーブル"
+                },
+                {
+                  "jp": "ソファー",
+                  "romaji": "Sofaa",
+                  "meaning": "Sofa",
+                  "audio": "ソファー"
+                },
+                {
+                  "jp": "ベッド",
+                  "romaji": "Beddo",
+                  "meaning": "Tempat tidur",
+                  "audio": "ベッド"
+                },
+                {
+                  "jp": "たな (棚)",
+                  "romaji": "Tana",
+                  "meaning": "Rak",
+                  "audio": "たな"
+                },
+                {
+                  "jp": "ほんだな (本棚)",
+                  "romaji": "Hondana",
+                  "meaning": "Rak buku",
+                  "audio": "ほんだな"
+                },
+                {
+                  "jp": "たんす (箪笥)",
+                  "romaji": "Tansu",
+                  "meaning": "Lemari laci / lemari pakaian",
+                  "audio": "たんす"
+                },
+                {
+                  "jp": "まくら (枕)",
+                  "romaji": "Makura",
+                  "meaning": "Bantal",
+                  "audio": "まくら"
+                },
+                {
+                  "jp": "ふとん (布団)",
+                  "romaji": "Futon",
+                  "meaning": "Futon / kasur Jepang",
+                  "audio": "ふとん"
+                },
+                {
+                  "jp": "かがみ (鏡)",
+                  "romaji": "Kagami",
+                  "meaning": "Cermin",
+                  "audio": "かがみ"
+                },
+                {
+                  "jp": "まど (窓)",
+                  "romaji": "Mado",
+                  "meaning": "Jendela",
+                  "audio": "まど"
+                },
+                {
+                  "jp": "じゅうたん (絨毯)",
+                  "romaji": "Juutan",
+                  "meaning": "Karpet",
+                  "audio": "じゅうたん"
+                },
+                {
+                  "jp": "ごみばこ (ごみ箱)",
+                  "romaji": "Gomibako",
+                  "meaning": "Tempat sampah",
+                  "audio": "ごみばこ"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "つくえの うえに ほんが あります。",
+                  "romaji": "Tsukue no ue ni hon ga arimasu.",
+                  "meaning": "Ada buku di atas meja.",
+                  "audio": "つくえのうえにほんがあります。"
+                },
+                {
+                  "jp": "いすに すわってください。",
+                  "romaji": "Isu ni suwatte kudasai.",
+                  "meaning": "Silakan duduk di kursi.",
+                  "audio": "いすにすわってください。"
+                },
+                {
+                  "jp": "テーブルの うえに コップが あります。",
+                  "romaji": "Teeburu no ue ni koppu ga arimasu.",
+                  "meaning": "Ada gelas di atas meja.",
+                  "audio": "てーぶるのうえにこっぷがあります。"
+                },
+                {
+                  "jp": "ソファーに すわります。",
+                  "romaji": "Sofaa ni suwarimasu.",
+                  "meaning": "Saya duduk di sofa.",
+                  "audio": "そふぁーにすわります。"
+                },
+                {
+                  "jp": "ベッドで ねます。",
+                  "romaji": "Beddo de nemasu.",
+                  "meaning": "Saya tidur di tempat tidur.",
+                  "audio": "べっどでねます。"
+                },
+                {
+                  "jp": "たなに ほんを おきます。",
+                  "romaji": "Tana ni hon o okimasu.",
+                  "meaning": "Saya meletakkan buku di rak.",
+                  "audio": "たなにほんをおきます。"
+                },
+                {
+                  "jp": "ほんだなに ほんが あります。",
+                  "romaji": "Hondana ni hon ga arimasu.",
+                  "meaning": "Ada buku di rak buku.",
+                  "audio": "ほんだなにほんがあります。"
+                },
+                {
+                  "jp": "たんすに ふくを いれます。",
+                  "romaji": "Tansu ni fuku o iremasu.",
+                  "meaning": "Saya memasukkan pakaian ke lemari.",
+                  "audio": "たんすにふくをいれます。"
+                },
+                {
+                  "jp": "まくらを つかいます。",
+                  "romaji": "Makura o tsukaimasu.",
+                  "meaning": "Saya menggunakan bantal.",
+                  "audio": "まくらをつかいます。"
+                },
+                {
+                  "jp": "ふとんで ねます。",
+                  "romaji": "Futon de nemasu.",
+                  "meaning": "Saya tidur menggunakan futon.",
+                  "audio": "ふとんでねます。"
+                },
+                {
+                  "jp": "あさ かがみを みます。",
+                  "romaji": "Asa kagami o mimasu.",
+                  "meaning": "Saya bercermin pada pagi hari.",
+                  "audio": "あさかがみをみます。"
+                },
+                {
+                  "jp": "まどを あけてください。",
+                  "romaji": "Mado o akete kudasai.",
+                  "meaning": "Tolong buka jendela.",
+                  "audio": "まどをあけてください。"
+                },
+                {
+                  "jp": "じゅうたんの うえに すわります。",
+                  "romaji": "Juutan no ue ni suwarimasu.",
+                  "meaning": "Saya duduk di atas karpet.",
+                  "audio": "じゅうたんのうえにすわります。"
+                },
+                {
+                  "jp": "ごみを ごみばこに いれます。",
+                  "romaji": "Gomi o gomibako ni iremasu.",
+                  "meaning": "Saya memasukkan sampah ke tempat sampah.",
+                  "audio": "ごみをごみばこにいれます。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "20.5",
+          "title": "Lain-lain（その他・そのほか）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Bagian ini mengumpulkan benda harian yang belum masuk ke kelompok sebelumnya, terutama peralatan makan, peralatan dapur, dan perlengkapan kebersihan. はし (箸) berarti sumpit; pengucapannya sama dengan はし (橋) yang berarti jembatan, tetapi kanjinya berbeda."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "さら (皿)",
+                  "romaji": "Sara",
+                  "meaning": "Piring",
+                  "audio": "さら"
+                },
+                {
+                  "jp": "ちゃわん (茶碗)",
+                  "romaji": "Chawan",
+                  "meaning": "Mangkuk nasi",
+                  "audio": "ちゃわん"
+                },
+                {
+                  "jp": "はし (箸)",
+                  "romaji": "Hashi",
+                  "meaning": "Sumpit",
+                  "audio": "はし"
+                },
+                {
+                  "jp": "なべ (鍋)",
+                  "romaji": "Nabe",
+                  "meaning": "Panci",
+                  "audio": "なべ"
+                },
+                {
+                  "jp": "フライパン",
+                  "romaji": "Furaipan",
+                  "meaning": "Wajan",
+                  "audio": "フライパン"
+                },
+                {
+                  "jp": "やかん (薬缶)",
+                  "romaji": "Yakan",
+                  "meaning": "Ketel air",
+                  "audio": "やかん"
+                },
+                {
+                  "jp": "せっけん (石鹸)",
+                  "romaji": "Sekken",
+                  "meaning": "Sabun",
+                  "audio": "せっけん"
+                },
+                {
+                  "jp": "シャンプー",
+                  "romaji": "Shanpuu",
+                  "meaning": "Sampo",
+                  "audio": "シャンプー"
+                },
+                {
+                  "jp": "はぶらし (歯ブラシ)",
+                  "romaji": "Haburashi",
+                  "meaning": "Sikat gigi",
+                  "audio": "はぶらし"
+                },
+                {
+                  "jp": "はみがきこ (歯磨き粉)",
+                  "romaji": "Hamigakiko",
+                  "meaning": "Pasta gigi",
+                  "audio": "はみがきこ"
+                },
+                {
+                  "jp": "トイレットペーパー",
+                  "romaji": "Toiretto peepaa",
+                  "meaning": "Tisu toilet",
+                  "audio": "トイレットペーパー"
+                },
+                {
+                  "jp": "せんざい (洗剤)",
+                  "romaji": "Senzai",
+                  "meaning": "Deterjen",
+                  "audio": "せんざい"
+                },
+                {
+                  "jp": "ごみ",
+                  "romaji": "Gomi",
+                  "meaning": "Sampah",
+                  "audio": "ごみ"
+                },
+                {
+                  "jp": "はこ (箱)",
+                  "romaji": "Hako",
+                  "meaning": "Kotak",
+                  "audio": "はこ"
+                },
+                {
+                  "jp": "ふくろ (袋)",
+                  "romaji": "Fukuro",
+                  "meaning": "Kantong / plastik",
+                  "audio": "ふくろ"
+                },
+                {
+                  "jp": "まないた (まな板)",
+                  "romaji": "Manaita",
+                  "meaning": "Talenan",
+                  "audio": "まないた"
+                },
+                {
+                  "jp": "おたま (お玉)",
+                  "romaji": "Otama",
+                  "meaning": "Sendok sayur / centong sup",
+                  "audio": "おたま"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "さらを あらいます。",
+                  "romaji": "Sara o araimasu.",
+                  "meaning": "Saya mencuci piring.",
+                  "audio": "さらをあらいます。"
+                },
+                {
+                  "jp": "ちゃわんに ごはんを いれます。",
+                  "romaji": "Chawan ni gohan o iremasu.",
+                  "meaning": "Saya memasukkan nasi ke mangkuk.",
+                  "audio": "ちゃわんにごはんをいれます。"
+                },
+                {
+                  "jp": "はしで ごはんを たべます。",
+                  "romaji": "Hashi de gohan o tabemasu.",
+                  "meaning": "Saya makan nasi menggunakan sumpit.",
+                  "audio": "はしでごはんをたべます。"
+                },
+                {
+                  "jp": "なべで スープを つくります。",
+                  "romaji": "Nabe de suupu o tsukurimasu.",
+                  "meaning": "Saya membuat sup menggunakan panci.",
+                  "audio": "なべですーぷをつくります。"
+                },
+                {
+                  "jp": "フライパンで たまごを やきます。",
+                  "romaji": "Furaipan de tamago o yakimasu.",
+                  "meaning": "Saya menggoreng telur menggunakan wajan.",
+                  "audio": "ふらいぱんでたまごをやきます。"
+                },
+                {
+                  "jp": "やかんで おゆを わかします。",
+                  "romaji": "Yakan de oyu o wakashimasu.",
+                  "meaning": "Saya merebus air menggunakan ketel.",
+                  "audio": "やかんでおゆをわかします。"
+                },
+                {
+                  "jp": "せっけんで てを あらいます。",
+                  "romaji": "Sekken de te o araimasu.",
+                  "meaning": "Saya mencuci tangan dengan sabun.",
+                  "audio": "せっけんでてをあらいます。"
+                },
+                {
+                  "jp": "シャンプーで 髪を あらいます。",
+                  "romaji": "Shanpuu de kami o araimasu.",
+                  "meaning": "Saya mencuci rambut dengan sampo.",
+                  "audio": "しゃんぷーでかみをあらいます。"
+                },
+                {
+                  "jp": "はブラシで はを みがきます。",
+                  "romaji": "Haburashi de ha o migakimasu.",
+                  "meaning": "Saya menyikat gigi dengan sikat gigi.",
+                  "audio": "はぶらしではをみがきます。"
+                },
+                {
+                  "jp": "はみがきこを つかいます。",
+                  "romaji": "Hamigakiko o tsukaimasu.",
+                  "meaning": "Saya menggunakan pasta gigi.",
+                  "audio": "はみがきこをつかいます。"
+                },
+                {
+                  "jp": "トイレットペーパーを つかいます。",
+                  "romaji": "Toiretto peepaa o tsukaimasu.",
+                  "meaning": "Saya menggunakan tisu toilet.",
+                  "audio": "といれっとぺーぱーをつかいます。"
+                },
+                {
+                  "jp": "せんざいで ふくを あらいます。",
+                  "romaji": "Senzai de fuku o araimasu.",
+                  "meaning": "Saya mencuci pakaian dengan deterjen.",
+                  "audio": "せんざいでふくをあらいます。"
+                },
+                {
+                  "jp": "ごみを すてます。",
+                  "romaji": "Gomi o sutemasu.",
+                  "meaning": "Saya membuang sampah.",
+                  "audio": "ごみをすてます。"
+                },
+                {
+                  "jp": "はこに おもちゃを いれます。",
+                  "romaji": "Hako ni omocha o iremasu.",
+                  "meaning": "Saya memasukkan mainan ke dalam kotak.",
+                  "audio": "はこにおもちゃをいれます。"
+                },
+                {
+                  "jp": "ふくろに やさいを いれます。",
+                  "romaji": "Fukuro ni yasai o iremasu.",
+                  "meaning": "Saya memasukkan sayuran ke dalam kantong.",
+                  "audio": "ふくろにやさいをいれます。"
+                },
+                {
+                  "jp": "まないたの うえで やさいを きります。",
+                  "romaji": "Manaita no ue de yasai o kirimasu.",
+                  "meaning": "Saya memotong sayuran di atas talenan.",
+                  "audio": "まないたのうえでやさいをきります。"
+                },
+                {
+                  "jp": "おたまで スープを すくいます。",
+                  "romaji": "Otama de suupu o sukuimasu.",
+                  "meaning": "Saya menyendok sup dengan sendok sayur.",
+                  "audio": "おたまですーぷをすくいます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

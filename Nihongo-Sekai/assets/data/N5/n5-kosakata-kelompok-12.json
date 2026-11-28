@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 12,
-      "title": "Kelompok 12 — Profesi dan Pekerjaan",
+      "title": "Profesi dan Pekerjaan（職業と仕事・しょくぎょうとしごと）",
       "description": "Kosakata profesi umum dan contoh kalimat tentang pekerjaan.",
       "subgroups": [
         {
           "number": "12.1",
-          "title": "Profesi Umum (職業・しょくぎょう)",
+          "title": "Profesi Umum（職業・しょくぎょう）",
           "words": [
             {
               "jp": "しょくぎょう (職業)",
@@ -103,7 +103,7 @@
         },
         {
           "number": "12.2",
-          "title": "Kalimat Pekerjaan (仕事を使った文・しごとをつかったぶん)",
+          "title": "Contoh Kalimat tentang Pekerjaan（仕事についての文・しごとについてのぶん）",
           "words": [
             {
               "jp": "私は会社員です。",

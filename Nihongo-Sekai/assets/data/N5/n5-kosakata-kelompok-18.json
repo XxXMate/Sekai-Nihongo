@@ -1,0 +1,703 @@
+{
+  "groups": [
+    {
+      "number": 18,
+      "title": "Kata Benda Lainnya（その他の名詞・そのほかのめいし）",
+      "description": "Pelajari kosakata tambahan yang berkaitan dengan pekerjaan, hobi, bahasa dan negara, konsep sehari-hari, serta posisi dan arah.",
+      "subgroups": [
+        {
+          "number": "18.1",
+          "title": "Pekerjaan dan Aktivitas（仕事と活動・しごととかつどう）",
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "アルバイト",
+                  "romaji": "Arubaito",
+                  "meaning": "Pekerjaan paruh waktu",
+                  "audio": "アルバイト"
+                },
+                {
+                  "jp": "がくせい (学生)",
+                  "romaji": "Gakusei",
+                  "meaning": "Pelajar / mahasiswa",
+                  "audio": "がくせい"
+                },
+                {
+                  "jp": "べんきょう (勉強)",
+                  "romaji": "Benkyou",
+                  "meaning": "Belajar / pelajaran",
+                  "audio": "べんきょう"
+                },
+                {
+                  "jp": "しゅくだい (宿題)",
+                  "romaji": "Shukudai",
+                  "meaning": "Pekerjaan rumah / PR",
+                  "audio": "しゅくだい"
+                },
+                {
+                  "jp": "れんしゅう (練習)",
+                  "romaji": "Renshuu",
+                  "meaning": "Latihan",
+                  "audio": "れんしゅう"
+                },
+                {
+                  "jp": "やすみ (休み)",
+                  "romaji": "Yasumi",
+                  "meaning": "Istirahat / libur",
+                  "audio": "やすみ"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "わたしは コンビニで アルバイトを しています。",
+                  "romaji": "Watashi wa konbini de arubaito o shite imasu.",
+                  "meaning": "Saya bekerja paruh waktu di minimarket.",
+                  "audio": "わたしはこんびにであるばいとをしています。"
+                },
+                {
+                  "jp": "わたしは だいがくの がくせいです。",
+                  "romaji": "Watashi wa daigaku no gakusei desu.",
+                  "meaning": "Saya mahasiswa.",
+                  "audio": "わたしはだいがくのがくせいです。"
+                },
+                {
+                  "jp": "まいにち にほんごを べんきょうします。",
+                  "romaji": "Mainichi nihongo o benkyou shimasu.",
+                  "meaning": "Saya belajar bahasa Jepang setiap hari.",
+                  "audio": "まいにちにほんごをべんきょうします。"
+                },
+                {
+                  "jp": "きょう、しゅくだいを します。",
+                  "romaji": "Kyou, shukudai o shimasu.",
+                  "meaning": "Hari ini saya mengerjakan PR.",
+                  "audio": "きょうしゅくだいをします。"
+                },
+                {
+                  "jp": "まいにち ひらがなを れんしゅうします。",
+                  "romaji": "Mainichi hiragana o renshuu shimasu.",
+                  "meaning": "Saya berlatih Hiragana setiap hari.",
+                  "audio": "まいにちひらがなをれんしゅうします。"
+                },
+                {
+                  "jp": "にちようびは やすみです。",
+                  "romaji": "Nichiyoubi wa yasumi desu.",
+                  "meaning": "Hari Minggu adalah hari libur.",
+                  "audio": "にちようびはやすみです。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "18.2",
+          "title": "Hobi dan Hiburan（趣味と娯楽・しゅみとごらく）",
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "しゅみ (趣味)",
+                  "romaji": "Shumi",
+                  "meaning": "Hobi",
+                  "audio": "しゅみ"
+                },
+                {
+                  "jp": "おんがく (音楽)",
+                  "romaji": "Ongaku",
+                  "meaning": "Musik",
+                  "audio": "おんがく"
+                },
+                {
+                  "jp": "えいが (映画)",
+                  "romaji": "Eiga",
+                  "meaning": "Film",
+                  "audio": "えいが"
+                },
+                {
+                  "jp": "どくしょ (読書)",
+                  "romaji": "Dokusho",
+                  "meaning": "Membaca buku",
+                  "audio": "どくしょ"
+                },
+                {
+                  "jp": "スポーツ",
+                  "romaji": "Supootsu",
+                  "meaning": "Olahraga",
+                  "audio": "スポーツ"
+                },
+                {
+                  "jp": "しゃしん (写真)",
+                  "romaji": "Shashin",
+                  "meaning": "Foto",
+                  "audio": "しゃしん"
+                },
+                {
+                  "jp": "うた (歌)",
+                  "romaji": "Uta",
+                  "meaning": "Lagu",
+                  "audio": "うた"
+                },
+                {
+                  "jp": "りょこう (旅行)",
+                  "romaji": "Ryokou",
+                  "meaning": "Perjalanan / wisata",
+                  "audio": "りょこう"
+                },
+                {
+                  "jp": "カラオケ",
+                  "romaji": "Karaoke",
+                  "meaning": "Karaoke",
+                  "audio": "カラオケ"
+                },
+                {
+                  "jp": "ゲーム",
+                  "romaji": "Geemu",
+                  "meaning": "Permainan / gim",
+                  "audio": "ゲーム"
+                },
+                {
+                  "jp": "さんぽ (散歩)",
+                  "romaji": "Sanpo",
+                  "meaning": "Jalan-jalan",
+                  "audio": "さんぽ"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "わたしの しゅみは どくしょです。",
+                  "romaji": "Watashi no shumi wa dokusho desu.",
+                  "meaning": "Hobi saya adalah membaca buku.",
+                  "audio": "わたしのしゅみはどくしょです。"
+                },
+                {
+                  "jp": "まいにち おんがくを ききます。",
+                  "romaji": "Mainichi ongaku o kikimasu.",
+                  "meaning": "Saya mendengarkan musik setiap hari.",
+                  "audio": "まいにちおんがくをききます。"
+                },
+                {
+                  "jp": "ともだちと えいがを みます。",
+                  "romaji": "Tomodachi to eiga o mimasu.",
+                  "meaning": "Saya menonton film bersama teman.",
+                  "audio": "ともだちとえいがをみます。"
+                },
+                {
+                  "jp": "どくしょが すきです。",
+                  "romaji": "Dokusho ga suki desu.",
+                  "meaning": "Saya suka membaca buku.",
+                  "audio": "どくしょがすきです。"
+                },
+                {
+                  "jp": "すきな スポーツは サッカーです。",
+                  "romaji": "Suki na supootsu wa sakkaa desu.",
+                  "meaning": "Olahraga yang saya sukai adalah sepak bola.",
+                  "audio": "すきなスポーツはサッカーです。"
+                },
+                {
+                  "jp": "りょこうで しゃしんを とります。",
+                  "romaji": "Ryokou de shashin o torimasu.",
+                  "meaning": "Saya mengambil foto saat berwisata.",
+                  "audio": "りょこうでしゃしんをとります。"
+                },
+                {
+                  "jp": "この うたが すきです。",
+                  "romaji": "Kono uta ga suki desu.",
+                  "meaning": "Saya suka lagu ini.",
+                  "audio": "このうたがすきです。"
+                },
+                {
+                  "jp": "らいねん にほんへ りょこうします。",
+                  "romaji": "Rainen Nihon e ryokou shimasu.",
+                  "meaning": "Tahun depan saya berwisata ke Jepang.",
+                  "audio": "らいねんにほんへりょこうします。"
+                },
+                {
+                  "jp": "ともだちと カラオケへ いきます。",
+                  "romaji": "Tomodachi to karaoke e ikimasu.",
+                  "meaning": "Saya pergi karaoke bersama teman.",
+                  "audio": "ともだちとからおけへいきます。"
+                },
+                {
+                  "jp": "まいばん ゲームを します。",
+                  "romaji": "Maiban geemu o shimasu.",
+                  "meaning": "Saya bermain gim setiap malam.",
+                  "audio": "まいばんげーむをします。"
+                },
+                {
+                  "jp": "あさ こうえんを さんぽします。",
+                  "romaji": "Asa kouen o sanpo shimasu.",
+                  "meaning": "Saya berjalan-jalan di taman pada pagi hari.",
+                  "audio": "あさこうえんをさんぽします。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "18.3",
+          "title": "Bahasa dan Negara（言語と国・げんごとくに）",
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "にほんご (日本語)",
+                  "romaji": "Nihongo",
+                  "meaning": "Bahasa Jepang",
+                  "audio": "にほんご"
+                },
+                {
+                  "jp": "えいご (英語)",
+                  "romaji": "Eigo",
+                  "meaning": "Bahasa Inggris",
+                  "audio": "えいご"
+                },
+                {
+                  "jp": "がいこくご (外国語)",
+                  "romaji": "Gaikokugo",
+                  "meaning": "Bahasa asing",
+                  "audio": "がいこくご"
+                },
+                {
+                  "jp": "インドネシアご (インドネシア語)",
+                  "romaji": "Indoneshia-go",
+                  "meaning": "Bahasa Indonesia",
+                  "audio": "インドネシアご"
+                },
+                {
+                  "jp": "ちゅうごくご (中国語)",
+                  "romaji": "Chuugokugo",
+                  "meaning": "Bahasa Mandarin / Tionghoa",
+                  "audio": "ちゅうごくご"
+                },
+                {
+                  "jp": "かんこくご (韓国語)",
+                  "romaji": "Kankokugo",
+                  "meaning": "Bahasa Korea",
+                  "audio": "かんこくご"
+                },
+                {
+                  "jp": "ことば (言葉)",
+                  "romaji": "Kotoba",
+                  "meaning": "Kata / bahasa",
+                  "audio": "ことば"
+                },
+                {
+                  "jp": "がいこく (外国)",
+                  "romaji": "Gaikoku",
+                  "meaning": "Negara asing / luar negeri",
+                  "audio": "がいこく"
+                },
+                {
+                  "jp": "がいこくじん (外国人)",
+                  "romaji": "Gaikokujin",
+                  "meaning": "Orang asing",
+                  "audio": "がいこくじん"
+                },
+                {
+                  "jp": "にほん (日本)",
+                  "romaji": "Nihon",
+                  "meaning": "Jepang",
+                  "audio": "にほん"
+                },
+                {
+                  "jp": "オーストラリア",
+                  "romaji": "Oosutoraria",
+                  "meaning": "Australia",
+                  "audio": "オーストラリア"
+                },
+                {
+                  "jp": "アメリカ",
+                  "romaji": "Amerika",
+                  "meaning": "Amerika Serikat",
+                  "audio": "アメリカ"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "にほんごを べんきょうします。",
+                  "romaji": "Nihongo o benkyou shimasu.",
+                  "meaning": "Saya belajar bahasa Jepang.",
+                  "audio": "にほんごをべんきょうします。"
+                },
+                {
+                  "jp": "えいごを はなします。",
+                  "romaji": "Eigo o hanashimasu.",
+                  "meaning": "Saya berbicara bahasa Inggris.",
+                  "audio": "えいごをはなします。"
+                },
+                {
+                  "jp": "がいこくごを べんきょうします。",
+                  "romaji": "Gaikokugo o benkyou shimasu.",
+                  "meaning": "Saya belajar bahasa asing.",
+                  "audio": "がいこくごをべんきょうします。"
+                },
+                {
+                  "jp": "インドネシアごを はなします。",
+                  "romaji": "Indoneshia-go o hanashimasu.",
+                  "meaning": "Saya berbicara bahasa Indonesia.",
+                  "audio": "インドネシアごをはなします。"
+                },
+                {
+                  "jp": "ちゅうごくごの ほんを よみます。",
+                  "romaji": "Chuugokugo no hon o yomimasu.",
+                  "meaning": "Saya membaca buku berbahasa Mandarin.",
+                  "audio": "ちゅうごくごのほんをよみます。"
+                },
+                {
+                  "jp": "かんこくごの うたを ききます。",
+                  "romaji": "Kankokugo no uta o kikimasu.",
+                  "meaning": "Saya mendengarkan lagu berbahasa Korea.",
+                  "audio": "かんこくごのうたをききます。"
+                },
+                {
+                  "jp": "この ことばの いみは なんですか。",
+                  "romaji": "Kono kotoba no imi wa nan desu ka.",
+                  "meaning": "Apa arti kata ini?",
+                  "audio": "このことばのいみはなんですか。"
+                },
+                {
+                  "jp": "がいこくへ いきます。",
+                  "romaji": "Gaikoku e ikimasu.",
+                  "meaning": "Saya pergi ke luar negeri.",
+                  "audio": "がいこくへいきます。"
+                },
+                {
+                  "jp": "あのひとは がいこくじんです。",
+                  "romaji": "Ano hito wa gaikokujin desu.",
+                  "meaning": "Orang itu adalah orang asing.",
+                  "audio": "あのひとはがいこくじんです。"
+                },
+                {
+                  "jp": "にほんへ いきます。",
+                  "romaji": "Nihon e ikimasu.",
+                  "meaning": "Saya pergi ke Jepang.",
+                  "audio": "にほんへいきます。"
+                },
+                {
+                  "jp": "オーストラリアへ いきたいです。",
+                  "romaji": "Oosutoraria e ikitai desu.",
+                  "meaning": "Saya ingin pergi ke Australia.",
+                  "audio": "オーストラリアへいきたいです。"
+                },
+                {
+                  "jp": "アメリカから きました。",
+                  "romaji": "Amerika kara kimashita.",
+                  "meaning": "Saya datang dari Amerika Serikat.",
+                  "audio": "アメリカからきました。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "18.4",
+          "title": "Konsep dan Hal Abstrak（概念と抽象・がいねんとちゅうしょう）",
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "いみ (意味)",
+                  "romaji": "Imi",
+                  "meaning": "Arti / makna",
+                  "audio": "いみ"
+                },
+                {
+                  "jp": "もんだい (問題)",
+                  "romaji": "Mondai",
+                  "meaning": "Masalah / soal",
+                  "audio": "もんだい"
+                },
+                {
+                  "jp": "こたえ (答え)",
+                  "romaji": "Kotae",
+                  "meaning": "Jawaban",
+                  "audio": "こたえ"
+                },
+                {
+                  "jp": "まちがい (間違い)",
+                  "romaji": "Machigai",
+                  "meaning": "Kesalahan",
+                  "audio": "まちがい"
+                },
+                {
+                  "jp": "やくそく (約束)",
+                  "romaji": "Yakusoku",
+                  "meaning": "Janji",
+                  "audio": "やくそく"
+                },
+                {
+                  "jp": "へんじ (返事)",
+                  "romaji": "Henji",
+                  "meaning": "Jawaban / balasan",
+                  "audio": "へんじ"
+                },
+                {
+                  "jp": "きもち (気持ち)",
+                  "romaji": "Kimochi",
+                  "meaning": "Perasaan",
+                  "audio": "きもち"
+                },
+                {
+                  "jp": "ゆめ (夢)",
+                  "romaji": "Yume",
+                  "meaning": "Mimpi",
+                  "audio": "ゆめ"
+                },
+                {
+                  "jp": "じゅんび (準備)",
+                  "romaji": "Junbi",
+                  "meaning": "Persiapan",
+                  "audio": "じゅんび"
+                },
+                {
+                  "jp": "りゆう (理由)",
+                  "romaji": "Riyuu",
+                  "meaning": "Alasan",
+                  "audio": "りゆう"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "この ことばの いみは なんですか。",
+                  "romaji": "Kono kotoba no imi wa nan desu ka.",
+                  "meaning": "Apa arti kata ini?",
+                  "audio": "このことばのいみはなんですか。"
+                },
+                {
+                  "jp": "この もんだいは むずかしいです。",
+                  "romaji": "Kono mondai wa muzukashii desu.",
+                  "meaning": "Soal ini sulit.",
+                  "audio": "このもんだいはむずかしいです。"
+                },
+                {
+                  "jp": "こたえを かいてください。",
+                  "romaji": "Kotae o kaite kudasai.",
+                  "meaning": "Tolong tuliskan jawabannya.",
+                  "audio": "こたえをかいてください。"
+                },
+                {
+                  "jp": "これは まちがいです。",
+                  "romaji": "Kore wa machigai desu.",
+                  "meaning": "Ini adalah kesalahan.",
+                  "audio": "これはまちがいです。"
+                },
+                {
+                  "jp": "あした ともだちと やくそくが あります。",
+                  "romaji": "Ashita tomodachi to yakusoku ga arimasu.",
+                  "meaning": "Besok saya punya janji dengan teman.",
+                  "audio": "あしたともだちとやくそくがあります。"
+                },
+                {
+                  "jp": "メールの へんじを します。",
+                  "romaji": "Meeru no henji o shimasu.",
+                  "meaning": "Saya membalas email.",
+                  "audio": "めーるのへんじをします。"
+                },
+                {
+                  "jp": "きょうは きもちが いいです。",
+                  "romaji": "Kyou wa kimochi ga ii desu.",
+                  "meaning": "Hari ini rasanya menyenangkan.",
+                  "audio": "きょうはきもちがいいです。"
+                },
+                {
+                  "jp": "ゆうべ ゆめを みました。",
+                  "romaji": "Yuube yume o mimashita.",
+                  "meaning": "Tadi malam saya bermimpi.",
+                  "audio": "ゆうべゆめをみました。"
+                },
+                {
+                  "jp": "でかける じゅんびを します。",
+                  "romaji": "Dekakeru junbi o shimasu.",
+                  "meaning": "Saya bersiap-siap untuk pergi.",
+                  "audio": "でかけるじゅんびをします。"
+                },
+                {
+                  "jp": "やすむ りゆうは なんですか。",
+                  "romaji": "Yasumu riyuu wa nan desu ka.",
+                  "meaning": "Apa alasan untuk beristirahat?",
+                  "audio": "やすむりゆうはなんですか。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "18.5",
+          "title": "Posisi dan Arah（位置と方向・いちとほうこう）",
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "うえ (上)",
+                  "romaji": "Ue",
+                  "meaning": "Atas",
+                  "audio": "うえ"
+                },
+                {
+                  "jp": "した (下)",
+                  "romaji": "Shita",
+                  "meaning": "Bawah",
+                  "audio": "した"
+                },
+                {
+                  "jp": "まえ (前)",
+                  "romaji": "Mae",
+                  "meaning": "Depan",
+                  "audio": "まえ"
+                },
+                {
+                  "jp": "うしろ (後ろ)",
+                  "romaji": "Ushiro",
+                  "meaning": "Belakang",
+                  "audio": "うしろ"
+                },
+                {
+                  "jp": "なか (中)",
+                  "romaji": "Naka",
+                  "meaning": "Dalam",
+                  "audio": "なか"
+                },
+                {
+                  "jp": "そと (外)",
+                  "romaji": "Soto",
+                  "meaning": "Luar",
+                  "audio": "そと"
+                },
+                {
+                  "jp": "みぎ (右)",
+                  "romaji": "Migi",
+                  "meaning": "Kanan",
+                  "audio": "みぎ"
+                },
+                {
+                  "jp": "ひだり (左)",
+                  "romaji": "Hidari",
+                  "meaning": "Kiri",
+                  "audio": "ひだり"
+                },
+                {
+                  "jp": "となり (隣)",
+                  "romaji": "Tonari",
+                  "meaning": "Sebelah / di samping",
+                  "audio": "となり"
+                },
+                {
+                  "jp": "あいだ (間)",
+                  "romaji": "Aida",
+                  "meaning": "Di antara",
+                  "audio": "あいだ"
+                },
+                {
+                  "jp": "ちかく (近く)",
+                  "romaji": "Chikaku",
+                  "meaning": "Dekat",
+                  "audio": "ちかく"
+                },
+                {
+                  "jp": "とおく (遠く)",
+                  "romaji": "Tooku",
+                  "meaning": "Jauh / di kejauhan",
+                  "audio": "とおく"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "つくえの うえに ほんが あります。",
+                  "romaji": "Tsukue no ue ni hon ga arimasu.",
+                  "meaning": "Ada buku di atas meja.",
+                  "audio": "つくえのうえにほんがあります。"
+                },
+                {
+                  "jp": "つくえの したに かばんが あります。",
+                  "romaji": "Tsukue no shita ni kaban ga arimasu.",
+                  "meaning": "Ada tas di bawah meja.",
+                  "audio": "つくえのしたにかばんがあります。"
+                },
+                {
+                  "jp": "えきの まえに みせが あります。",
+                  "romaji": "Eki no mae ni mise ga arimasu.",
+                  "meaning": "Ada toko di depan stasiun.",
+                  "audio": "えきのまえにみせがあります。"
+                },
+                {
+                  "jp": "いすの うしろに かばんが あります。",
+                  "romaji": "Isu no ushiro ni kaban ga arimasu.",
+                  "meaning": "Ada tas di belakang kursi.",
+                  "audio": "いすのうしろにかばんがあります。"
+                },
+                {
+                  "jp": "かばんの なかに ほんが あります。",
+                  "romaji": "Kaban no naka ni hon ga arimasu.",
+                  "meaning": "Ada buku di dalam tas.",
+                  "audio": "かばんのなかにほんがあります。"
+                },
+                {
+                  "jp": "いえの そとに いぬが います。",
+                  "romaji": "Ie no soto ni inu ga imasu.",
+                  "meaning": "Ada anjing di luar rumah.",
+                  "audio": "いえのそとにいぬがいます。"
+                },
+                {
+                  "jp": "つくえの みぎに いすが あります。",
+                  "romaji": "Tsukue no migi ni isu ga arimasu.",
+                  "meaning": "Ada kursi di sebelah kanan meja.",
+                  "audio": "つくえのみぎにいすがあります。"
+                },
+                {
+                  "jp": "つくえの ひだりに いすが あります。",
+                  "romaji": "Tsukue no hidari ni isu ga arimasu.",
+                  "meaning": "Ada kursi di sebelah kiri meja.",
+                  "audio": "つくえのひだりにいすがあります。"
+                },
+                {
+                  "jp": "わたしの となりに ともだちが います。",
+                  "romaji": "Watashi no tonari ni tomodachi ga imasu.",
+                  "meaning": "Ada teman di sebelah saya.",
+                  "audio": "わたしのとなりにともだちがいます。"
+                },
+                {
+                  "jp": "ぎんこうと えきの あいだに みせが あります。",
+                  "romaji": "Ginkou to eki no aida ni mise ga arimasu.",
+                  "meaning": "Ada toko di antara bank dan stasiun.",
+                  "audio": "ぎんこうとえきのあいだにみせがあります。"
+                },
+                {
+                  "jp": "がっこうの ちかくに こうえんが あります。",
+                  "romaji": "Gakkou no chikaku ni kouen ga arimasu.",
+                  "meaning": "Ada taman di dekat sekolah.",
+                  "audio": "がっこうのちかくにこうえんがあります。"
+                },
+                {
+                  "jp": "とおくに やまが あります。",
+                  "romaji": "Tooku ni yama ga arimasu.",
+                  "meaning": "Ada gunung di kejauhan.",
+                  "audio": "とおくにやまがあります。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

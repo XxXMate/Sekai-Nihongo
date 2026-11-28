@@ -2,19 +2,19 @@
   "groups": [
     {
       "number": 14,
-      "title": "Kelompok 14 — Kata Ganti Orang & Sistem Penunjuk",
+      "title": "Kata Ganti Orang dan Kata Penunjuk（人称代名詞と指示語・にんしょうだいめいしとしじご）",
       "description": "Pelajari kata ganti orang serta kata penunjuk benda dan tempat melalui kosakata dan contoh kalimat sederhana.",
       "subgroups": [
         {
           "number": "14.1",
-          "title": "Kata Ganti Orang (人称代名詞・にんしょうだいめいし)",
+          "title": "Kata Ganti Orang（人称代名詞・にんしょうだいめいし）",
           "note": {
             "title": "Catatan",
             "intro": "Dalam percakapan bahasa Jepang, kata ganti orang sering dihilangkan jika orang yang dibicarakan sudah jelas dari konteks. あなた terkadang terdengar terlalu langsung; menyebut nama ditambah さん sering lebih alami. かれ (彼) dan かのじょ (彼女) juga dapat berarti pacar laki-laki atau perempuan, sesuai konteks."
           },
           "tabs": [
             {
-              "title": "Kata Ganti Orang",
+              "title": "Kosakata",
               "words": [
                 {
                   "jp": "わたし (私)",
@@ -123,14 +123,14 @@
         },
         {
           "number": "14.2",
-          "title": "Penunjuk Benda (物を指す言葉・ものをさすことば)",
+          "title": "Kata Penunjuk Benda（物を指す言葉・ものをさすことば）",
           "note": {
             "title": "Catatan",
             "intro": "         これ・それ・あれ・どれ dapat berdiri sendiri untuk menunjuk benda. Sedangkan この・その・あの・どの harus diikuti kata benda, misalnya このほん (buku ini)."
           },
           "tabs": [
             {
-              "title": "Penunjuk Benda",
+              "title": "Kosakata",
               "words": [
                 {
                   "jp": "これ",
@@ -239,14 +239,14 @@
         },
         {
           "number": "14.3",
-          "title": "Penunjuk Tempat (場所を表す言葉・ばしょをあらわすことば)",
+          "title": "Kata Penunjuk Tempat（場所を指す言葉・ばしょをさすことば）",
           "note": {
             "title": "Catatan",
             "intro": "ここ・そこ・あそこ・どこ digunakan untuk menunjukkan lokasi. Sedangkan こちら・そちら・あちら・どちら merupakan bentuk yang lebih sopan dan juga dapat digunakan untuk menunjukkan tempat atau arah."
           },
           "tabs": [
             {
-              "title": "Penunjuk Tempat",
+              "title": "Kosakata",
               "words": [
                 {
                   "jp": "ここ",

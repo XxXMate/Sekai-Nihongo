@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 13,
-      "title": "Kelompok 13 — Kata Keterangan",
+      "title": "Kata Keterangan（副詞・ふくし）",
       "description": "Kosakata adverbia dasar dan contoh kalimat yang menggunakan kata keterangan dalam kehidupan sehari-hari.",
       "subgroups": [
         {
           "number": "13.1",
-          "title": "Adverbia (副詞・ふくし)",
+          "title": "Kata Keterangan（副詞・ふくし）",
           "words": [
             {
               "jp": "いつも",
@@ -103,7 +103,7 @@
         },
         {
           "number": "13.2",
-          "title": "Kalimat Adverbia (副詞を使った文・ふくしをつかったぶん)",
+          "title": "Contoh Kalimat dengan Kata Keterangan（副詞を使った文・ふくしをつかったぶん）",
           "note": {
             "title": "Catatan Materi",
             "intro": "Kata keterangan (副詞・ふくし) digunakan untuk memberikan informasi tambahan pada kata kerja atau keadaan, seperti seberapa sering, seberapa banyak, dan kapan suatu kegiatan dilakukan. Kata keterangan biasanya diletakkan sebelum kata kerja atau bagian kalimat yang dijelaskannya. Contoh: いつも学校へ行きます (selalu pergi ke sekolah). Perhatikan juga kata あまり dan ぜんぜん yang umumnya digunakan bersama bentuk negatif. Contoh: あまり食べません (tidak terlalu banyak makan) dan ぜんぜん分かりません (sama sekali tidak mengerti)."

@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 10,
-      "title": "Kelompok 10 — Warna",
+      "title": "Warna（色・いろ）",
       "description": "Kosakata warna dasar dan contoh kalimat menggunakan warna.",
       "subgroups": [
         {
           "number": "10.1",
-          "title": "Warna Dasar (基本の色・きほんのいろ)",
+          "title": "Warna Dasar（基本の色・きほんのいろ）",
           "words": [
             {
               "jp": "いろ (色)",
@@ -79,7 +79,7 @@
         },
         {
           "number": "10.2",
-          "title": "Kalimat tentang Warna (色を使った文・いろをつかったぶん)",
+          "title": "Contoh Kalimat tentang Warna（色を使った文・いろをつかったぶん）",
           "words": [
             {
               "jp": "これは赤いかばんです。",

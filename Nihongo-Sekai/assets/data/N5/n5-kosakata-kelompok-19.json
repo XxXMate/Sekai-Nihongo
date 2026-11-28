@@ -1,0 +1,623 @@
+{
+  "groups": [
+    {
+      "number": 19,
+      "title": "Kosakata Tambahan（追加の語彙・ついかのごい）",
+      "description": "Pelajari kata sifat-na, kata keterangan, dan kosakata Katakana tambahan yang berguna dalam kehidupan sehari-hari.",
+      "subgroups": [
+        {
+          "number": "19.1",
+          "title": "Kata Sifat-Na Tambahan（追加のナ形容詞・ついかのなけいようし）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kata sifat-na menggunakan な ketika menerangkan kata benda, misalnya すてきな へや (kamar yang indah). Beberapa kata seperti むり dan しんぱい juga sering digunakan sebagai ungkapan atau kata benda, bergantung pada kalimat."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "りっぱ (立派)",
+                  "romaji": "Rippa",
+                  "meaning": "Hebat / mengagumkan",
+                  "audio": "りっぱ"
+                },
+                {
+                  "jp": "じゃま (邪魔)",
+                  "romaji": "Jama",
+                  "meaning": "Mengganggu / menghalangi",
+                  "audio": "じゃま"
+                },
+                {
+                  "jp": "むり (無理)",
+                  "romaji": "Muri",
+                  "meaning": "Tidak mungkin / di luar kemampuan",
+                  "audio": "むり"
+                },
+                {
+                  "jp": "すてき (素敵)",
+                  "romaji": "Suteki",
+                  "meaning": "Indah / menawan",
+                  "audio": "すてき"
+                },
+                {
+                  "jp": "じゆう (自由)",
+                  "romaji": "Jiyuu",
+                  "meaning": "Bebas / leluasa",
+                  "audio": "じゆう"
+                },
+                {
+                  "jp": "ざんねん (残念)",
+                  "romaji": "Zannen",
+                  "meaning": "Sayang sekali / disayangkan",
+                  "audio": "ざんねん"
+                },
+                {
+                  "jp": "まじめ (真面目)",
+                  "romaji": "Majime",
+                  "meaning": "Serius / tekun",
+                  "audio": "まじめ"
+                },
+                {
+                  "jp": "あんぜん (安全)",
+                  "romaji": "Anzen",
+                  "meaning": "Aman",
+                  "audio": "あんぜん"
+                },
+                {
+                  "jp": "きけん (危険)",
+                  "romaji": "Kiken",
+                  "meaning": "Berbahaya",
+                  "audio": "きけん"
+                },
+                {
+                  "jp": "ふべん (不便)",
+                  "romaji": "Fuben",
+                  "meaning": "Tidak praktis / tidak nyaman",
+                  "audio": "ふべん"
+                },
+                {
+                  "jp": "じょうぶ (丈夫)",
+                  "romaji": "Joubu",
+                  "meaning": "Kuat / tahan lama",
+                  "audio": "じょうぶ"
+                },
+                {
+                  "jp": "ひつよう (必要)",
+                  "romaji": "Hitsuyou",
+                  "meaning": "Perlu / diperlukan",
+                  "audio": "ひつよう"
+                },
+                {
+                  "jp": "しんぱい (心配)",
+                  "romaji": "Shinpai",
+                  "meaning": "Khawatir",
+                  "audio": "しんぱい"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "あの ひとは りっぱな せんせいです。",
+                  "romaji": "Ano hito wa rippa na sensei desu.",
+                  "meaning": "Orang itu adalah guru yang hebat.",
+                  "audio": "あのひとはりっぱなせんせいです。"
+                },
+                {
+                  "jp": "ここに くるまを とめると じゃまです。",
+                  "romaji": "Koko ni kuruma o tomeru to jama desu.",
+                  "meaning": "Kalau mobil diparkir di sini, itu menghalangi.",
+                  "audio": "ここにくるまをとめるとじゃまです。"
+                },
+                {
+                  "jp": "それは むりです。",
+                  "romaji": "Sore wa muri desu.",
+                  "meaning": "Itu tidak mungkin.",
+                  "audio": "それはむりです。"
+                },
+                {
+                  "jp": "すてきな へやですね。",
+                  "romaji": "Suteki na heya desu ne.",
+                  "meaning": "Kamarnya bagus sekali, ya.",
+                  "audio": "すてきなへやですね。"
+                },
+                {
+                  "jp": "あしたは じゆうな じかんが あります。",
+                  "romaji": "Ashita wa jiyuu na jikan ga arimasu.",
+                  "meaning": "Besok saya punya waktu luang.",
+                  "audio": "あしたはじゆうなじかんがあります。"
+                },
+                {
+                  "jp": "きょうは あめです。ざんねんです。",
+                  "romaji": "Kyou wa ame desu. Zannen desu.",
+                  "meaning": "Hari ini hujan. Sayang sekali.",
+                  "audio": "きょうはあめです。ざんねんです。"
+                },
+                {
+                  "jp": "あの がくせいは まじめです。",
+                  "romaji": "Ano gakusei wa majime desu.",
+                  "meaning": "Pelajar itu tekun.",
+                  "audio": "あのがくせいはまじめです。"
+                },
+                {
+                  "jp": "この みちは あんぜんです。",
+                  "romaji": "Kono michi wa anzen desu.",
+                  "meaning": "Jalan ini aman.",
+                  "audio": "このみちはあんぜんです。"
+                },
+                {
+                  "jp": "ここは きけんです。",
+                  "romaji": "Koko wa kiken desu.",
+                  "meaning": "Tempat ini berbahaya.",
+                  "audio": "ここはきけんです。"
+                },
+                {
+                  "jp": "バスが ありません。ふべんです。",
+                  "romaji": "Basu ga arimasen. Fuben desu.",
+                  "meaning": "Tidak ada bus. Ini tidak praktis.",
+                  "audio": "ばすがありません。ふべんです。"
+                },
+                {
+                  "jp": "この かばんは じょうぶです。",
+                  "romaji": "Kono kaban wa joubu desu.",
+                  "meaning": "Tas ini kuat.",
+                  "audio": "このかばんはじょうぶです。"
+                },
+                {
+                  "jp": "パスポートが ひつようです。",
+                  "romaji": "Pasupooto ga hitsuyou desu.",
+                  "meaning": "Paspor diperlukan.",
+                  "audio": "ぱすぽーとがひつようです。"
+                },
+                {
+                  "jp": "あしたの てんきが しんぱいです。",
+                  "romaji": "Ashita no tenki ga shinpai desu.",
+                  "meaning": "Saya khawatir tentang cuaca besok.",
+                  "audio": "あしたのてんきがしんぱいです。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "19.2",
+          "title": "Kata Keterangan Tambahan（追加の副詞・ついかのふくし）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kata keterangan memberi informasi tambahan tentang waktu, jumlah, tingkat, urutan, atau cara suatu kegiatan. Perhatikan maknanya sesuai konteks kalimat."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "そろそろ",
+                  "romaji": "Sorosoro",
+                  "meaning": "Sebentar lagi / sudah waktunya",
+                  "audio": "そろそろ"
+                },
+                {
+                  "jp": "ぜんぶ (全部)",
+                  "romaji": "Zenbu",
+                  "meaning": "Semua / seluruhnya",
+                  "audio": "ぜんぶ"
+                },
+                {
+                  "jp": "とくに (特に)",
+                  "romaji": "Tokuni",
+                  "meaning": "Terutama / khususnya",
+                  "audio": "とくに"
+                },
+                {
+                  "jp": "きゅうに (急に)",
+                  "romaji": "Kyuuni",
+                  "meaning": "Tiba-tiba",
+                  "audio": "きゅうに"
+                },
+                {
+                  "jp": "かならず (必ず)",
+                  "romaji": "Kanarazu",
+                  "meaning": "Pasti / tanpa gagal",
+                  "audio": "かならず"
+                },
+                {
+                  "jp": "やっと",
+                  "romaji": "Yatto",
+                  "meaning": "Akhirnya",
+                  "audio": "やっと"
+                },
+                {
+                  "jp": "だんだん",
+                  "romaji": "Dandan",
+                  "meaning": "Berangsur-angsur / semakin lama",
+                  "audio": "だんだん"
+                },
+                {
+                  "jp": "だいたい (大体)",
+                  "romaji": "Daitai",
+                  "meaning": "Kira-kira / secara umum",
+                  "audio": "だいたい"
+                },
+                {
+                  "jp": "たぶん (多分)",
+                  "romaji": "Tabun",
+                  "meaning": "Mungkin",
+                  "audio": "たぶん"
+                },
+                {
+                  "jp": "きっと",
+                  "romaji": "Kitto",
+                  "meaning": "Pasti / tentu",
+                  "audio": "きっと"
+                },
+                {
+                  "jp": "ぜひ",
+                  "romaji": "Zehi",
+                  "meaning": "Sangat ingin / silakan",
+                  "audio": "ぜひ"
+                },
+                {
+                  "jp": "まず",
+                  "romaji": "Mazu",
+                  "meaning": "Pertama-tama",
+                  "audio": "まず"
+                },
+                {
+                  "jp": "もっと",
+                  "romaji": "Motto",
+                  "meaning": "Lebih / lebih banyak",
+                  "audio": "もっと"
+                },
+                {
+                  "jp": "いちばん (一番)",
+                  "romaji": "Ichiban",
+                  "meaning": "Paling / nomor satu",
+                  "audio": "いちばん"
+                },
+                {
+                  "jp": "ちょうど",
+                  "romaji": "Choudo",
+                  "meaning": "Tepat / pas",
+                  "audio": "ちょうど"
+                },
+                {
+                  "jp": "まっすぐ",
+                  "romaji": "Massugu",
+                  "meaning": "Lurus",
+                  "audio": "まっすぐ"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "そろそろ かえりましょう。",
+                  "romaji": "Sorosoro kaerimashou.",
+                  "meaning": "Sebentar lagi, ayo pulang.",
+                  "audio": "そろそろかえりましょう。"
+                },
+                {
+                  "jp": "ケーキを ぜんぶ たべました。",
+                  "romaji": "Keeki o zenbu tabemashita.",
+                  "meaning": "Saya sudah makan semua kuenya.",
+                  "audio": "けーきをぜんぶたべました。"
+                },
+                {
+                  "jp": "くだものが すきです。とくに りんごが すきです。",
+                  "romaji": "Kudamono ga suki desu. Tokuni ringo ga suki desu.",
+                  "meaning": "Saya suka buah. Terutama, saya suka apel.",
+                  "audio": "くだものがすきです。とくにりんごがすきです。"
+                },
+                {
+                  "jp": "きゅうに あめが ふりました。",
+                  "romaji": "Kyuuni ame ga furimashita.",
+                  "meaning": "Tiba-tiba hujan turun.",
+                  "audio": "きゅうにあめがふりました。"
+                },
+                {
+                  "jp": "まいにち かならず ふくしゅうします。",
+                  "romaji": "Mainichi kanarazu fukushuu shimasu.",
+                  "meaning": "Saya selalu memastikan untuk mengulang pelajaran setiap hari.",
+                  "audio": "まいにちかならずふくしゅうします。"
+                },
+                {
+                  "jp": "やっと しゅくだいが おわりました。",
+                  "romaji": "Yatto shukudai ga owarimashita.",
+                  "meaning": "Akhirnya PR selesai.",
+                  "audio": "やっとしゅくだいがおわりました。"
+                },
+                {
+                  "jp": "だんだん あたたかく なります。",
+                  "romaji": "Dandan atatakaku narimasu.",
+                  "meaning": "Lama-kelamaan cuaca menjadi hangat.",
+                  "audio": "だんだんあたたかくなります。"
+                },
+                {
+                  "jp": "だいたい わかりました。",
+                  "romaji": "Daitai wakarimashita.",
+                  "meaning": "Saya sudah memahami garis besarnya.",
+                  "audio": "だいたいわかりました。"
+                },
+                {
+                  "jp": "あしたは たぶん はれです。",
+                  "romaji": "Ashita wa tabun hare desu.",
+                  "meaning": "Besok mungkin cerah.",
+                  "audio": "あしたはたぶんはれです。"
+                },
+                {
+                  "jp": "かれは きっと きます。",
+                  "romaji": "Kare wa kitto kimasu.",
+                  "meaning": "Dia pasti akan datang.",
+                  "audio": "かれはきっときます。"
+                },
+                {
+                  "jp": "ぜひ にほんへ きてください。",
+                  "romaji": "Zehi Nihon e kite kudasai.",
+                  "meaning": "Silakan datang ke Jepang, ya.",
+                  "audio": "ぜひにほんへきてください。"
+                },
+                {
+                  "jp": "まず てを あらいます。",
+                  "romaji": "Mazu te o araimasu.",
+                  "meaning": "Pertama-tama, saya mencuci tangan.",
+                  "audio": "まずてをあらいます。"
+                },
+                {
+                  "jp": "もっと ゆっくり はなしてください。",
+                  "romaji": "Motto yukkuri hanashite kudasai.",
+                  "meaning": "Tolong berbicara lebih pelan.",
+                  "audio": "もっとゆっくりはなしてください。"
+                },
+                {
+                  "jp": "これが いちばん すきです。",
+                  "romaji": "Kore ga ichiban suki desu.",
+                  "meaning": "Saya paling suka yang ini.",
+                  "audio": "これがいちばんすきです。"
+                },
+                {
+                  "jp": "ちょうど さんじです。",
+                  "romaji": "Choudo sanji desu.",
+                  "meaning": "Tepat pukul tiga.",
+                  "audio": "ちょうどさんじです。"
+                },
+                {
+                  "jp": "この みちを まっすぐ いってください。",
+                  "romaji": "Kono michi o massugu itte kudasai.",
+                  "meaning": "Silakan jalan lurus melalui jalan ini.",
+                  "audio": "このみちをまっすぐいってください。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "19.3",
+          "title": "Kosakata Katakana Tambahan（追加のカタカナ語・ついかのカタカナご）",
+          "note": {
+            "title": "Catatan Penggunaan",
+            "intro": "Kosakata Katakana ini sering dijumpai di rumah, tempat umum, restoran, dan kehidupan sehari-hari. コップ, カップ, dan グラス memiliki penggunaan yang berdekatan tetapi tidak selalu dapat saling menggantikan. ボールペン adalah jenis khusus dari ペン."
+          },
+          "tabs": [
+            {
+              "title": "Kosakata",
+              "words": [
+                {
+                  "jp": "シャワー",
+                  "romaji": "Shawaa",
+                  "meaning": "Pancuran / shower",
+                  "audio": "シャワー"
+                },
+                {
+                  "jp": "ニュース",
+                  "romaji": "Nyuusu",
+                  "meaning": "Berita",
+                  "audio": "ニュース"
+                },
+                {
+                  "jp": "ボタン",
+                  "romaji": "Botan",
+                  "meaning": "Tombol / kancing",
+                  "audio": "ボタン"
+                },
+                {
+                  "jp": "フォーク",
+                  "romaji": "Fooku",
+                  "meaning": "Garpu",
+                  "audio": "フォーク"
+                },
+                {
+                  "jp": "ストーブ",
+                  "romaji": "Sutoobu",
+                  "meaning": "Pemanas ruangan",
+                  "audio": "ストーブ"
+                },
+                {
+                  "jp": "エアコン",
+                  "romaji": "Eakon",
+                  "meaning": "AC / pendingin ruangan",
+                  "audio": "エアコン"
+                },
+                {
+                  "jp": "ボールペン",
+                  "romaji": "Boorupen",
+                  "meaning": "Pulpen bola",
+                  "audio": "ボールペン"
+                },
+                {
+                  "jp": "コップ",
+                  "romaji": "Koppu",
+                  "meaning": "Gelas minum",
+                  "audio": "コップ"
+                },
+                {
+                  "jp": "カップ",
+                  "romaji": "Kappu",
+                  "meaning": "Cangkir",
+                  "audio": "カップ"
+                },
+                {
+                  "jp": "グラス",
+                  "romaji": "Gurasu",
+                  "meaning": "Gelas minum (umumnya gelas kaca)",
+                  "audio": "グラス"
+                },
+                {
+                  "jp": "スプーン",
+                  "romaji": "Supuun",
+                  "meaning": "Sendok",
+                  "audio": "スプーン"
+                },
+                {
+                  "jp": "ナイフ",
+                  "romaji": "Naifu",
+                  "meaning": "Pisau",
+                  "audio": "ナイフ"
+                },
+                {
+                  "jp": "ドア",
+                  "romaji": "Doa",
+                  "meaning": "Pintu",
+                  "audio": "ドア"
+                },
+                {
+                  "jp": "エレベーター",
+                  "romaji": "Erebeetaa",
+                  "meaning": "Lift",
+                  "audio": "エレベーター"
+                },
+                {
+                  "jp": "エスカレーター",
+                  "romaji": "Esukareetaa",
+                  "meaning": "Eskalator",
+                  "audio": "エスカレーター"
+                },
+                {
+                  "jp": "トイレ",
+                  "romaji": "Toire",
+                  "meaning": "Toilet",
+                  "audio": "トイレ"
+                },
+                {
+                  "jp": "カーテン",
+                  "romaji": "Kaaten",
+                  "meaning": "Tirai / gorden",
+                  "audio": "カーテン"
+                }
+              ]
+            },
+            {
+              "title": "Contoh Kalimat",
+              "words": [
+                {
+                  "jp": "まいあさ シャワーを あびます。",
+                  "romaji": "Maiasa shawaa o abimasu.",
+                  "meaning": "Saya mandi dengan shower setiap pagi.",
+                  "audio": "まいあさしゃわーをあびます。"
+                },
+                {
+                  "jp": "まいばん ニュースを みます。",
+                  "romaji": "Maiban nyuusu o mimasu.",
+                  "meaning": "Saya menonton berita setiap malam.",
+                  "audio": "まいばんにゅーすをみます。"
+                },
+                {
+                  "jp": "この ボタンを おしてください。",
+                  "romaji": "Kono botan o oshite kudasai.",
+                  "meaning": "Tolong tekan tombol ini.",
+                  "audio": "このぼたんをおしてください。"
+                },
+                {
+                  "jp": "フォークで たべます。",
+                  "romaji": "Fooku de tabemasu.",
+                  "meaning": "Saya makan menggunakan garpu.",
+                  "audio": "ふぉーくでたべます。"
+                },
+                {
+                  "jp": "さむいです。ストーブを つけます。",
+                  "romaji": "Samui desu. Sutoobu o tsukemasu.",
+                  "meaning": "Dingin. Saya menyalakan pemanas ruangan.",
+                  "audio": "さむいです。すとーぶをつけます。"
+                },
+                {
+                  "jp": "あついです。エアコンを つけます。",
+                  "romaji": "Atsui desu. Eakon o tsukemasu.",
+                  "meaning": "Panas. Saya menyalakan AC.",
+                  "audio": "あついです。えあこんをつけます。"
+                },
+                {
+                  "jp": "ボールペンで なまえを かきます。",
+                  "romaji": "Boorupen de namae o kakimasu.",
+                  "meaning": "Saya menulis nama dengan pulpen bola.",
+                  "audio": "ぼーるぺんでなまえをかきます。"
+                },
+                {
+                  "jp": "コップで みずを のみます。",
+                  "romaji": "Koppu de mizu o nomimasu.",
+                  "meaning": "Saya minum air dari gelas.",
+                  "audio": "こっぷでみずをのみます。"
+                },
+                {
+                  "jp": "コーヒーを カップに いれます。",
+                  "romaji": "Koohii o kappu ni iremasu.",
+                  "meaning": "Saya menuangkan kopi ke dalam cangkir.",
+                  "audio": "こーひーをかっぷにいれます。"
+                },
+                {
+                  "jp": "つめたい みずを グラスに いれます。",
+                  "romaji": "Tsumetai mizu o gurasu ni iremasu.",
+                  "meaning": "Saya menuangkan air dingin ke dalam gelas.",
+                  "audio": "つめたいみずをぐらすにいれます。"
+                },
+                {
+                  "jp": "スプーンを つかいます。",
+                  "romaji": "Supuun o tsukaimasu.",
+                  "meaning": "Saya menggunakan sendok.",
+                  "audio": "すぷーんをつかいます。"
+                },
+                {
+                  "jp": "ナイフで パンを きります。",
+                  "romaji": "Naifu de pan o kirimasu.",
+                  "meaning": "Saya memotong roti dengan pisau.",
+                  "audio": "ないふでぱんをきります。"
+                },
+                {
+                  "jp": "ドアを あけてください。",
+                  "romaji": "Doa o akete kudasai.",
+                  "meaning": "Tolong buka pintu.",
+                  "audio": "どあをあけてください。"
+                },
+                {
+                  "jp": "エレベーターで いきます。",
+                  "romaji": "Erebeetaa de ikimasu.",
+                  "meaning": "Saya pergi menggunakan lift.",
+                  "audio": "えれべーたーでいきます。"
+                },
+                {
+                  "jp": "エスカレーターに のります。",
+                  "romaji": "Esukareetaa ni norimasu.",
+                  "meaning": "Saya naik eskalator.",
+                  "audio": "えすかれーたーにのります。"
+                },
+                {
+                  "jp": "トイレは どこですか。",
+                  "romaji": "Toire wa doko desu ka.",
+                  "meaning": "Toilet ada di mana?",
+                  "audio": "といれはどこですか。"
+                },
+                {
+                  "jp": "カーテンを しめます。",
+                  "romaji": "Kaaten o shimemasu.",
+                  "meaning": "Saya menutup tirai.",
+                  "audio": "かーてんをしめます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

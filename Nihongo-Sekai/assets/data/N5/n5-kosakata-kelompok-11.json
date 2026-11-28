@@ -2,12 +2,12 @@
   "groups": [
     {
       "number": 11,
-      "title": "Kelompok 11 — Bagian Tubuh",
+      "title": "Bagian Tubuh（体の部分・からだのぶぶん）",
       "description": "Kosakata bagian tubuh dan contoh kalimat sederhana yang menggunakannya.",
       "subgroups": [
         {
           "number": "11.1",
-          "title": "Bagian Tubuh (体の部分・からだのぶぶん)",
+          "title": "Bagian Tubuh（体の部分・からだのぶぶん）",
           "words": [
             {
               "jp": "からだ (体)",
@@ -127,7 +127,7 @@
         },
         {
           "number": "11.2",
-          "title": "Kalimat Bagian Tubuh (体についての文・からだについてのぶん)",
+          "title": "Contoh Kalimat tentang Bagian Tubuh（体についての文・からだについてのぶん）",
           "words": [
             {
               "jp": "頭が痛いです。",
