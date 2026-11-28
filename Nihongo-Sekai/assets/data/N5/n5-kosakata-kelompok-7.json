@@ -16,61 +16,61 @@
                   "jp": "ごはん (ご飯)",
                   "romaji": "Gohan",
                   "meaning": "Nasi",
-                  "audio": true
+                  "audio": "ごはん"
                 },
                 {
                   "jp": "パン",
                   "romaji": "Pan",
                   "meaning": "Roti",
-                  "audio": true
+                  "audio": "パン"
                 },
                 {
                   "jp": "たまご (卵)",
                   "romaji": "Tamago",
                   "meaning": "Telur",
-                  "audio": true
+                  "audio": "たまご"
                 },
                 {
                   "jp": "にく (肉)",
                   "romaji": "Niku",
                   "meaning": "Daging",
-                  "audio": true
+                  "audio": "にく"
                 },
                 {
                   "jp": "さかな (魚)",
                   "romaji": "Sakana",
                   "meaning": "Ikan",
-                  "audio": true
+                  "audio": "さかな"
                 },
                 {
                   "jp": "やさい (野菜)",
                   "romaji": "Yasai",
                   "meaning": "Sayuran",
-                  "audio": true
+                  "audio": "やさい"
                 },
                 {
                   "jp": "くだもの (果物)",
                   "romaji": "Kudamono",
                   "meaning": "Buah-buahan",
-                  "audio": true
+                  "audio": "くだもの"
                 },
                 {
                   "jp": "ケーキ",
                   "romaji": "Keeki",
                   "meaning": "Kue",
-                  "audio": true
+                  "audio": "ケーキ"
                 },
                 {
                   "jp": "カレー",
                   "romaji": "Karee",
                   "meaning": "Kari",
-                  "audio": true
+                  "audio": "カレー"
                 },
                 {
                   "jp": "おにぎり (お握り)",
                   "romaji": "Onigiri",
                   "meaning": "Nasi kepal",
-                  "audio": true
+                  "audio": "おにぎり"
                 }
               ]
             },
@@ -152,61 +152,61 @@
                   "jp": "みず (水)",
                   "romaji": "Mizu",
                   "meaning": "Air",
-                  "audio": true
+                  "audio": "みず"
                 },
                 {
                   "jp": "おちゃ (お茶)",
                   "romaji": "Ocha",
                   "meaning": "Teh",
-                  "audio": true
+                  "audio": "おちゃ"
                 },
                 {
                   "jp": "ぎゅうにゅう (牛乳)",
                   "romaji": "Gyuunyuu",
                   "meaning": "Susu",
-                  "audio": true
+                  "audio": "ぎゅうにゅう"
                 },
                 {
                   "jp": "コーヒー",
                   "romaji": "Koohii",
                   "meaning": "Kopi",
-                  "audio": true
+                  "audio": "コーヒー"
                 },
                 {
                   "jp": "ジュース",
                   "romaji": "Juusu",
                   "meaning": "Jus",
-                  "audio": true
+                  "audio": "ジュース"
                 },
                 {
                   "jp": "こうちゃ (紅茶)",
                   "romaji": "Koucha",
                   "meaning": "Teh hitam",
-                  "audio": true
+                  "audio": "こうちゃ"
                 },
                 {
                   "jp": "コーラ",
                   "romaji": "Koora",
                   "meaning": "Cola",
-                  "audio": true
+                  "audio": "コーラ"
                 },
                 {
                   "jp": "りょくちゃ (緑茶)",
                   "romaji": "Ryokucha",
                   "meaning": "Teh hijau",
-                  "audio": true
+                  "audio": "りょくちゃ"
                 },
                 {
                   "jp": "レモンティー",
                   "romaji": "Remon tii",
                   "meaning": "Teh lemon",
-                  "audio": true
+                  "audio": "レモンティー"
                 },
                 {
                   "jp": "ミルクティー",
                   "romaji": "Miruku tii",
                   "meaning": "Teh susu",
-                  "audio": true
+                  "audio": "ミルクティー"
                 }
               ]
             },

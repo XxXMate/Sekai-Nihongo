@@ -16,7 +16,7 @@
                   "jp": "ふく (服)",
                   "romaji": "Fuku",
                   "meaning": "Pakaian",
-                  "audio": true,
+                  "audio": "ふく",
                   "example": "ふくを きます。",
                   "exampleRomaji": "Fuku o kimasu.",
                   "translation": "Saya memakai pakaian."
@@ -25,7 +25,7 @@
                   "jp": "シャツ",
                   "romaji": "Shatsu",
                   "meaning": "Kemeja",
-                  "audio": true,
+                  "audio": "シャツ",
                   "example": "シャツを きます。",
                   "exampleRomaji": "Shatsu o kimasu.",
                   "translation": "Saya memakai kemeja."
@@ -34,7 +34,7 @@
                   "jp": "Tシャツ",
                   "romaji": "Tiishatsu",
                   "meaning": "Kaos",
-                  "audio": true,
+                  "audio": "ティーシャツ",
                   "example": "Tシャツを きます。",
                   "exampleRomaji": "Tiishatsu o kimasu.",
                   "translation": "Saya memakai kaos."
@@ -43,7 +43,7 @@
                   "jp": "ズボン",
                   "romaji": "Zubon",
                   "meaning": "Celana panjang",
-                  "audio": true,
+                  "audio": "ズボン",
                   "example": "ズボンを はきます。",
                   "exampleRomaji": "Zubon o hakimasu.",
                   "translation": "Saya memakai celana panjang."
@@ -52,7 +52,7 @@
                   "jp": "スカート",
                   "romaji": "Sukaato",
                   "meaning": "Rok",
-                  "audio": true,
+                  "audio": "スカート",
                   "example": "スカートを はきます。",
                   "exampleRomaji": "Sukaato o hakimasu.",
                   "translation": "Saya memakai rok."
@@ -61,7 +61,7 @@
                   "jp": "くつ (靴)",
                   "romaji": "Kutsu",
                   "meaning": "Sepatu",
-                  "audio": true,
+                  "audio": "くつ",
                   "example": "くつを はきます。",
                   "exampleRomaji": "Kutsu o hakimasu.",
                   "translation": "Saya memakai sepatu."
@@ -70,7 +70,7 @@
                   "jp": "くつした (靴下)",
                   "romaji": "Kutsushita",
                   "meaning": "Kaos kaki",
-                  "audio": true,
+                  "audio": "くつした",
                   "example": "くつしたを はきます。",
                   "exampleRomaji": "Kutsushita o hakimasu.",
                   "translation": "Saya memakai kaos kaki."
@@ -79,7 +79,7 @@
                   "jp": "ぼうし (帽子)",
                   "romaji": "Boushi",
                   "meaning": "Topi",
-                  "audio": true,
+                  "audio": "ぼうし",
                   "example": "ぼうしを かぶります。",
                   "exampleRomaji": "Boushi o kaburimasu.",
                   "translation": "Saya memakai topi."
@@ -88,7 +88,7 @@
                   "jp": "コート",
                   "romaji": "Kooto",
                   "meaning": "Mantel",
-                  "audio": true,
+                  "audio": "コート",
                   "example": "コートを きます。",
                   "exampleRomaji": "Kooto o kimasu.",
                   "translation": "Saya memakai mantel."
@@ -97,7 +97,7 @@
                   "jp": "セーター",
                   "romaji": "Seetaa",
                   "meaning": "Sweater",
-                  "audio": true,
+                  "audio": "セーター",
                   "example": "セーターを きます。",
                   "exampleRomaji": "Seetaa o kimasu.",
                   "translation": "Saya memakai sweater."
@@ -106,7 +106,7 @@
                   "jp": "うわぎ (上着)",
                   "romaji": "Uwagi",
                   "meaning": "Baju luar / jaket",
-                  "audio": true,
+                  "audio": "うわぎ",
                   "example": "うわぎを きます。",
                   "exampleRomaji": "Uwagi o kimasu.",
                   "translation": "Saya memakai baju luar."
@@ -115,7 +115,7 @@
                   "jp": "ネクタイ",
                   "romaji": "Nekutai",
                   "meaning": "Dasi",
-                  "audio": true,
+                  "audio": "ネクタイ",
                   "example": "ネクタイを しめます。",
                   "exampleRomaji": "Nekutai o shimemasu.",
                   "translation": "Saya memakai dasi."
@@ -129,7 +129,7 @@
                   "jp": "かばん (鞄)",
                   "romaji": "Kaban",
                   "meaning": "Tas",
-                  "audio": true,
+                  "audio": "かばん",
                   "example": "かばんを もちます。",
                   "exampleRomaji": "Kaban o mochimasu.",
                   "translation": "Saya membawa tas."
@@ -138,7 +138,7 @@
                   "jp": "さいふ (財布)",
                   "romaji": "Saifu",
                   "meaning": "Dompet",
-                  "audio": true,
+                  "audio": "さいふ",
                   "example": "さいふを かばんに いれます。",
                   "exampleRomaji": "Saifu o kaban ni iremasu.",
                   "translation": "Saya memasukkan dompet ke dalam tas."
@@ -147,7 +147,7 @@
                   "jp": "かぎ (鍵)",
                   "romaji": "Kagi",
                   "meaning": "Kunci",
-                  "audio": true,
+                  "audio": "かぎ",
                   "example": "かぎを つかいます。",
                   "exampleRomaji": "Kagi o tsukaimasu.",
                   "translation": "Saya menggunakan kunci."
@@ -156,7 +156,7 @@
                   "jp": "スマホ",
                   "romaji": "Sumaho",
                   "meaning": "Ponsel / HP",
-                  "audio": true,
+                  "audio": "スマホ",
                   "example": "スマホを つかいます。",
                   "exampleRomaji": "Sumaho o tsukaimasu.",
                   "translation": "Saya menggunakan ponsel."
@@ -165,7 +165,7 @@
                   "jp": "とけい (時計)",
                   "romaji": "Tokei",
                   "meaning": "Jam / arloji",
-                  "audio": true,
+                  "audio": "とけい",
                   "example": "とけいを みます。",
                   "exampleRomaji": "Tokei o mimasu.",
                   "translation": "Saya melihat jam."
@@ -174,7 +174,7 @@
                   "jp": "かさ (傘)",
                   "romaji": "Kasa",
                   "meaning": "Payung",
-                  "audio": true,
+                  "audio": "かさ",
                   "example": "かさを もちます。",
                   "exampleRomaji": "Kasa o mochimasu.",
                   "translation": "Saya membawa payung."
@@ -183,7 +183,7 @@
                   "jp": "ハンカチ",
                   "romaji": "Hankachi",
                   "meaning": "Sapu tangan",
-                  "audio": true,
+                  "audio": "ハンカチ",
                   "example": "ハンカチを もっています。",
                   "exampleRomaji": "Hankachi o motte imasu.",
                   "translation": "Saya membawa sapu tangan."
@@ -192,7 +192,7 @@
                   "jp": "ティッシュ",
                   "romaji": "Tisshu",
                   "meaning": "Tisu",
-                  "audio": true,
+                  "audio": "ティッシュ",
                   "example": "ティッシュを つかいます。",
                   "exampleRomaji": "Tisshu o tsukaimasu.",
                   "translation": "Saya menggunakan tisu."
@@ -201,7 +201,7 @@
                   "jp": "ほん (本)",
                   "romaji": "Hon",
                   "meaning": "Buku",
-                  "audio": true,
+                  "audio": "ほん",
                   "example": "ほんを よみます。",
                   "exampleRomaji": "Hon o yomimasu.",
                   "translation": "Saya membaca buku."
@@ -210,7 +210,7 @@
                   "jp": "ノート",
                   "romaji": "Nooto",
                   "meaning": "Buku catatan",
-                  "audio": true,
+                  "audio": "ノート",
                   "example": "ノートに かきます。",
                   "exampleRomaji": "Nooto ni kakimasu.",
                   "translation": "Saya menulis di buku catatan."
@@ -219,7 +219,7 @@
                   "jp": "ペン",
                   "romaji": "Pen",
                   "meaning": "Pulpen",
-                  "audio": true,
+                  "audio": "ペン",
                   "example": "ペンで かきます。",
                   "exampleRomaji": "Pen de kakimasu.",
                   "translation": "Saya menulis dengan pulpen."
@@ -228,7 +228,7 @@
                   "jp": "えんぴつ (鉛筆)",
                   "romaji": "Enpitsu",
                   "meaning": "Pensil",
-                  "audio": true,
+                  "audio": "えんぴつ",
                   "example": "えんぴつで かきます。",
                   "exampleRomaji": "Enpitsu de kakimasu.",
                   "translation": "Saya menulis dengan pensil."
@@ -237,7 +237,7 @@
                   "jp": "すいとう (水筒)",
                   "romaji": "Suitou",
                   "meaning": "Botol minum",
-                  "audio": true,
+                  "audio": "すいとう",
                   "example": "すいとうを もちます。",
                   "exampleRomaji": "Suitou o mochimasu.",
                   "translation": "Saya membawa botol minum."
@@ -246,7 +246,7 @@
                   "jp": "メガネ",
                   "romaji": "Megane",
                   "meaning": "Kacamata",
-                  "audio": true,
+                  "audio": "メガネ",
                   "example": "メガネを かけます。",
                   "exampleRomaji": "Megane o kakemasu.",
                   "translation": "Saya memakai kacamata."
@@ -263,91 +263,91 @@
               "jp": "かさを もって いきます。",
               "romaji": "Kasa o motte ikimasu.",
               "meaning": "Saya membawa payung saat pergi.",
-              "audio": true
+              "audio": "かさをもっていきます。"
             },
             {
               "jp": "くつを はきます。",
               "romaji": "Kutsu o hakimasu.",
               "meaning": "Saya memakai sepatu.",
-              "audio": true
+              "audio": "くつをはきます。"
             },
             {
               "jp": "ぼうしを かぶります。",
               "romaji": "Boushi o kaburimasu.",
               "meaning": "Saya memakai topi.",
-              "audio": true
+              "audio": "ぼうしをかぶります。"
             },
             {
               "jp": "ふくを きます。",
               "romaji": "Fuku o kimasu.",
               "meaning": "Saya memakai pakaian.",
-              "audio": true
+              "audio": "ふくをきます。"
             },
             {
               "jp": "ズボンを はきます。",
               "romaji": "Zubon o hakimasu.",
               "meaning": "Saya memakai celana panjang.",
-              "audio": true
+              "audio": "ズボンをはきます。"
             },
             {
               "jp": "かばんを もちます。",
               "romaji": "Kaban o mochimasu.",
               "meaning": "Saya membawa tas.",
-              "audio": true
+              "audio": "かばんをもちます。"
             },
             {
               "jp": "さいふは かばんの なかに あります。",
               "romaji": "Saifu wa kaban no naka ni arimasu.",
               "meaning": "Dompet ada di dalam tas.",
-              "audio": true
+              "audio": "さいふはかばんのなかにあります。"
             },
             {
               "jp": "とけいを みてください。",
               "romaji": "Tokei o mite kudasai.",
               "meaning": "Tolong lihat jam.",
-              "audio": true
+              "audio": "とけいをみてください。"
             },
             {
               "jp": "かぎは どこに ありますか。",
               "romaji": "Kagi wa doko ni arimasu ka.",
               "meaning": "Di mana kuncinya?",
-              "audio": true
+              "audio": "かぎはどこにありますか。"
             },
             {
               "jp": "スマホを つかいます。",
               "romaji": "Sumaho o tsukaimasu.",
               "meaning": "Saya menggunakan ponsel.",
-              "audio": true
+              "audio": "スマホをつかいます。"
             },
             {
               "jp": "メガネを かけます。",
               "romaji": "Megane o kakemasu.",
               "meaning": "Saya memakai kacamata.",
-              "audio": true
+              "audio": "メガネをかけます。"
             },
             {
               "jp": "ハンカチを もっています。",
               "romaji": "Hankachi o motte imasu.",
               "meaning": "Saya membawa sapu tangan.",
-              "audio": true
+              "audio": "ハンカチをもっています。"
             },
             {
               "jp": "さいふを かばんに いれます。",
               "romaji": "Saifu o kaban ni iremasu.",
               "meaning": "Saya memasukkan dompet ke dalam tas.",
-              "audio": true
+              "audio": "さいふをかばんにいれます。"
             },
             {
               "jp": "かばんを あけます。",
               "romaji": "Kaban o akemasu.",
               "meaning": "Saya membuka tas.",
-              "audio": true
+              "audio": "かばんをあけます。"
             },
             {
               "jp": "コートを きます。",
               "romaji": "Kooto o kimasu.",
               "meaning": "Saya memakai mantel.",
-              "audio": true
+              "audio": "コートをきます。"
             }
           ]
         }
